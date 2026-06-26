@@ -1,0 +1,21 @@
+.track {
+  width:         100%;
+  height:        4px;
+  background:    $color-border;
+  border-radius: $radius-full;
+  overflow:      hidden;
+
+  &.fullWidth { width: 100%; }
+}
+
+.fill {
+  height:        100%;
+  background:    $color-primary;
+  border-radius: $radius-full;
+  transition:    width $transition-normal;
+
+  &.success { background: $color-success; }
+  &.warning { background: $color-warning; }
+  &.error   { background: $color-error;   }
+  &.muted   { background: $color-text-muted; }
+}

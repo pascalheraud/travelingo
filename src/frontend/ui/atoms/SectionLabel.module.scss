@@ -1,0 +1,11 @@
+$label-padding-top:    8px;
+$label-padding-bottom: 4px;
+
+.label {
+  font-size:     $font-size-xs;
+  font-weight:   $font-weight-bold;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color:          $color-text-muted;
+  padding:        $label-padding-top 0 $label-padding-bottom;
+}

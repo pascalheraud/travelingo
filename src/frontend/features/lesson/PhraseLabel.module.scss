@@ -1,0 +1,21 @@
+.label {
+  font-weight:    $font-weight-bold;
+  color:          $color-text-primary;
+  text-align:     center;
+  line-height:    $line-height-tight;
+}
+
+.md { font-size: $font-size-xl; }
+.lg { font-size: $font-size-2xl; }
+
+.left { text-align: left; }
+
+@media (max-height: 700px) {
+  .md { font-size: $font-size-lg; }
+  .lg { font-size: $font-size-xl; }
+}
+
+@media (max-height: 630px) {
+  .md { font-size: $font-size-md; }
+  .lg { font-size: $font-size-lg; }
+}

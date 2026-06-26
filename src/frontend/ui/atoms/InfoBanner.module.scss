@@ -1,0 +1,19 @@
+$banner-icon-gap: 12px;
+
+.banner {
+  display:       flex;
+  align-items:   flex-start;
+  gap:           $banner-icon-gap;
+  padding:       $banner-padding-y $banner-padding-x;
+  border-radius: $radius-md;
+  font-size:     $font-size-sm;
+
+  &.info    { background: $color-primary-light; color: $color-primary; }
+  &.success { background: $color-success-light; color: $color-success; }
+  &.warning { background: $color-warning-light; color: $color-warning; }
+  &.error   { background: $color-error-light;   color: $color-error;   }
+}
+
+.icon { flex-shrink: 0; font-size: $font-size-lg; }
+
+.text { flex: 1; line-height: $line-height-normal; }

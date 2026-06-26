@@ -1,0 +1,71 @@
+$body-gap:           12px;
+$body-padding-y:     16px;
+$inset-gap:          12px;
+$learn-more-padding: 12px;
+$report-padding:     4px;
+
+.screen {
+  position:       fixed; // own the full viewport regardless of #root/body scroll behaviour
+  inset:          0;
+  display:        flex;
+  flex-direction: column;
+  height:         100vh; // fallback for browsers without dvh support
+  height:         100dvh;
+  overflow:       hidden;
+}
+
+.body {
+  flex:           0 1 800px; // basis of 800px, never grows past it, still shrinks on small viewports
+  min-height:     0; // let the column shrink instead of overflowing the screen
+  width:          100%;
+  max-width:      480px; // same content width cap as AppHeader's .row/.sub — keeps cells from stretching huge on wide viewports
+  margin:         0 auto; // stay pinned under the header, just center horizontally
+  display:        flex;
+  flex-direction: column;
+  gap:            $body-gap;
+  padding:        $body-padding-y 0;
+  overflow:       hidden;
+}
+
+.inset {
+  display:        flex;
+  flex-direction: column;
+  gap:            $inset-gap;
+  padding:        0 $screen-padding-x calc(env(safe-area-inset-bottom));
+
+  @media (max-height: 630px) {
+    gap: $inset-gap * 0.5;
+  }
+}
+
+.learnMore {
+  width:         100%;
+  background:    transparent;
+  border:        1.5px solid $color-border-accent;
+  border-radius: $radius-md;
+  padding:       $learn-more-padding;
+  font-size:     $font-size-lg;
+  font-weight:   $font-weight-medium;
+  color:         $color-primary-hover;
+  cursor:        pointer;
+
+  @media (max-height: 630px) {
+    padding:   $learn-more-padding * 0.5;
+    font-size: $font-size-md;
+  }
+}
+
+.report {
+  background:     transparent;
+  border:         none;
+  padding:        $report-padding;
+  font-size:      $font-size-md;
+  color:          $color-text-secondary;
+  text-decoration: underline;
+  cursor:         pointer;
+  align-self:     center;
+
+  @media (max-height: 630px) {
+    font-size: $font-size-sm;
+  }
+}

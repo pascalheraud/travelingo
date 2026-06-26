@@ -1,0 +1,12 @@
+@use "variables" as *;
+
+// Shared by clickable button-like components (Button, IconButton) — identical
+// flex centering, transition, and disabled state across both.
+@mixin button-base {
+  display:         inline-flex;
+  align-items:     center;
+  justify-content: center;
+  transition:      opacity $transition-fast, transform $transition-fast;
+
+  &.disabled { opacity: 0.5; cursor: not-allowed; pointer-events: none; }
+}

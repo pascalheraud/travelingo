@@ -1,0 +1,42 @@
+$label-gap: 4px;
+
+.wrapper { width: 100%; }
+
+.track {
+  width:         100%;
+  height:        8px;
+  background:    $color-border;
+  border-radius: $radius-full;
+  overflow:      hidden;
+
+  &.sm  { height: 4px;  }
+  &.md  { height: 8px;  }
+  &.lg  { height: 12px; }
+}
+
+.fill {
+  height:        100%;
+  background:    $color-primary;
+  border-radius: $radius-full;
+  transition:    width $transition-normal;
+
+  &.animated { animation: shimmer 1.4s infinite; }
+
+  &.success { background: $color-success; }
+  &.warning { background: $color-warning; }
+  &.error   { background: $color-error;   }
+  &.muted   { background: $color-text-muted; }
+}
+
+.label {
+  font-size:  $font-size-xs;
+  color:      $color-text-muted;
+  margin-top: $label-gap;
+  text-align: right;
+}
+
+@keyframes shimmer {
+  0%   { opacity: 1; }
+  50%  { opacity: 0.7; }
+  100% { opacity: 1; }
+}

@@ -1,0 +1,18 @@
+.pill {
+  display:       inline-flex;
+  align-items:   center;
+  gap:           $inline-tag-icon-gap;
+  border-radius: $radius-full;
+  font-weight:   $font-weight-medium;
+  color:         $color-text-on-dark;
+  background:    rgba(255, 255, 255, 0.2);
+
+  &.sm { padding: $inline-tag-padding-y-sm $inline-tag-padding-x-sm; font-size: $font-size-xs; }
+  &.md { padding: 4px $inline-tag-padding-x-md; font-size: $font-size-sm; }
+
+  &.primary { background: $color-primary;         }
+  &.success { background: $color-success;         }
+  &.warning { background: $color-warning;         }
+  &.error   { background: $color-error;           }
+  &.muted   { background: rgba(255,255,255,0.15); }
+}

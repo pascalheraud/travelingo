@@ -1,0 +1,115 @@
+{
+  "uuid": "es-v1-it",
+  "learningPackRef": "es-v1",
+  "targetLang": "es",
+  "sourceLang": "it",
+  "version": "v1",
+  "createdAt": "2026-01-01T00:00:00.000Z",
+  "lessons": [
+    {
+      "id": "l01",
+      "title": "Cortesia & basi",
+      "subtitle": "Saluti, grazie…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Ciao",
+          "phonetic": "o-la",
+          "grammar": "Saluto spagnolo universale, a qualsiasi ora e contesto.",
+          "complements": [
+            "Molto informale: « ¡Ey! »",
+            "Mattina formale: « Buenos días »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Grazie mille",
+          "phonetic": "mu-chas gra-thias",
+          "grammar": "« Muchas » = molte (femminile plurale). « Gracias » dal latino « gratia ».",
+          "complements": [
+            "Semplice: « Gracias »",
+            "Risposta: « De nada »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Per favore",
+          "phonetic": "por fa-vor",
+          "grammar": "Letteralmente 'per il favore'. Essenziale in spagnolo, sempre alla fine di una richiesta.",
+          "complements": [
+            "All'inizio: « Por favor, ¿puede ayudarme? »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Mi scusi",
+          "phonetic": "per-do-ne",
+          "grammar": "Forma formale di « perdonar » (perdonare). Per attirare l'attenzione.",
+          "complements": [
+            "Informale: « Perdona »",
+            "Scusa forte: « Lo siento mucho »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Non capisco",
+          "phonetic": "no en-tièn-do",
+          "grammar": "« Entender » dal latino « intendere ». Negazione semplice con « no ».",
+          "complements": [
+            "Variante: « No comprendo »",
+            "Chiedere: « ¿Puede hablar más despacio? »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Arrivederci",
+          "phonetic": "a-diòs",
+          "grammar": "Letteralmente 'a Dio'. Stessa etimologia del francese « adieu ».",
+          "complements": [
+            "Informale: « ¡Hasta luego! »",
+            "A presto: « ¡Hasta pronto! »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Buonasera / Buonanotte",
+          "phonetic": "bwènas no-tches",
+          "grammar": "In spagnolo, « buenas noches » è sia un saluto serale CHE una formula di buonanotte.",
+          "complements": [
+            "Mattina: « Buenos días »",
+            "Pomeriggio: « Buenas tardes »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Dov'è il bagno?",
+          "phonetic": "dón-de es-ta el ban-yo",
+          "grammar": "« Baño » = bagno in spagnolo. « ¿Dónde está? » = dove è (singolare).",
+          "complements": [
+            "Formale: « ¿Dónde están los servicios? »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Quanto costa?",
+          "phonetic": "kuanto kuèsta",
+          "grammar": "« Cuánto » = quanto. « Costar » = costare. Verbo irregolare.",
+          "complements": [
+            "Plurale: « ¿Cuánto cuestan? »",
+            "Sconto: « ¿Me puede hacer un descuento? »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Parla francese?",
+          "phonetic": "ab-la fran-thes",
+          "grammar": "« Hablar » = parlare. Forma formale (usted). Informale: « ¿Hablas francés? ».",
+          "complements": [
+            "Informale: « ¿Hablas francés? »",
+            "Altra lingua: « ¿Habla inglés? »"
+          ]
+        }
+      ]
+    }
+  ]
+}

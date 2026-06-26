@@ -1,0 +1,41 @@
+$list-gap:        8px;
+$list-margin-top: 12px;
+$option-gap:      12px;
+$option-padding:  12px;
+
+.list {
+  display:        flex;
+  flex-direction: column;
+  gap:            $list-gap;
+  margin-top:     $list-margin-top;
+}
+
+.option {
+  display:       flex;
+  align-items:   center;
+  gap:           $option-gap;
+  padding:       $option-padding;
+  border:        $border-card;
+  border-radius: $radius-md;
+  cursor:        pointer;
+  transition:    border-color $transition-fast, background $transition-fast;
+
+  &:hover {
+    border-color: $color-primary;
+    background:   $color-primary-light;
+  }
+
+  &.active {
+    border-color: $color-primary;
+    background:   $color-primary-light;
+  }
+}
+
+.name {
+  flex:        1;
+  font-size:   $font-size-md;
+  font-weight: $font-weight-medium;
+  color:       $color-text-primary;
+}
+
+.check { color: $color-primary; font-weight: $font-weight-bold; }

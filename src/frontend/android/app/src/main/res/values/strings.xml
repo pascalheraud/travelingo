@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Travelingo</string>
+    <string name="title_activity_main">Travelingo</string>
+    <string name="package_name">com.travelingo.app</string>
+    <string name="custom_url_scheme">com.travelingo.app</string>
+</resources>

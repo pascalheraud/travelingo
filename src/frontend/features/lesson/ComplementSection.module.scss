@@ -1,0 +1,21 @@
+$section-gap: 8px;
+
+.section {
+  display:        flex;
+  flex-direction: column;
+  gap:            $section-gap;
+}
+
+.list {
+  display:        flex;
+  flex-direction: column;
+}
+
+.item {
+  padding:        $section-gap 0;
+  font-size:      $font-size-md;
+  color:          $color-text-secondary;
+  border-bottom:  $border-divider;
+
+  &:last-child { border-bottom: none; }
+}

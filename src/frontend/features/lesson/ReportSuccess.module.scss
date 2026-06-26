@@ -1,0 +1,26 @@
+$thanks-gap: 8px;
+
+.success {
+  display:        flex;
+  flex-direction: column;
+  align-items:    center;
+  text-align:     center;
+  padding:        $state-padding-y 0;
+}
+
+.icon {
+  font-size:     $icon-size-state;
+  margin-bottom: $card-inset-padding;
+}
+
+.thanks {
+  font-weight:   $font-weight-bold;
+  font-size:     $font-size-md;
+  margin-bottom: $thanks-gap;
+}
+
+.sent {
+  font-size:     $font-size-sm;
+  color:         $color-text-secondary;
+  margin-bottom: $card-inset-padding;
+}

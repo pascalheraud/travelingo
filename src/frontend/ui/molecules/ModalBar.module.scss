@@ -1,0 +1,15 @@
+$modalbar-gap: 16px;
+
+.bar {
+  display:         flex;
+  align-items:     center;
+  justify-content: space-between;
+  margin-bottom:   $modalbar-gap;
+}
+
+.title {
+  font-size:   $font-size-lg;
+  font-weight: $font-weight-bold;
+  color:       $color-text-primary;
+}
+

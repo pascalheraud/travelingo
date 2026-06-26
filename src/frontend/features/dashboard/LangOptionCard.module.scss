@@ -1,0 +1,41 @@
+$card-gap:        8px;
+$card-padding-y:  16px;
+$card-padding-x:  8px;
+
+.card {
+  display:         flex;
+  flex-direction:  column;
+  align-items:     center;
+  gap:             $card-gap;
+  padding:         $card-padding-y $card-padding-x;
+  background:      $color-surface;
+  border:          $border-card;
+  border-radius:   $radius-lg;
+  cursor:          pointer;
+  transition:      border-color $transition-fast, transform $transition-fast;
+
+  &:hover:not(:disabled) {
+    border-color: $color-primary;
+    transform:    translateY(-1px);
+  }
+
+  &:disabled {
+    cursor: default;
+  }
+
+  &.added {
+    border-color: $color-success;
+    background:   $color-success-light;
+  }
+}
+
+.name {
+  font-size:   $font-size-md;
+  font-weight: $font-weight-bold;
+  color:       $color-text-primary;
+}
+
+.stats {
+  font-size: $font-size-sm;
+  color:     $color-text-secondary;
+}

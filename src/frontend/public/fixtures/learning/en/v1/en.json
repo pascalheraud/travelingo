@@ -1,0 +1,568 @@
+{
+  "uuid": "en-v1",
+  "targetLang": "en",
+  "version": "v1",
+  "createdAt": "2026-06-30T00:00:00.000Z",
+  "lessons": [
+    {
+      "id": "l01",
+      "emoji": "💬",
+      "phrases": [
+        {
+          "id": "p001",
+          "target": "Hello",
+          "audio": "p01_001_v1.mp3"
+        },
+        {
+          "id": "p002",
+          "target": "Thank you very much",
+          "audio": "p01_002_v1.mp3"
+        },
+        {
+          "id": "p003",
+          "target": "Please",
+          "audio": "p01_003_v1.mp3"
+        },
+        {
+          "id": "p004",
+          "target": "Excuse me",
+          "audio": "p01_004_v1.mp3"
+        },
+        {
+          "id": "p005",
+          "target": "I don't understand",
+          "audio": "p01_005_v1.mp3"
+        },
+        {
+          "id": "p006",
+          "target": "Goodbye",
+          "audio": "p01_006_v1.mp3"
+        },
+        {
+          "id": "p007",
+          "target": "Good evening",
+          "audio": "p01_007_v1.mp3"
+        },
+        {
+          "id": "p008",
+          "target": "Where is the toilet?",
+          "audio": "p01_008_v1.mp3"
+        },
+        {
+          "id": "p009",
+          "target": "How much does it cost?",
+          "audio": "p01_009_v1.mp3"
+        },
+        {
+          "id": "p010",
+          "target": "Do you speak French?",
+          "audio": "p01_010_v1.mp3"
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "emoji": "✈️",
+      "phrases": [
+        {
+          "id": "p001",
+          "target": "Where is the check-in desk?",
+          "audio": "p02_001_v1.mp3"
+        },
+        {
+          "id": "p002",
+          "target": "I have one suitcase to check in",
+          "audio": "p02_002_v1.mp3"
+        },
+        {
+          "id": "p003",
+          "target": "Where is gate 12?",
+          "audio": "p02_003_v1.mp3"
+        },
+        {
+          "id": "p004",
+          "target": "Is this seat taken?",
+          "audio": "p02_004_v1.mp3"
+        },
+        {
+          "id": "p005",
+          "target": "Can I have a window seat?",
+          "audio": "p02_005_v1.mp3"
+        },
+        {
+          "id": "p006",
+          "target": "My flight is delayed",
+          "audio": "p02_006_v1.mp3"
+        },
+        {
+          "id": "p007",
+          "target": "I have a connecting flight",
+          "audio": "p02_007_v1.mp3"
+        },
+        {
+          "id": "p008",
+          "target": "Where is the baggage claim?",
+          "audio": "p02_008_v1.mp3"
+        },
+        {
+          "id": "p009",
+          "target": "I have nothing to declare",
+          "audio": "p02_009_v1.mp3"
+        },
+        {
+          "id": "p010",
+          "target": "Please show me your passport",
+          "audio": "p02_010_v1.mp3"
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "emoji": "🛂",
+      "phrases": [
+        {
+          "id": "p001",
+          "target": "What is the purpose of your trip?",
+          "audio": "p03_001_v1.mp3"
+        },
+        {
+          "id": "p002",
+          "target": "How long will you be staying?",
+          "audio": "p03_002_v1.mp3"
+        },
+        {
+          "id": "p003",
+          "target": "Where is passport control?",
+          "audio": "p03_003_v1.mp3"
+        },
+        {
+          "id": "p004",
+          "target": "May I see your passport, please?",
+          "audio": "p03_004_v1.mp3"
+        },
+        {
+          "id": "p005",
+          "target": "Do you have anything to declare?",
+          "audio": "p03_005_v1.mp3"
+        },
+        {
+          "id": "p006",
+          "target": "I am carrying prescription medicine.",
+          "audio": "p03_006_v1.mp3"
+        },
+        {
+          "id": "p007",
+          "target": "I am here to visit family.",
+          "audio": "p03_007_v1.mp3"
+        },
+        {
+          "id": "p008",
+          "target": "Do you have a return or onward ticket?",
+          "audio": "p03_008_v1.mp3"
+        },
+        {
+          "id": "p009",
+          "target": "Are you carrying food, plants or animal products?",
+          "audio": "p03_009_v1.mp3"
+        },
+        {
+          "id": "p010",
+          "target": "Where should I go for customs inspection?",
+          "audio": "p03_010_v1.mp3"
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "emoji": "🏨",
+      "phrases": [
+        {
+          "id": "p001",
+          "target": "I have a reservation under my name",
+          "audio": "p04_001_v1.mp3"
+        },
+        {
+          "id": "p002",
+          "target": "Do you have any rooms available?",
+          "audio": "p04_002_v1.mp3"
+        },
+        {
+          "id": "p003",
+          "target": "What time is check-in?",
+          "audio": "p04_003_v1.mp3"
+        },
+        {
+          "id": "p004",
+          "target": "What time is check-out?",
+          "audio": "p04_004_v1.mp3"
+        },
+        {
+          "id": "p005",
+          "target": "Is breakfast included?",
+          "audio": "p04_005_v1.mp3"
+        },
+        {
+          "id": "p006",
+          "target": "Could I have an extra towel, please?",
+          "audio": "p04_006_v1.mp3"
+        },
+        {
+          "id": "p007",
+          "target": "The Wi-Fi is not working",
+          "audio": "p04_007_v1.mp3"
+        },
+        {
+          "id": "p008",
+          "target": "Could you call me a taxi, please?",
+          "audio": "p04_008_v1.mp3"
+        },
+        {
+          "id": "p009",
+          "target": "Is there a safe in the room?",
+          "audio": "p04_009_v1.mp3"
+        },
+        {
+          "id": "p010",
+          "target": "I would like to extend my stay by one night",
+          "audio": "p04_010_v1.mp3"
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "emoji": "🚕",
+      "phrases": [
+        {
+          "id": "p001",
+          "target": "Can you take me to this address?",
+          "audio": "p05_001_v1.mp3"
+        },
+        {
+          "id": "p002",
+          "target": "How much does it cost to get to the city center?",
+          "audio": "p05_002_v1.mp3"
+        },
+        {
+          "id": "p003",
+          "target": "Where is the nearest bus stop?",
+          "audio": "p05_003_v1.mp3"
+        },
+        {
+          "id": "p004",
+          "target": "Where can I buy a ticket?",
+          "audio": "p05_004_v1.mp3"
+        },
+        {
+          "id": "p005",
+          "target": "Which line goes to the airport?",
+          "audio": "p05_005_v1.mp3"
+        },
+        {
+          "id": "p006",
+          "target": "Does this train stop at the central station?",
+          "audio": "p05_006_v1.mp3"
+        },
+        {
+          "id": "p007",
+          "target": "Could you stop here, please?",
+          "audio": "p05_007_v1.mp3"
+        },
+        {
+          "id": "p008",
+          "target": "Is there a metro station nearby?",
+          "audio": "p05_008_v1.mp3"
+        },
+        {
+          "id": "p009",
+          "target": "I would like to rent a car",
+          "audio": "p05_009_v1.mp3"
+        },
+        {
+          "id": "p010",
+          "target": "What time does the last bus leave?",
+          "audio": "p05_010_v1.mp3"
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "emoji": "🍽️",
+      "phrases": [
+        {
+          "id": "p001",
+          "target": "A table for two, please",
+          "audio": "p06_001_v1.mp3"
+        },
+        {
+          "id": "p002",
+          "target": "Can I see the menu, please?",
+          "audio": "p06_002_v1.mp3"
+        },
+        {
+          "id": "p003",
+          "target": "What do you recommend?",
+          "audio": "p06_003_v1.mp3"
+        },
+        {
+          "id": "p004",
+          "target": "I would like to order this",
+          "audio": "p06_004_v1.mp3"
+        },
+        {
+          "id": "p005",
+          "target": "I am allergic to peanuts",
+          "audio": "p06_005_v1.mp3"
+        },
+        {
+          "id": "p006",
+          "target": "Could we have some water, please?",
+          "audio": "p06_006_v1.mp3"
+        },
+        {
+          "id": "p007",
+          "target": "This is delicious",
+          "audio": "p06_007_v1.mp3"
+        },
+        {
+          "id": "p008",
+          "target": "Can I have the bill, please?",
+          "audio": "p06_008_v1.mp3"
+        },
+        {
+          "id": "p009",
+          "target": "Do you accept credit cards?",
+          "audio": "p06_009_v1.mp3"
+        },
+        {
+          "id": "p010",
+          "target": "Is the tip included?",
+          "audio": "p06_010_v1.mp3"
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "emoji": "🗺️",
+      "phrases": [
+        {
+          "id": "p001",
+          "target": "Excuse me, how do I get to the city center?",
+          "audio": "p07_001_v1.mp3"
+        },
+        {
+          "id": "p002",
+          "target": "Is it far from here?",
+          "audio": "p07_002_v1.mp3"
+        },
+        {
+          "id": "p003",
+          "target": "Can you show me on the map?",
+          "audio": "p07_003_v1.mp3"
+        },
+        {
+          "id": "p004",
+          "target": "Turn left at the next corner",
+          "audio": "p07_004_v1.mp3"
+        },
+        {
+          "id": "p005",
+          "target": "Go straight ahead",
+          "audio": "p07_005_v1.mp3"
+        },
+        {
+          "id": "p006",
+          "target": "Is it within walking distance?",
+          "audio": "p07_006_v1.mp3"
+        },
+        {
+          "id": "p007",
+          "target": "Where is the nearest landmark?",
+          "audio": "p07_007_v1.mp3"
+        },
+        {
+          "id": "p008",
+          "target": "I think I'm lost",
+          "audio": "p07_008_v1.mp3"
+        },
+        {
+          "id": "p009",
+          "target": "Could you point me in the right direction?",
+          "audio": "p07_009_v1.mp3"
+        },
+        {
+          "id": "p010",
+          "target": "How long does it take to walk there?",
+          "audio": "p07_010_v1.mp3"
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "emoji": "🛒",
+      "phrases": [
+        {
+          "id": "p001",
+          "target": "How much does this cost?",
+          "audio": "p08_001_v1.mp3"
+        },
+        {
+          "id": "p002",
+          "target": "Do you have this in a larger size?",
+          "audio": "p08_002_v1.mp3"
+        },
+        {
+          "id": "p003",
+          "target": "Can I try this on?",
+          "audio": "p08_003_v1.mp3"
+        },
+        {
+          "id": "p004",
+          "target": "Where is the fitting room?",
+          "audio": "p08_004_v1.mp3"
+        },
+        {
+          "id": "p005",
+          "target": "I would like to buy this",
+          "audio": "p08_005_v1.mp3"
+        },
+        {
+          "id": "p006",
+          "target": "This is too expensive",
+          "audio": "p08_006_v1.mp3"
+        },
+        {
+          "id": "p007",
+          "target": "Do you have anything cheaper?",
+          "audio": "p08_007_v1.mp3"
+        },
+        {
+          "id": "p008",
+          "target": "Can I get a receipt, please?",
+          "audio": "p08_008_v1.mp3"
+        },
+        {
+          "id": "p009",
+          "target": "I would like a refund",
+          "audio": "p08_009_v1.mp3"
+        },
+        {
+          "id": "p010",
+          "target": "Do you have this in another colour?",
+          "audio": "p08_010_v1.mp3"
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "emoji": "🏥",
+      "phrases": [
+        {
+          "id": "p001",
+          "target": "I need a doctor",
+          "audio": "p09_001_v1.mp3"
+        },
+        {
+          "id": "p002",
+          "target": "Where is the nearest hospital?",
+          "audio": "p09_002_v1.mp3"
+        },
+        {
+          "id": "p003",
+          "target": "It's an emergency",
+          "audio": "p09_003_v1.mp3"
+        },
+        {
+          "id": "p004",
+          "target": "I don't feel well",
+          "audio": "p09_004_v1.mp3"
+        },
+        {
+          "id": "p005",
+          "target": "I am allergic to penicillin",
+          "audio": "p09_005_v1.mp3"
+        },
+        {
+          "id": "p006",
+          "target": "Could you call an ambulance, please?",
+          "audio": "p09_006_v1.mp3"
+        },
+        {
+          "id": "p007",
+          "target": "I have lost my medication",
+          "audio": "p09_007_v1.mp3"
+        },
+        {
+          "id": "p008",
+          "target": "Where is the nearest pharmacy?",
+          "audio": "p09_008_v1.mp3"
+        },
+        {
+          "id": "p009",
+          "target": "I have a headache",
+          "audio": "p09_009_v1.mp3"
+        },
+        {
+          "id": "p010",
+          "target": "Please help me",
+          "audio": "p09_010_v1.mp3"
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "emoji": "🤝",
+      "phrases": [
+        {
+          "id": "p001",
+          "target": "Nice to meet you",
+          "audio": "p10_001_v1.mp3"
+        },
+        {
+          "id": "p002",
+          "target": "What's your name?",
+          "audio": "p10_002_v1.mp3"
+        },
+        {
+          "id": "p003",
+          "target": "My name is...",
+          "audio": "p10_003_v1.mp3"
+        },
+        {
+          "id": "p004",
+          "target": "Where are you from?",
+          "audio": "p10_004_v1.mp3"
+        },
+        {
+          "id": "p005",
+          "target": "I'm from France",
+          "audio": "p10_005_v1.mp3"
+        },
+        {
+          "id": "p006",
+          "target": "How are you?",
+          "audio": "p10_006_v1.mp3"
+        },
+        {
+          "id": "p007",
+          "target": "I'm fine, thank you",
+          "audio": "p10_007_v1.mp3"
+        },
+        {
+          "id": "p008",
+          "target": "Can I take a photo with you?",
+          "audio": "p10_008_v1.mp3"
+        },
+        {
+          "id": "p009",
+          "target": "Let's stay in touch",
+          "audio": "p10_009_v1.mp3"
+        },
+        {
+          "id": "p010",
+          "target": "Have a great day",
+          "audio": "p10_010_v1.mp3"
+        }
+      ]
+    }
+  ]
+}

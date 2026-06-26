@@ -1,0 +1,23 @@
+$dashed-btn-icon-gap:  8px;
+$dashed-btn-padding-y: 12px;
+$dashed-btn-padding-x: 16px;
+
+.btn {
+  display:         flex;
+  align-items:     center;
+  justify-content: center;
+  gap:             $dashed-btn-icon-gap;
+  width:           100%;
+  padding:         $dashed-btn-padding-y $dashed-btn-padding-x;
+  border:          2px dashed $color-border;
+  border-radius:   $radius-md;
+  font-size:       $font-size-sm;
+  font-weight:     $font-weight-medium;
+  color:           $color-text-muted;
+  transition:      border-color $transition-fast, color $transition-fast;
+
+  &:hover {
+    border-color: $color-primary;
+    color:        $color-primary;
+  }
+}

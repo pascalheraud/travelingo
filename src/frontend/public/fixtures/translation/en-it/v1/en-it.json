@@ -1,0 +1,242 @@
+{
+  "uuid": "en-v1-it",
+  "learningPackRef": "en-v1",
+  "targetLang": "en",
+  "sourceLang": "it",
+  "version": "v1",
+  "createdAt": "2026-06-28T17:32:02.000Z",
+  "lessons": [
+    {
+      "id": "l01",
+      "title": "Cortesia & basi",
+      "subtitle": "Saluti, grazie…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Ciao",
+          "phonetic": "hé-lo",
+          "grammar": "La parola più universale dell'inglese. Si usa a qualsiasi ora.",
+          "complements": [
+            "Informale: « Hi! »",
+            "Molto informale: « Hey! »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Grazie mille",
+          "phonetic": "thèn-kiu vè-ri màtch",
+          "grammar": "Espressione completa e calorosa. « Thank » viene dal norreno antico.",
+          "complements": [
+            "Breve: « Thanks! »",
+            "Informale: « Cheers! » (UK)"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Per favore",
+          "phonetic": "pliis",
+          "grammar": "Parola magica in inglese. Sempre alla fine della frase per gentilezza.",
+          "complements": [
+            "Alla fine: « A coffee, please »",
+            "All'inizio: « Please help me »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Scusi",
+          "phonetic": "ex-kiuz mi",
+          "grammar": "Per chiamare l'attenzione o passare. Diverso da « Sorry » (scusa/dispiacere).",
+          "complements": [
+            "Per passare: « Excuse me »",
+            "Per scusarsi: « I'm sorry »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Non capisco",
+          "phonetic": "ai dont anda-stènd",
+          "grammar": "Frase essenziale in viaggio. « Understand » viene dall'antico inglese.",
+          "complements": [
+            "Variante: « I'm sorry, I don't understand »",
+            "Chiedere: « Could you speak more slowly? »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Arrivederci",
+          "phonetic": "gud-bài",
+          "grammar": "Contrazione storica di « God be with you ». Formula di congedo universale.",
+          "complements": [
+            "Breve: « Bye! »",
+            "A dopo: « See you later! »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Buonasera",
+          "phonetic": "gud ì-ve-ning",
+          "grammar": "Saluto dalle 17-18. « Evening » viene dall'antico inglese « æfen ».",
+          "complements": [
+            "Mattina: « Good morning »",
+            "Pomeriggio: « Good afternoon »",
+            "Notte: « Good night »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Dov'è il bagno?",
+          "phonetic": "wuèr is dhə tòi-lèt",
+          "grammar": "Domanda pratica universale. Nel Regno Unito « toilet », negli USA « restroom ».",
+          "complements": [
+            "USA: « Where is the restroom? »",
+            "UK informale: « Where is the loo? »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Quanto costa?",
+          "phonetic": "hàu màtch daz it cost",
+          "grammar": "Domanda fondamentale del viaggiatore. « How much » per gli incontabili.",
+          "complements": [
+            "Breve: « How much? »",
+            "Sconto: « Can you give me a discount? »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Parla francese?",
+          "phonetic": "du iu spiik frèntch",
+          "grammar": "Domanda chiave per trovare un parlante francese.",
+          "complements": [
+            "Altra lingua: « Do you speak Italian? »",
+            "Risposta: « A little / Not very well »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "title": "Aeroporto e voli",
+      "subtitle": "Check-in, imbarco…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Dov'è il banco check-in?",
+          "phonetic": "uèr is dhə tchèk-in desk",
+          "grammar": "« Check-in desk » è il banco dove si effettua il check-in prima del volo.",
+          "complements": [
+            "Check-in online: « online check-in »",
+            "Consegna bagagli: « baggage drop »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Ho una valigia da consegnare",
+          "phonetic": "ai hav uàn sut-keis tu tchèk in",
+          "grammar": "« Suitcase » = valigia. « Check in » qui usato come verbo (consegnare il bagaglio).",
+          "complements": [
+            "Bagaglio a mano: « hand luggage »",
+            "Bagaglio in stiva: « checked baggage »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Dov'è il gate 12?",
+          "phonetic": "uèr is gueit tu-èlv",
+          "grammar": "« Gate » indica il varco d'imbarco in aeroporto.",
+          "complements": [
+            "Imbarco: « boarding »",
+            "Numero di volo: « flight number »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "È occupato questo posto?",
+          "phonetic": "is dhis sit teikn",
+          "grammar": "« Seat » = posto. « Taken » = occupato, participio di « take ».",
+          "complements": [
+            "Libero: « Is this seat free? »",
+            "Chiedere: « Excuse me, is this seat taken? »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Posso avere un posto vicino al finestrino?",
+          "phonetic": "kèn ai hav ə uin-dou sit",
+          "grammar": "« Window seat » è il posto vicino al finestrino, opposto a « aisle seat » (corridoio).",
+          "complements": [
+            "Corridoio: « aisle seat »",
+            "Cambiare: « Can I change my seat? »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Il mio volo è in ritardo",
+          "phonetic": "mai flait is di-leid",
+          "grammar": "« Delayed » = in ritardo, participio di « delay ».",
+          "complements": [
+            "Cancellato: « My flight is cancelled »",
+            "In orario: « My flight is on time »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Ho un volo in coincidenza",
+          "phonetic": "ai hav ə kə-nèk-ting flait",
+          "grammar": "« Connecting flight » indica un volo in coincidenza, diverso da « direct flight ».",
+          "complements": [
+            "Volo diretto: « direct flight »",
+            "Coincidenza persa: « I missed my connection »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Dov'è il ritiro bagagli?",
+          "phonetic": "uèr is dhə bag-id kleim",
+          "grammar": "« Baggage claim » è il luogo dove si ritira il bagaglio dopo il volo.",
+          "complements": [
+            "Bagaglio perso: « My luggage is lost »",
+            "Carrello: « Where can I find a luggage cart? »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Non ho niente da dichiarare",
+          "phonetic": "ai hav no-thing tu di-klèr",
+          "grammar": "« Nothing to declare » è la formula standard in dogana.",
+          "complements": [
+            "Qualcosa da dichiarare: « I have something to declare »",
+            "Dogana: « customs »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Mi mostri il suo passaporto, per favore",
+          "phonetic": "pliis cho mi yor pas-pòrt",
+          "grammar": "Formula usata dagli agenti di dogana/immigrazione; « show me » + oggetto diretto.",
+          "complements": [
+            "Carta d'imbarco: « boarding pass »",
+            "Visto: « Do you have a visa? »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "title": "Dogana & immigrazione",
+      "subtitle": "Domande frequenti al controllo di frontiera",
+      "phrases": [
+        { "id": "p001", "source": "Qual è il motivo del suo viaggio?", "phonetic": "uat is de peur-pous ov yor trip", "grammar": "Domanda standard al controllo di frontiera: « purpose » = motivo del viaggio.", "complements": ["Turismo: « tourism »","Lavoro: « business »"] },
+        { "id": "p002", "source": "Quanto tempo resterà?", "phonetic": "jau long uil yu bi stei-ing", "grammar": "Si chiede la durata del soggiorno; « stay » = durata della visita.", "complements": ["Breve soggiorno: « a few days »","Lungo soggiorno: « several months »"] },
+        { "id": "p003", "source": "Dov'è il controllo passaporti?", "phonetic": "wer is pas-port kon-trol", "grammar": "« Passport control » = area in cui si verificano i documenti di viaggio.", "complements": ["Seguire i cartelli « Passport Control »","Zona solitamente in « Arrivals »"] },
+        { "id": "p004", "source": "Posso vedere il suo passaporto, per favore?", "phonetic": "mei ai si yor pas-port plis", "grammar": "Formula gentile per chiedere il passaporto; « May I » = richiesta di permesso.", "complements": ["Risposta: « Here you go »","Verificare foto e firma"] },
+        { "id": "p005", "source": "Ha qualcosa da dichiarare?", "phonetic": "du yu jav e-ni-zing tu di-kler", "grammar": "Domanda doganale standard: « to declare » = dichiarare beni soggetti a imposta.", "complements": ["Sì: « I have something to declare »","No: « Nothing to declare »"] },
+        { "id": "p006", "source": "Porto con me farmaci con prescrizione.", "phonetic": "ai am ke-ri-ing pres-krip-shon me-di-sin", "grammar": "« Prescription medicine » = farmaci prescritti da un medico.", "complements": ["Avere la prescrizione con sé","Mostrare la confezione del farmaco se richiesto"] },
+        { "id": "p007", "source": "Sono qui per visitare la mia famiglia.", "phonetic": "ai am jir tu vi-sit mai fa-mi-li", "grammar": "« To visit family » = motivo frequente di ingresso per i turisti.", "complements": ["Indicare l'indirizzo","Mostrare un invito se disponibile"] },
+        { "id": "p008", "source": "Ha un biglietto di ritorno o di continuazione?", "phonetic": "du yu jav e ri-tern or on-uord ti-ket", "grammar": "Spesso si richiede una prova di uscita dal paese; « return/onward ticket ».", "complements": ["Biglietto andata e ritorno: « return ticket »","Biglietto di continuazione: « onward ticket »"] },
+        { "id": "p009", "source": "Trasporta cibo, piante o prodotti di origine animale?", "phonetic": "ar yu ke-ri-ing fud plants or a-ni-mal pro-dakts", "grammar": "Cibo e piante sono spesso controllati e possono essere vietati.", "complements": ["Dichiarare il cibo: « food »","Le piante sono spesso soggette a restrizioni"] },
+        { "id": "p010", "source": "Dove devo andare per l'ispezione doganale?", "phonetic": "wer shud ai gou for kas-toms in-spek-shon", "grammar": "« Customs inspection » = area di controllo merci e bagagli.", "complements": ["Seguire i cartelli « Customs »","Tenere i bagagli pronti"] }
+      ]
+    }
+  ]
+}

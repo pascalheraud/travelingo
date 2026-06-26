@@ -1,0 +1,1091 @@
+{
+  "uuid": "en-v1-es",
+  "learningPackRef": "en-v1",
+  "targetLang": "en",
+  "sourceLang": "es",
+  "version": "v1",
+  "createdAt": "2026-06-30T00:00:00.000Z",
+  "lessons": [
+    {
+      "id": "l01",
+      "title": "Cortesía y básicos",
+      "subtitle": "Saludos, gracias…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Hola",
+          "phonetic": "jé-lou",
+          "grammar": "La palabra más universal del inglés. Se usa a cualquier hora, formal o informal.",
+          "complements": [
+            "Informal: « Hi! »",
+            "Muy informal: « Hey! »",
+            "Por teléfono: « Hello? »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Muchas gracias",
+          "phonetic": "zenk-yu vé-ri match",
+          "grammar": "Expresión completa y cálida. « Thank » viene del nórdico antiguo « þakka ».",
+          "complements": [
+            "Corto: « Thanks! »",
+            "Muy formal: « I'm most grateful »",
+            "Informal: « Cheers! » (UK)"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Por favor",
+          "phonetic": "plis",
+          "grammar": "Palabra mágica en inglés. Se coloca normalmente al final de la frase por cortesía.",
+          "complements": [
+            "Al inicio: « Please help me »",
+            "Al final: « A coffee, please »",
+            "En una petición: « Could you…, please? »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Disculpe",
+          "phonetic": "eks-kiús mi",
+          "grammar": "Sirve para llamar la atención o pasar. Diferente de « Sorry » (disculpa/pesar).",
+          "complements": [
+            "Para pasar: « Excuse me » + paso",
+            "Para llamar la atención: « Excuse me, sir? »",
+            "Para disculparse de verdad: « I'm sorry »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "No entiendo",
+          "phonetic": "ai dont an-da-stand",
+          "grammar": "Frase esencial al viajar. « Understand » viene del inglés antiguo « understandan ».",
+          "complements": [
+            "Variante: « I'm sorry, I don't understand »",
+            "Pedir: « Could you speak more slowly? »",
+            "Escribir: « Could you write that down? »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Adiós",
+          "phonetic": "gud-bái",
+          "grammar": "Contracción histórica de « God be with you ». Fórmula de despedida universal.",
+          "complements": [
+            "Corto: « Bye! »",
+            "Hasta luego: « See you later! »",
+            "Muy formal: « Farewell »",
+            "En el Reino Unido: « Cheerio! »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Buenas tardes/noches",
+          "phonetic": "gud iv-ning",
+          "grammar": "Saludo usado a partir de las 17-18h. « Evening » viene del inglés antiguo « æfen ».",
+          "complements": [
+            "Mañana: « Good morning »",
+            "Tarde: « Good afternoon »",
+            "Noche: « Good night »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "¿Dónde está el baño?",
+          "phonetic": "wer is de tói-let",
+          "grammar": "Pregunta práctica universal. « Toilet » en el Reino Unido; « Restroom/Bathroom » en EE.UU.",
+          "complements": [
+            "EE.UU.: « Where is the restroom? »",
+            "Pub en UK: « Where is the loo? »",
+            "Formal: « May I use the facilities? »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "¿Cuánto cuesta?",
+          "phonetic": "jau match das it cost",
+          "grammar": "Pregunta fundamental del viajero. « How much » para incontables, « How many » para contables.",
+          "complements": [
+            "Corto: « How much? »",
+            "Precio mostrado: « Is this the final price? »",
+            "Descuento: « Can you give me a discount? »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "¿Hablas francés?",
+          "phonetic": "du yu spik french",
+          "grammar": "Pregunta clave para encontrar un interlocutor que hable francés. « Do you speak… » es la estructura estándar.",
+          "complements": [
+            "Con otro idioma: « Do you speak Spanish? »",
+            "Variante: « Is there anyone here who speaks French? »",
+            "Respuesta: « A little / Not very well »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "title": "Aeropuerto y vuelos",
+      "subtitle": "Facturación, embarque…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "¿Dónde está el mostrador de facturación?",
+          "phonetic": "wer is de tchek-in desk",
+          "grammar": "« Check-in desk » es el mostrador donde se factura el equipaje antes del vuelo.",
+          "complements": [
+            "Facturación online: « online check-in »",
+            "Entrega de equipaje: « baggage drop »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Tengo una maleta para facturar",
+          "phonetic": "ai jav uan sut-keis tu tchek in",
+          "grammar": "« Suitcase » = maleta. « Check in » se usa aquí como verbo (facturar equipaje).",
+          "complements": [
+            "Equipaje de mano: « hand luggage »",
+            "Equipaje facturado: « checked baggage »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "¿Dónde está la puerta 12?",
+          "phonetic": "wer is gueit tu-elv",
+          "grammar": "« Gate » designa la puerta de embarque del aeropuerto.",
+          "complements": [
+            "Embarque: « boarding »",
+            "Número de vuelo: « flight number »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "¿Está ocupado este asiento?",
+          "phonetic": "is dis sit teikn",
+          "grammar": "« Seat » = asiento. « Taken » = ocupado, participio de « take ».",
+          "complements": [
+            "Libre: « Is this seat free? »",
+            "Preguntar: « Excuse me, is this seat taken? »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "¿Puedo tener un asiento de ventanilla?",
+          "phonetic": "ken ai jav e win-dou sit",
+          "grammar": "« Window seat » es el asiento junto a la ventanilla, opuesto a « aisle seat » (pasillo).",
+          "complements": [
+            "Pasillo: « aisle seat »",
+            "Cambiar: « Can I change my seat? »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Mi vuelo está retrasado",
+          "phonetic": "mai flait is di-leid",
+          "grammar": "« Delayed » = retrasado, participio de « delay ».",
+          "complements": [
+            "Cancelado: « My flight is cancelled »",
+            "A tiempo: « My flight is on time »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Tengo un vuelo de conexión",
+          "phonetic": "ai jav e ke-nek-ting flait",
+          "grammar": "« Connecting flight » es un vuelo de conexión, distinto de « direct flight ».",
+          "complements": [
+            "Vuelo directo: « direct flight »",
+            "Conexión perdida: « I missed my connection »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "¿Dónde está la recogida de equipajes?",
+          "phonetic": "wer is de bag-id cleim",
+          "grammar": "« Baggage claim » es el lugar donde se recoge el equipaje tras el vuelo.",
+          "complements": [
+            "Equipaje perdido: « My luggage is lost »",
+            "Carrito: « Where can I find a luggage cart? »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "No tengo nada que declarar",
+          "phonetic": "ai jav no-thing tu di-kler",
+          "grammar": "« Nothing to declare » es la fórmula estándar en aduanas.",
+          "complements": [
+            "Algo que declarar: « I have something to declare »",
+            "Aduana: « customs »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Muéstreme su pasaporte, por favor",
+          "phonetic": "plis cho mi yor pas-port",
+          "grammar": "Fórmula usada por agentes de aduana/inmigración; « show me » + objeto directo.",
+          "complements": [
+            "Tarjeta de embarque: « boarding pass »",
+            "Visado: « Do you have a visa? »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "title": "Aduanas e inmigración",
+      "subtitle": "Preguntas frecuentes en el control de fronteras",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "¿Cuál es el motivo de su viaje?",
+          "phonetic": "uat is de peur-pous ov yor trip",
+          "grammar": "Pregunta estándar en el control de fronteras: « purpose » = motivo del viaje.",
+          "complements": [
+            "Turismo: « tourism »",
+            "Trabajo: « business »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "¿Cuánto tiempo se va a quedar?",
+          "phonetic": "jau long uil yu bi stei-ing",
+          "grammar": "Se pregunta la duración de la estancia; « stay » = duración de la visita.",
+          "complements": [
+            "Corta estancia: « a few days »",
+            "Larga estancia: « several months »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "¿Dónde está el control de pasaportes?",
+          "phonetic": "wer is pas-port kon-trol",
+          "grammar": "« Passport control » = lugar donde se verifican los documentos de viaje.",
+          "complements": [
+            "Seguir los carteles « Passport Control »",
+            "Zona habitualmente en « Arrivals »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "¿Puedo ver su pasaporte, por favor?",
+          "phonetic": "mei ai si yor pas-port plis",
+          "grammar": "Fórmula educada para pedir el pasaporte; « May I » = petición de permiso.",
+          "complements": [
+            "Respuesta: « Here you go »",
+            "Verificar foto y firma"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "¿Tiene algo que declarar?",
+          "phonetic": "du yu jav e-ni-zing tu di-kler",
+          "grammar": "Pregunta aduanera estándar: « to declare » = declarar bienes sujetos a impuestos.",
+          "complements": [
+            "Sí: « I have something to declare »",
+            "No: « Nothing to declare »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Llevo medicamentos con receta.",
+          "phonetic": "ai am ke-ri-ing pres-krip-shon me-di-sin",
+          "grammar": "« Prescription medicine » = medicamentos recetados por un médico.",
+          "complements": [
+            "Llevar la receta encima",
+            "Mostrar el envase del medicamento si lo piden"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Estoy aquí para visitar a mi familia.",
+          "phonetic": "ai am jir tu vi-sit mai fa-mi-li",
+          "grammar": "« To visit family » = motivo frecuente de entrada para turistas.",
+          "complements": [
+            "Dar la dirección",
+            "Mostrar una invitación si la tiene"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "¿Tiene billete de vuelta o de continuación?",
+          "phonetic": "du yu jav e ri-tern or on-uord ti-ket",
+          "grammar": "A menudo se exige una prueba de salida del país; « return/onward ticket ».",
+          "complements": [
+            "Billete de ida y vuelta: « return ticket »",
+            "Billete de continuación: « onward ticket »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "¿Lleva alimentos, plantas o productos de origen animal?",
+          "phonetic": "ar yu ke-ri-ing fud plants or a-ni-mal pro-dakts",
+          "grammar": "Los alimentos y plantas suelen estar controlados y pueden estar prohibidos.",
+          "complements": [
+            "Declarar alimentos: « food »",
+            "Las plantas suelen estar restringidas"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "¿A dónde debo ir para la inspección de aduanas?",
+          "phonetic": "wer shud ai gou for kas-toms in-spek-shon",
+          "grammar": "« Customs inspection » = zona de control de mercancías y equipaje.",
+          "complements": [
+            "Seguir los carteles « Customs »",
+            "Tener el equipaje listo"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "title": "Hotel & alojamiento",
+      "subtitle": "Llegada, habitación, servicios…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Tengo una reserva a mi nombre",
+          "phonetic": "ai jav e re-ser-vei-shon an-der mai neim",
+          "grammar": "« Reservation » viene del latín « reservare ». « Under my name » = a mi nombre, fórmula estándar en recepción.",
+          "complements": [
+            "Sin reserva: « I don't have a reservation »",
+            "Número de confirmación: « Here is my confirmation number »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "¿Tiene habitaciones disponibles?",
+          "phonetic": "du yu jav e-ni rums e-vei-la-bl",
+          "grammar": "« Available » = disponible. Pregunta estándar para conseguir habitación sin reserva previa.",
+          "complements": [
+            "Especificar el tipo: « a double room »",
+            "Para esta noche: « for tonight »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "¿A qué hora es el check-in?",
+          "phonetic": "uat taim is chek-in",
+          "grammar": "« Check-in » designa la hora de llegada al hotel, diferente del « check-out ».",
+          "complements": [
+            "Llegada tardía: « late check-in »",
+            "Llegada anticipada: « early check-in »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "¿A qué hora es el check-out?",
+          "phonetic": "uat taim is chek-aut",
+          "grammar": "« Check-out » = hora límite para dejar la habitación.",
+          "complements": [
+            "Salida tardía: « late check-out »",
+            "Guardar el equipaje: « luggage storage »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "¿Está incluido el desayuno?",
+          "phonetic": "is brek-fast in-klu-did",
+          "grammar": "« Included » = incluido, participio de « include ».",
+          "complements": [
+            "Sin desayuno: « room only »",
+            "Horario: « What time is breakfast? »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "¿Podría darme una toalla extra, por favor?",
+          "phonetic": "kud ai jav an eks-tra ta-uel plis",
+          "grammar": "« Extra » = adicional. « Could I have… » fórmula educada de petición.",
+          "complements": [
+            "Almohada: « an extra pillow »",
+            "Manta: « an extra blanket »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "El Wi-Fi no funciona",
+          "phonetic": "de uai-fai is not uor-king",
+          "grammar": "« Not working » = no funciona, fórmula común para señalar una avería.",
+          "complements": [
+            "Contraseña: « What is the Wi-Fi password? »",
+            "Conexión lenta: « The Wi-Fi is very slow »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "¿Podría llamarme un taxi, por favor?",
+          "phonetic": "kud yu kol mi e tak-si plis",
+          "grammar": "« Could you… » fórmula educada de petición de servicio.",
+          "complements": [
+            "Ahora mismo: « right now »",
+            "Al aeropuerto: « to the airport »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "¿Hay una caja fuerte en la habitación?",
+          "phonetic": "is der e seif in de rum",
+          "grammar": "« Safe » = caja fuerte. Pregunta frecuente por la seguridad de objetos de valor.",
+          "complements": [
+            "Objetos de valor: « valuables »",
+            "En recepción: « Is there a safe at reception? »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Me gustaría prolongar mi estancia una noche más",
+          "phonetic": "ai uud laik tu eks-tend mai stei bai uan nait",
+          "grammar": "« Extend my stay » = prolongar la estancia. « By one night » = una noche más.",
+          "complements": [
+            "Una noche más: « one more night »",
+            "Disponibilidad: « Is the room available tomorrow too? »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "title": "Transporte",
+      "subtitle": "Taxi, autobús, tren, metro…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "¿Puede llevarme a esta dirección?",
+          "phonetic": "kan iu teik mi tu dis a-dres",
+          "grammar": "« Can you take me to… » = fórmula educada para pedir un trayecto en taxi.",
+          "complements": [
+            "Al aeropuerto: « to the airport »",
+            "A mi hotel: « to my hotel »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "¿Cuánto cuesta llegar al centro de la ciudad?",
+          "phonetic": "jau match das it kost tu guet tu da si-ti sen-ter",
+          "grammar": "« How much does it cost… » = cuánto cuesta. « City center » = centro de la ciudad.",
+          "complements": [
+            "En el taxímetro: « on the meter »",
+            "Tarifa fija: « a flat rate »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "¿Dónde está la parada de autobús más cercana?",
+          "phonetic": "uer is da nirest bas stop",
+          "grammar": "« Nearest » = más cercana, superlativo de « near ».",
+          "complements": [
+            "Parada de tranvía: « tram stop »",
+            "A pie: « within walking distance »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "¿Dónde puedo comprar un billete?",
+          "phonetic": "uer kan ai bai a ti-ket",
+          "grammar": "« Ticket » = billete. « Where can I… » fórmula clásica para localizar un servicio.",
+          "complements": [
+            "En la máquina: « at the machine »",
+            "Billete sencillo: « a one-way ticket »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "¿Qué línea va al aeropuerto?",
+          "phonetic": "uitch lain gous tu di er-port",
+          "grammar": "« Line » = línea (de metro/autobús). « Which… » introduce una elección entre varias opciones.",
+          "complements": [
+            "Línea directa: « a direct line »",
+            "Con transbordo: « with a transfer »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "¿Para este tren en la estación central?",
+          "phonetic": "das dis trein stop at da sen-tral stei-shon",
+          "grammar": "« Does this train stop at… » = estructura interrogativa estándar con « does ».",
+          "complements": [
+            "Próxima parada: « next stop »",
+            "Última parada: « last stop »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "¿Podría parar aquí, por favor?",
+          "phonetic": "kud iu stop jir pliz",
+          "grammar": "« Could you stop here » = fórmula educada para pedir una parada concreta al conductor.",
+          "complements": [
+            "Un poco más adelante: « a bit further »",
+            "En la esquina: « at the corner »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "¿Hay una estación de metro cerca?",
+          "phonetic": "is der a met-rou stei-shon nir-bai",
+          "grammar": "« Nearby » = cerca. « Is there… » para preguntar si algo existe en las proximidades.",
+          "complements": [
+            "Salida de metro: « subway exit »",
+            "Plano del metro: « metro map »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Me gustaría alquilar un coche",
+          "phonetic": "ai uud laik tu rent a kar",
+          "grammar": "« Rent a car » = alquilar un coche. « I would like to… » fórmula educada para expresar un deseo.",
+          "complements": [
+            "Con conductor: « with a driver »",
+            "Carné de conducir: « driving licence »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "¿A qué hora sale el último autobús?",
+          "phonetic": "uat taim das da last bas liv",
+          "grammar": "« Last bus » = último autobús. « Leave » = salir.",
+          "complements": [
+            "Primer autobús: « first bus »",
+            "Horarios: « bus timetable »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "title": "Restaurante & café",
+      "subtitle": "Pedir, pagar, recomendaciones…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Una mesa para dos, por favor",
+          "phonetic": "a teibol for tu pliz",
+          "grammar": "« A table for two » = fórmula estándar para reservar mesa.",
+          "complements": [
+            "Para cuatro: « for four »",
+            "Junto a la ventana: « by the window »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "¿Puedo ver el menú, por favor?",
+          "phonetic": "kan ai si da menyu pliz",
+          "grammar": "« Can I see… » = fórmula educada para pedir algo.",
+          "complements": [
+            "La carta de vinos: « the wine list »",
+            "En inglés: « in English »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "¿Qué me recomienda?",
+          "phonetic": "uat du yu re-co-mend",
+          "grammar": "« What do you recommend? » = pregunta clásica para pedir consejo.",
+          "complements": [
+            "El plato del día: « today's special »",
+            "El postre: « the dessert »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Quisiera pedir esto",
+          "phonetic": "ai wud laik tu order dis",
+          "grammar": "« I would like to order » = fórmula educada para hacer un pedido.",
+          "complements": [
+            "De primero: « to start »",
+            "De plato principal: « as a main course »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Soy alérgico a los cacahuetes",
+          "phonetic": "ai am a-ler-yic tu pi-nats",
+          "grammar": "« I am allergic to… » = fórmula esencial para señalar una alergia.",
+          "complements": [
+            "A los mariscos: « to shellfish »",
+            "Al gluten: « to gluten »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "¿Podríamos tener agua, por favor?",
+          "phonetic": "kud ui hav sam uoter pliz",
+          "grammar": "« Could we have… » = fórmula educada para pedir algo en plural.",
+          "complements": [
+            "Agua con gas: « sparkling water »",
+            "Pan: « some bread »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Esto está delicioso",
+          "phonetic": "dis is de-li-chas",
+          "grammar": "« This is delicious » = fórmula sencilla para elogiar un plato.",
+          "complements": [
+            "Está muy picante: « it's too spicy »",
+            "Está perfecto: « it's perfect »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "¿Me trae la cuenta, por favor?",
+          "phonetic": "kan ai hav da bil pliz",
+          "grammar": "« The bill » = la cuenta (inglés británico; « check » en americano).",
+          "complements": [
+            "Por separado: « separately »",
+            "Todo junto: « all together »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "¿Aceptan tarjetas de crédito?",
+          "phonetic": "du yu ak-sept cre-dit cards",
+          "grammar": "« Do you accept… » = estructura interrogativa estándar con « do ».",
+          "complements": [
+            "En efectivo: « in cash »",
+            "Sin contacto: « contactless »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "¿La propina está incluida?",
+          "phonetic": "is da tip in-clu-did",
+          "grammar": "« Is the tip included? » = pregunta útil porque las costumbres varían según el país.",
+          "complements": [
+            "Servicio incluido: « service included »",
+            "Cuánto dejar: « how much to leave »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "title": "Orientarse",
+      "subtitle": "Preguntar el camino, orientarse…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Disculpe, ¿cómo llego al centro de la ciudad?",
+          "phonetic": "ex-kius mi hau du ai get tu da siti senter",
+          "grammar": "« Excuse me » para llamar la atención educadamente. « How do I get to… » = fórmula clásica para preguntar el camino.",
+          "complements": [
+            "Más corto: « How do I get there? »",
+            "A pie: « on foot »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "¿Está lejos de aquí?",
+          "phonetic": "is it far from hier",
+          "grammar": "« Is it far from here? » = pregunta sencilla sobre la distancia.",
+          "complements": [
+            "Muy cerca: « very close »",
+            "A pocos minutos: « a few minutes away »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "¿Puede mostrarme en el mapa?",
+          "phonetic": "kan yu chou mi on da map",
+          "grammar": "« Can you show me on the map? » = petición educada de ayuda visual para orientarse.",
+          "complements": [
+            "En mi teléfono: « on my phone »",
+            "Aquí mismo: « right here »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Gire a la izquierda en la próxima esquina",
+          "phonetic": "tern left at da next korner",
+          "grammar": "« Turn left at… » = instrucción direccional básica.",
+          "complements": [
+            "A la derecha: « turn right »",
+            "En el semáforo: « at the traffic light »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Siga todo recto",
+          "phonetic": "gou streit a-jed",
+          "grammar": "« Go straight ahead » = instrucción para continuar sin girar.",
+          "complements": [
+            "Hasta el final: « until the end »",
+            "Ya está: « you're there »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "¿Está a distancia a pie?",
+          "phonetic": "is it uidin uoking distans",
+          "grammar": "« Within walking distance » = expresión idiomática para decir « accesible a pie ».",
+          "complements": [
+            "En coche: « by car »",
+            "En bicicleta: « by bike »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "¿Dónde está el monumento más cercano?",
+          "phonetic": "uer is da nierest landmark",
+          "grammar": "« Landmark » = monumento o punto de referencia. « Nearest » = el más cercano.",
+          "complements": [
+            "En el mapa: « on the map »",
+            "Conocido: « well-known »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Creo que estoy perdido",
+          "phonetic": "ai zink aim lost",
+          "grammar": "« I think I'm lost » = fórmula esencial para señalar que se ha perdido el camino.",
+          "complements": [
+            "Totalmente perdido: « totally lost »",
+            "¿Puede ayudarme?: « can you help me? »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "¿Podría indicarme la dirección correcta?",
+          "phonetic": "kud yu point mi in da rait di-rek-shon",
+          "grammar": "« Point me in the right direction » = expresión idiomática para pedir orientación.",
+          "complements": [
+            "¿Por dónde?: « which way? »",
+            "¿Todo recto?: « straight ahead? »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "¿Cuánto se tarda en llegar a pie?",
+          "phonetic": "hau long duz it teik tu uok dier",
+          "grammar": "« How long does it take to… » = estructura clásica para preguntar una duración.",
+          "complements": [
+            "En autobús: « by bus »",
+            "En coche: « by car »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "title": "Shopping",
+      "subtitle": "Compras, probarse ropa, precios",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "¿Cuánto cuesta esto?",
+          "phonetic": "jau mach daz dis cost",
+          "grammar": "« How much does this cost? » — uso del auxiliar « does » con tercera persona. « This » señala el artículo.",
+          "complements": [
+            "Más corto: « How much is it? »",
+            "Señalando: « How much for this? »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "¿Tiene esto en talla más grande?",
+          "phonetic": "du yu jav dis in a lar-yer saiz",
+          "grammar": "« Do you have… in a larger size? » — « larger » es el comparativo de « large ».",
+          "complements": [
+            "Talla más pequeña: « a smaller size »",
+            "Talla específica: « a size medium »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "¿Me lo puedo probar?",
+          "phonetic": "kan ai trai dis on",
+          "grammar": "« Can I try this on? » — « try on » es un phrasal verb que significa probarse ropa.",
+          "complements": [
+            "También válido: « Can I try it on? »",
+            "Zapatos: « Can I try these on? »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "¿Dónde están los probadores?",
+          "phonetic": "wer iz de fiting rum",
+          "grammar": "« Fitting room » (UK) = probador. También « changing room » (UK) o « dressing room » (US).",
+          "complements": [
+            "Plural: « fitting rooms »",
+            "EE.UU.: « Where's the dressing room? »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Me gustaría comprar esto",
+          "phonetic": "ai wud laik tu bai dis",
+          "grammar": "« I would like to buy this » — fórmula educada. Contracción: « I'd like to buy this ».",
+          "complements": [
+            "Informal: « I'll take this »",
+            "Varios artículos: « I'll take these »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Esto es demasiado caro",
+          "phonetic": "dis iz tu iks-pen-siv",
+          "grammar": "« Too expensive » — « too » antes de adjetivo expresa exceso.",
+          "complements": [
+            "Variante: « It's a bit pricey »",
+            "Muy caro: « way too expensive »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "¿Tiene algo más barato?",
+          "phonetic": "du yu jav eni-ting chi-per",
+          "grammar": "« Anything cheaper » — « cheaper » es el comparativo de « cheap » (barato).",
+          "complements": [
+            "Rebajas: « Is there a sale on? »",
+            "Asequible: « something more affordable »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "¿Me puede dar un recibo, por favor?",
+          "phonetic": "kan ai guet a ri-sit pliz",
+          "grammar": "« Receipt » — la « p » es muda. « Can I get » es una fórmula informal pero correcta.",
+          "complements": [
+            "Más formal: « Could I have a receipt? »",
+            "Para devolución: « I need a receipt »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Me gustaría un reembolso",
+          "phonetic": "ai wud laik a ri-faund",
+          "grammar": "« Refund » puede ser sustantivo o verbo: « a refund » / « to refund ».",
+          "complements": [
+            "Cambio: « I'd like to exchange this »",
+            "Crédito: « Can I have store credit? »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "¿Lo tiene en otro color?",
+          "phonetic": "du yu jav dis in a-na-der co-lor",
+          "grammar": "« Another colour » — en inglés británico « colour », en americano « color ».",
+          "complements": [
+            "Color específico: « in red? »",
+            "Varios: « in other colours? »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "title": "Salud y emergencias",
+      "subtitle": "Médico, farmacia, emergencias",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Necesito un médico",
+          "phonetic": "ai nid e dóctor",
+          "grammar": "« I need a doctor » — estructura simple sujeto + verbo + complemento, muy útil en una emergencia.",
+          "complements": [
+            "Más directo: « I need help! »",
+            "Para una emergencia vital: « Call a doctor! »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "¿Dónde está el hospital más cercano?",
+          "phonetic": "wer is de níriest jóspital",
+          "grammar": "« nearest » es el superlativo de « near », « el más cercano ».",
+          "complements": [
+            "Para una farmacia: « Where is the nearest pharmacy? »",
+            "Para una clínica: « Where is the nearest clinic? »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Es una emergencia",
+          "phonetic": "its an emérdyensi",
+          "grammar": "« emergency » designa una situación de urgencia; frase clave para recibir atención rápida.",
+          "complements": [
+            "Para insistir: « This is a real emergency! »",
+            "Por teléfono: « I'm calling about an emergency »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "No me siento bien",
+          "phonetic": "ai dont fil uel",
+          "grammar": "« feel well » = sentirse bien; la negación « don't feel well » expresa malestar general.",
+          "complements": [
+            "Más fuerte: « I feel really sick »",
+            "Para la cabeza: « I feel dizzy »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Soy alérgico a la penicilina",
+          "phonetic": "ai am alérdyik tu penisilin",
+          "grammar": "« allergic to » + nombre del alérgeno; información esencial para dar a un médico.",
+          "complements": [
+            "Alergia alimentaria: « I'm allergic to peanuts »",
+            "Forma corta: « I have a penicillin allergy »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "¿Podría llamar a una ambulancia, por favor?",
+          "phonetic": "could yu col an ambiulans plis",
+          "grammar": "« Could you... please? » es una fórmula educada para pedir ayuda urgente.",
+          "complements": [
+            "Más directo: « Call an ambulance! »",
+            "Número de emergencias: « What's the emergency number? »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "He perdido mi medicación",
+          "phonetic": "ai jav lost mai medikeichons",
+          "grammar": "« I have lost » es el present perfect, usado para una pérdida reciente con consecuencia actual.",
+          "complements": [
+            "Para una receta: « I have lost my prescription »",
+            "« lose » (perder) se convierte en « lost » en pasado"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "¿Dónde está la farmacia más cercana?",
+          "phonetic": "wer is de níriest fármasi",
+          "grammar": "Misma estructura que con el hospital, con « pharmacy » en lugar de « hospital ».",
+          "complements": [
+            "Para un medicamento concreto: « Do you have this medicine? »",
+            "« chemist's » es el equivalente británico de « pharmacy »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Me duele la cabeza",
+          "phonetic": "ai jav e jédeik",
+          "grammar": "« I have a headache » — estructura « I have a... » muy usada para expresar un dolor.",
+          "complements": [
+            "Dolor de estómago: « I have a stomachache »",
+            "Dolor de garganta: « I have a sore throat »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Ayúdeme, por favor",
+          "phonetic": "plis jelp mi",
+          "grammar": "« Please help me » — imperativo educado con « please » al inicio para insistir.",
+          "complements": [
+            "Más corto: « Help! »",
+            "Para explicar: « Please help me, I'm lost »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "title": "Interacciones sociales",
+      "subtitle": "Conocer gente, mantener el contacto",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Encantado/a de conocerte",
+          "phonetic": "naïs tu mit yu",
+          "grammar": "« Nice to meet you » — fórmula estándar usada en un primer encuentro.",
+          "complements": [
+            "Más informal: « Good to meet you »",
+            "Respondiendo igual: « Nice to meet you too »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "¿Cómo te llamas?",
+          "phonetic": "uots yor néim",
+          "grammar": "« What's your name? » — pregunta directa para saber el nombre de alguien.",
+          "complements": [
+            "Forma educada: « May I ask your name? »",
+            "Respuesta típica: « My name is... »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Me llamo...",
+          "phonetic": "mai néim is",
+          "grammar": "« My name is... » — estructura simple para presentarse.",
+          "complements": [
+            "Más corto: « I'm... »",
+            "Presentación completa: « My name is John Smith »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "¿De dónde eres?",
+          "phonetic": "uer ar yu from",
+          "grammar": "« Where are you from? » — pregunta clásica para conocer el origen de alguien.",
+          "complements": [
+            "Más preciso: « Which city are you from? »",
+            "Respuesta típica: « I'm from... »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Soy de Francia",
+          "phonetic": "aim from frans",
+          "grammar": "« I'm from... » + país/ciudad, estructura básica para indicar el origen.",
+          "complements": [
+            "Para una ciudad: « I'm from Paris »",
+            "Variante: « I come from France »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "¿Cómo estás?",
+          "phonetic": "jau ar yu",
+          "grammar": "« How are you? » — fórmula de cortesía muy habitual tras una presentación.",
+          "complements": [
+            "Informal: « How's it going? »",
+            "Muy informal: « What's up? »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Estoy bien, gracias",
+          "phonetic": "aim fain zank yu",
+          "grammar": "« I'm fine, thank you » — respuesta estándar a « How are you? ».",
+          "complements": [
+            "Más entusiasta: « I'm great, thanks! »",
+            "Para devolver la pregunta: « And you? »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "¿Puedo tomarme una foto contigo?",
+          "phonetic": "kan ai teik e fóuto wiz yu",
+          "grammar": "« Can I... ? » es una fórmula educada para pedir permiso.",
+          "complements": [
+            "Más directo: « Can we take a photo together? »",
+            "Para fotografiar a otra persona: « Can I take your photo? »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Mantengamos el contacto",
+          "phonetic": "lets stei in tach",
+          "grammar": "« Let's... » propone una acción conjunta; « stay in touch » significa « mantener el contacto ».",
+          "complements": [
+            "Para intercambiar datos: « Can we exchange numbers? »",
+            "En redes sociales: « Are you on Instagram? »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Que tengas un gran día",
+          "phonetic": "jav e greit dei",
+          "grammar": "« Have a great day » — fórmula de cortesía para desear un buen día al despedirse.",
+          "complements": [
+            "Por la noche: « Have a great evening »",
+            "Más simple: « Have a good day »"
+          ]
+        }
+      ]
+    }
+  ]
+}

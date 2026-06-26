@@ -1,0 +1,12 @@
+$field-gap: 12px;
+
+.modal {
+  display:        flex;
+  flex-direction: column;
+  gap:            $field-gap;
+}
+
+.hint {
+  font-size: $font-size-sm;
+  color:     $color-text-secondary;
+}

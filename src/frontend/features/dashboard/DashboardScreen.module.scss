@@ -1,0 +1,22 @@
+$screen-padding-y: 16px;
+$section-gap:       16px;
+$list-gap:          12px;
+
+.screen {
+  padding:        $screen-padding-y $screen-padding-x;
+  display:        flex;
+  flex-direction: column;
+  gap:            $section-gap;
+}
+
+.heading {
+  font-size:   $font-size-xl;
+  font-weight: $font-weight-bold;
+  color:       $color-text-primary;
+}
+
+.list {
+  display:        flex;
+  flex-direction: column;
+  gap:            $list-gap;
+}

@@ -1,0 +1,18 @@
+.tag {
+  display:       inline-flex;
+  align-items:   center;
+  gap:           $inline-tag-icon-gap;
+  border-radius: $radius-sm;
+  font-weight:   $font-weight-medium;
+  white-space:   nowrap;
+
+  &.sm { padding: $inline-tag-padding-y-sm $inline-tag-padding-x-sm; font-size: $font-size-xs; }
+  &.md { padding: 3px $inline-tag-padding-x-md; font-size: $font-size-sm; }
+
+  &.success { background: $color-success-light; color: $color-success; }
+  &.error   { background: $color-error-light;   color: $color-error;   }
+  &.warning { background: $color-warning-light; color: $color-warning; }
+  &.info    { background: $color-info-light;    color: $color-info;    }
+  &.gray    { background: $color-bg;            color: $color-text-secondary; }
+  &.primary { background: $color-primary-light; color: $color-primary; }
+}
