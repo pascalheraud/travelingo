@@ -38,7 +38,7 @@ npm run split -- <source.mp3> <lessonNum> <version> <destDir>
 Concrete example, for lesson 1 of the English pack:
 
 ```
-npm run split -- raw_lesson1.mp3 1 1 ../../frontend/public/fixtures/learning/en/audio/l01/
+npm run split -- raw_lesson1.mp3 1 1 ../../fixtures/learning/en/audio/l01/
 ```
 
 Produces:

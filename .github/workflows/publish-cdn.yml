@@ -2,6 +2,11 @@ name: Publish CDN (GitHub Pages)
 
 on:
   workflow_dispatch:
+    inputs:
+      ref:
+        description: Branch or commit to deploy from
+        default: main
+        required: false
 
 permissions:
   contents: write
@@ -11,53 +16,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout main
+      - name: Checkout
         uses: actions/checkout@v4
         with:
-          path: main
+          ref: ${{ github.event.inputs.ref || github.ref }}
 
-      - name: Checkout gh-pages branch
-        uses: actions/checkout@v4
+      - name: Deploy fixtures to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          ref: gh-pages
-          path: cdn
-          fetch-depth: 1
-
-      - name: Sync pack assets to CDN tree
-        run: |
-          SRC="main/src/frontend/public/fixtures"
-          CDN="cdn"
-
-          # Learning packs (JSON + audio) — additive for audio, overwrite for JSON
-          if [ -d "$SRC/learning" ]; then
-            rsync -a --ignore-existing "$SRC/learning/" "$CDN/learning/"
-            find "$SRC/learning" -name "*.json" | while read f; do
-              dest="$CDN/${f#$SRC/}"
-              mkdir -p "$(dirname "$dest")"
-              cp "$f" "$dest"
-            done
-          fi
-
-          # Translation packs (JSON only)
-          if [ -d "$SRC/translation" ]; then
-            rsync -a "$SRC/translation/" "$CDN/translation/"
-          fi
-
-          # Shared audio placeholder
-          if [ -f "$SRC/audio/placeholder.mp3" ]; then
-            mkdir -p "$CDN/audio"
-            cp "$SRC/audio/placeholder.mp3" "$CDN/audio/placeholder.mp3"
-          fi
-
-      - name: Commit and push to gh-pages
-        working-directory: cdn
-        run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
-          if git diff --cached --quiet; then
-            echo "Nothing to publish — CDN already up to date."
-          else
-            git commit -m "cdn: sync from main"
-            git push
-          fi
+          branch: gh-pages
+          folder: src/fixtures
+          clean: true
