@@ -2,7 +2,7 @@
 
 ## Objectif
 
-Un script qui prend un seul fichier MP3 contenant les 10 phrases d'une leçon, enregistrées à la suite et séparées par des blancs (silences) de quelques secondes, et qui produit les 10 fichiers MP3 individuels au format attendu par les packs d'apprentissage (voir `doc/initial-spec.md` §"Audio is the exception to..."), prêts à être déposés dans `src/frontend/public/fixtures/learning/{targetLang}/audio/{lessonId}/`.
+Un script qui prend un seul fichier MP3 contenant les 10 phrases d'une leçon, enregistrées à la suite et séparées par des blancs (silences) de quelques secondes, et qui produit les 10 fichiers MP3 individuels au format attendu par les packs d'apprentissage (voir `doc/initial-spec.md` §"Audio is the exception to..."), prêts à être déposés dans `src/fixtures/learning/{targetLang}/audio/{lessonId}/`.
 
 ## Entrée
 
@@ -24,7 +24,7 @@ audio-splitter <source.mp3> <lessonNum> <version> <destDir>
 Exemple :
 
 ```
-audio-splitter raw_lesson1.mp3 1 1 src/frontend/public/fixtures/learning/en/audio/l01/
+audio-splitter raw_lesson1.mp3 1 1 src/fixtures/learning/en/audio/l01/
 ```
 
 Appelé sans aucun paramètre, le script affiche un message d'usage (rappel des 4 paramètres attendus et de l'exemple ci-dessus) sur la sortie standard et se termine sans erreur.

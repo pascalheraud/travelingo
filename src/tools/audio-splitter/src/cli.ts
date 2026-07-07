@@ -6,7 +6,7 @@ Splits a single MP3 containing 10 phrases separated by silences into 10
 individual MP3 files named p{lessonNum}_{phraseNum}_v{version}.mp3.
 
 Example:
-  audio-splitter raw_lesson1.mp3 1 1 src/frontend/public/fixtures/learning/en/audio/l01/`;
+  audio-splitter raw_lesson1.mp3 1 1 src/fixtures/learning/en/audio/l01/`;
 
 export interface ParsedArgs {
   sourcePath: string;

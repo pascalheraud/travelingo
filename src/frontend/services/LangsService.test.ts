@@ -37,21 +37,20 @@ describe('listTargetLanguages', () => {
     expect(service.listTargetLanguages('en')).not.toContain('en');
   });
 
-  it('only lists available target languages', () => {
-    const langs = service.listTargetLanguages('fr');
-    expect(langs).toEqual(['en', 'es', 'it', 'de', 'ro']);
+  it('lists all target languages for a user who speaks none of them', () => {
+    expect(service.listTargetLanguages('fr')).toEqual(['en', 'es']);
   });
 });
 
 describe('listSourceLanguages', () => {
-  it('lists every available source language', () => {
+  it('lists all source languages', () => {
     expect(service.listSourceLanguages()).toEqual(['fr', 'en', 'es', 'de', 'it', 'ro', 'pt']);
   });
 });
 
 describe('listActiveLanguages', () => {
   it('filters target languages down to the active ones, preserving target-language order', () => {
-    expect(service.listActiveLanguages(['de', 'en'], 'fr')).toEqual(['en', 'de']);
+    expect(service.listActiveLanguages(['es', 'en'], 'fr')).toEqual(['en', 'es']);
   });
 
   it('excludes active codes that are not valid target languages for that user lang', () => {
