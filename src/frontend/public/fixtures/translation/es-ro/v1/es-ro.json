@@ -1,0 +1,1096 @@
+{
+  "uuid": "es-v1-ro",
+  "learningPackRef": "es-v1",
+  "targetLang": "es",
+  "sourceLang": "ro",
+  "version": "v1",
+  "createdAt": "2026-06-30T00:00:00.000Z",
+  "lessons": [
+    {
+      "id": "l01",
+      "title": "Politețe & baze",
+      "subtitle": "Salutări, mulțumesc…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Bună ziua / Salut",
+          "phonetic": "o-la",
+          "grammar": "Salut universal în spaniolă, la orice oră. Din latinescul « salve », la fel ca românescul „salve".",
+          "complements": [
+            "Foarte informal: « ¡Ey! »",
+            "Bună dimineața: « Buenos días »",
+            "Bună seara: « Buenas tardes »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Mulțumesc foarte mult",
+          "phonetic": "mu-ceas gra-zi-as",
+          "grammar": "« Muchas » = multe (feminin plural). « Gracias » din latinescul « gratia » (grație, favoare).",
+          "complements": [
+            "Simplu: « Gracias »",
+            "Răspuns: « De nada »",
+            "Foarte formal: « Se lo agradezco mucho »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Vă rog",
+          "phonetic": "por fa-bor",
+          "grammar": "Literal „pentru favoare". Esențial în spaniolă, de obicei la sfârșitul unei solicitări.",
+          "complements": [
+            "La început: « Por favor, ¿me puede ayudar? »",
+            "Cu insistență: « Se lo pido por favor »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Scuzați-mă",
+          "phonetic": "per-do-ne",
+          "grammar": "Forma formală a verbului « perdonar » (a ierta). Pentru a atrage atenția sau a se scuza ușor.",
+          "complements": [
+            "Informal: « Perdona »",
+            "Scuze puternice: « Lo siento mucho »",
+            "Pentru a trece: « Con permiso »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Nu înțeleg",
+          "phonetic": "no en-tjen-do",
+          "grammar": "« Entender » din latinescul « intendere ». Negație simplă cu « no » înaintea verbului.",
+          "complements": [
+            "Variantă: « No comprendo »",
+            "Mai lent: « ¿Puede hablar más despacio? »",
+            "Să scrie: « ¿Puede escribirlo? »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "La revedere",
+          "phonetic": "a-di-os",
+          "grammar": "Literal „la Dumnezeu". Aceeași etimologie cu francezul « adieu ». Formulă de rămas bun.",
+          "complements": [
+            "Informal: « ¡Hasta luego! »",
+            "Pe curând: « ¡Hasta pronto! »",
+            "Pe mâine: « ¡Hasta mañana! »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Bună seara / Noapte bună",
+          "phonetic": "bue-nas no-ces",
+          "grammar": "În spaniolă, « buenas noches » este atât salut de seară CÂT ȘI formulă de noapte bună.",
+          "complements": [
+            "Dimineața: « Buenos días »",
+            "După-amiaza: « Buenas tardes »",
+            "Scurt, informal: « Buenas »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Unde este toaleta?",
+          "phonetic": "don-de es-ta el ba-njo",
+          "grammar": "« Baño » = baie/toaletă. « ¿Dónde está? » = unde este (singular). Ñ se pronunță ca „ni" moale.",
+          "complements": [
+            "Formal: « ¿Dónde están los servicios? »",
+            "La restaurant: « ¿Los aseos, por favor? »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Cât costă?",
+          "phonetic": "cuan-to cues-ta",
+          "grammar": "« Cuánto » = cât. « Costar » = a costa. Verb neregulat: cuesto, cuesta… Similar cu românescul „a costa".",
+          "complements": [
+            "Plural: « ¿Cuánto cuestan? »",
+            "Reducere: « ¿Me puede hacer un descuento? »",
+            "Prea scump: « Es muy caro »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Vorbiți franceză?",
+          "phonetic": "a-bla fran-ses",
+          "grammar": "« Hablar » = a vorbi. Formă formală (usted). « C » în « francés » se pronunță ca „th" în castiliană.",
+          "complements": [
+            "Informal: « ¿Hablas francés? »",
+            "Engleză: « ¿Habla inglés? »",
+            "Răspuns: « Un poco / No muy bien »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "title": "Aeroport & zboruri",
+      "subtitle": "Check-in, porți…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Unde este ghișeul de check-in?",
+          "phonetic": "don-de es-ta el mos-tra-dor de fac-tu-ra-cion",
+          "grammar": "« Mostrador » = ghișeu/tejghea. « Facturación » = check-in bagaje. « C » se pronunță ca „th" în castiliană.",
+          "complements": [
+            "Comun: « ¿Dónde está el check-in? »",
+            "Bagaje: « ¿Dónde facturo mi maleta? »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Am un bagaj de predat",
+          "phonetic": "ten-go u-na ma-le-ta pa-ra fac-tu-rar",
+          "grammar": "« Tengo » = am. « Maleta » = valiză. « Para + infinitiv » exprimă scopul.",
+          "complements": [
+            "Două valize: « Tengo dos maletas para facturar »",
+            "Doar bagaj de mână: « Solo llevo equipaje de mano »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Unde este poarta numărul doisprezece?",
+          "phonetic": "don-de es-ta la puer-ta nu-me-ro do-ce",
+          "grammar": "« Puerta » = poartă/ușă. Numerele se pronunță în litere: doce = 12.",
+          "complements": [
+            "Orice poartă: « ¿Dónde está la puerta número…? »",
+            "Terminal: « ¿En qué terminal está? »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Este ocupat acest loc?",
+          "phonetic": "es-ta o-cu-pa-do es-te a-sien-to",
+          "grammar": "« Estar + participiu » exprimă o stare. « Ocupado » din latinescul « occupatus ».",
+          "complements": [
+            "Liber?: « ¿Está libre este asiento? »",
+            "Loc la culoar: « ¿Está ocupado el asiento del pasillo? »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Pot avea un loc la geam?",
+          "phonetic": "pue-do te-ner un a-sien-to de ven-ta-ni-ya",
+          "grammar": "« ¿Puedo? » = pot? (neregulat « poder »). « Ventanilla » = geam mic, termen aviatic.",
+          "complements": [
+            "La culoar: « ¿Puedo tener un asiento de pasillo? »",
+            "Ieșire de urgență: « ¿Puedo sentarme en la salida de emergencia? »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Zborul meu este întârziat",
+          "phonetic": "mi vue-lo es-ta re-tra-sa-do",
+          "grammar": "« Mi vuelo » = zborul meu. « Retrasado » = întârziat, participiu al verbului « retrasar ».",
+          "complements": [
+            "Anulat: « Mi vuelo está cancelado »",
+            "Cât întârziere?: « ¿Cuánto retraso tiene el vuelo? »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Am un zbor de conexiune",
+          "phonetic": "ten-go un vue-lo de co-nec-cion",
+          "grammar": "« Vuelo de conexión » = zbor cu escală. « Conexión » din latinescul « connexio ».",
+          "complements": [
+            "Puțin timp: « Tengo solo 45 minutos de conexión »",
+            "Pierd escala: « Voy a perder mi conexión »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Unde este preluarea bagajelor?",
+          "phonetic": "don-de es-ta la re-co-gi-da de e-qui-pa-jes",
+          "grammar": "« Recogida » = preluare/colectare. « Equipajes » = bagaje (plural). « J » se pronunță ca un „h" aspirat.",
+          "complements": [
+            "Ce bandă?: « ¿En qué cinta están los equipajes? »",
+            "Bagaj pierdut: « Han perdido mi maleta »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Nu am nimic de declarat",
+          "phonetic": "no ten-go na-da ke dec-la-rar",
+          "grammar": "« Nada que + infinitiv » = nimic de + infinitiv. Structură foarte frecventă în spaniolă.",
+          "complements": [
+            "Ceva: « Tengo algo que declarar »",
+            "Uz personal: « Todo está para uso personal »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Arătați-mi pașaportul, vă rog",
+          "phonetic": "mues-tre-me su pa-sa-por-te por fa-bor",
+          "grammar": "« Muéstreme » = arătați-mi (imperativ formal al verbului « mostrar » + me). Ordin oficial politicos.",
+          "complements": [
+            "Buletin: « Muéstreme su documento de identidad »",
+            "Variantă politicoasă: « ¿Puede mostrarme su pasaporte? »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "title": "Vamă & imigrare",
+      "subtitle": "Pașapoarte, control…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Care este scopul călătoriei dumneavoastră?",
+          "phonetic": "cual es el mo-ti-bo de su via-je",
+          "grammar": "« Motivo » = motiv/scop (din latinescul « motivus »). « Viaje » = călătorie, « j » se pronunță ca „h" aspirat.",
+          "complements": [
+            "Turism: « Es un viaje de turismo »",
+            "Afaceri: « Viajo por negocios »",
+            "Familie: « Vengo a visitar a mi familia »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Cât timp veți sta?",
+          "phonetic": "cuan-to tiem-po ba a ke-dar-se",
+          "grammar": "« Va a + infinitiv » = o să (viitor imediat). « Quedarse » = a rămâne (verb reflexiv).",
+          "complements": [
+            "O săptămână: « Me quedo una semana »",
+            "Două săptămâni: « Voy a quedarme dos semanas »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Unde este controlul pașapoartelor?",
+          "phonetic": "don-de es-ta el con-trol de pa-sa-por-tes",
+          "grammar": "« Control » = control (aceeași etimologie). « Pasaportes » = pașapoarte (plural).",
+          "complements": [
+            "Cetățeni UE: « ¿Dónde está el control para ciudadanos de la UE? »",
+            "Non-UE: « ¿Y para ciudadanos de fuera de la UE? »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Pot vedea pașaportul dumneavoastră, vă rog?",
+          "phonetic": "me per-mi-te ber su pa-sa-por-te por fa-bor",
+          "grammar": "« ¿Me permite? » = îmi permiteți? Foarte politicos. Construcție cu « permiso » subînțeles.",
+          "complements": [
+            "Direct: « Su pasaporte, por favor »",
+            "Buletin: « ¿Me permite ver su DNI? »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Aveți ceva de declarat?",
+          "phonetic": "ye-ba al-go ke dec-la-rar",
+          "grammar": "« ¿Lleva? » = purtați/aveți cu dumneavoastră? (formă formală). « Algo » = ceva.",
+          "complements": [
+            "Nimic: « No llevo nada que declarar »",
+            "Lichide: « ¿Puedo llevar líquidos? »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Am medicamente cu rețetă.",
+          "phonetic": "ye-bo me-di-ca-men-tos con re-ce-ta",
+          "grammar": "« Llevo » = port/am cu mine. « Receta » = rețetă medicală. Primul « r » este rulat.",
+          "complements": [
+            "Arăt rețeta: « Tengo la receta médica »",
+            "Insulină: « Llevo insulina, necesita refrigeración »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Vin să-mi vizitez familia.",
+          "phonetic": "ben-go a bis-si-tar a mi fa-mi-lia",
+          "grammar": "« Vengo a + infinitiv » = vin pentru a. « A mi familia »: dubla prepoziție « a » tipică în spaniolă înaintea persoanelor.",
+          "complements": [
+            "Prieteni: « Vengo a visitar a unos amigos »",
+            "Vacanță: « Vengo de vacaciones »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Aveți un bilet de întoarcere sau de continuare?",
+          "phonetic": "tie-ne bi-ye-te de buel-ta o de con-ti-nua-cion",
+          "grammar": "« Billete de vuelta » = bilet de întoarcere. « De continuación » = bilet de continuare/tranzit.",
+          "complements": [
+            "Arăt biletul: « Sí, aquí está mi billete de vuelta »",
+            "Dus: « Solo tengo billete de ida »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Transportați alimente, plante sau produse animale?",
+          "phonetic": "ye-ba a-li-men-tos plan-tas o pro-duc-tos a-ni-ma-les",
+          "grammar": "« Llevar » = a transporta/purta. « Alimentos » = alimente. « Productos animales » = produse de origine animală.",
+          "complements": [
+            "Nu: « No llevo nada de eso »",
+            "Brânză: « Llevo queso, ¿está permitido? »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Unde trebuie să merg pentru controlul vamal?",
+          "phonetic": "don-de de-bo ir pa-ra la ins-pec-cion de a-dua-nas",
+          "grammar": "« Debo + infinitiv » = trebuie să. « Aduanas » = vamă (din latinescul « aduana »).",
+          "complements": [
+            "Canal roșu: « ¿Dónde está la línea roja? »",
+            "Canal verde: « ¿Puedo pasar por la línea verde? »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "title": "Hotel & cazare",
+      "subtitle": "Rezervare, cameră…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Am o rezervare pe numele meu",
+          "phonetic": "ten-go u-na re-ser-ba a mi nom-bre",
+          "grammar": "« Tengo una reserva » = am o rezervare. « A mi nombre » = pe numele meu.",
+          "complements": [
+            "Silabisesc: « Mi nombre es… »",
+            "Număr rezervare: « Aquí está mi número de reserva »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Aveți camere disponibile?",
+          "phonetic": "tie-ne a-bi-ta-cio-nes dis-po-ni-bles",
+          "grammar": "« Habitaciones » = camere (hotel). « Disponibles » = disponibile. Formă formală (usted).",
+          "complements": [
+            "Cameră dublă: « ¿Tiene una habitación doble? »",
+            "Diseară: « ¿Para esta noche? »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "La ce oră este check-in-ul?",
+          "phonetic": "a ke o-ra es el chek-in",
+          "grammar": "« ¿A qué hora? » = la ce oră? Hotelurile spaniole folosesc « check-in » ca anglicism comun.",
+          "complements": [
+            "Check-out: « ¿A qué hora es el check-out? »",
+            "Sosire devreme: « Llego pronto, ¿puedo dejar las maletas? »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "La ce oră este check-out-ul?",
+          "phonetic": "a ke o-ra es el chek-aut",
+          "grammar": "« Check-out » este un anglicism comun în hoteluri. Echivalentul spaniol nativ este « salida ».",
+          "complements": [
+            "Check-out târziu: « ¿Puedo hacer un late check-out? »",
+            "Păstrez bagajele: « ¿Pueden guardar mis maletas hasta las 18h? »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Este micul dejun inclus?",
+          "phonetic": "es-ta in-clui-do el de-sa-yu-no",
+          "grammar": "« Estar incluido » = a fi inclus (stare). « Desayuno » = mic dejun (din « des-ayuno », ruperea postului).",
+          "complements": [
+            "Bufet: « ¿El desayuno es buffet? »",
+            "Cost extra: « ¿Cuánto cuesta el desayuno? »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Puteți să-mi aduceți un prosop în plus?",
+          "phonetic": "me pue-de tra-er u-na to-a-ya ec-stra por fa-bor",
+          "grammar": "« ¿Me puede traer? » = puteți să-mi aduceți? Construcție foarte politicoasă. « Toalla » = prosop.",
+          "complements": [
+            "Pernă: « ¿Me puede traer una almohada extra? »",
+            "Pătură: « ¿Me puede traer una manta? »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Wi-Fi-ul nu funcționează",
+          "phonetic": "el ui-fi no fun-cio-na",
+          "grammar": "« Wifi » este masculin în spaniolă. « No funciona » = nu funcționează. Frază foarte utilă.",
+          "complements": [
+            "Parolă: « ¿Cuál es la contraseña del wifi? »",
+            "Numele rețelei: « ¿Cuál es el nombre de la red wifi? »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Puteți să-mi chemați un taxi?",
+          "phonetic": "me pue-de pe-dir un tac-si por fa-bor",
+          "grammar": "« Pedir » = a solicita/comanda. « Me puede pedir un taxi » = puteți comanda un taxi pentru mine.",
+          "complements": [
+            "Ridesharing: « ¿Puede llamar a un Uber? »",
+            "Aeroport: « Necesito un taxi al aeropuerto »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Există un seif în cameră?",
+          "phonetic": "aj ca-ja fuer-te en la a-bi-ta-cion",
+          "grammar": "« ¿Hay? » = există? Foarte util pentru a întreba despre existența unui lucru. « Caja fuerte » = seif (literal „cutie tare").",
+          "complements": [
+            "Obiecte de valoare: « Quiero guardar mis objetos de valor »",
+            "Cum se folosește: « ¿Cómo se usa la caja fuerte? »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Aș dori să-mi prelungesc șederea cu o noapte",
+          "phonetic": "me gus-ta-ria am-pliar mi es-tan-cia u-na no-ce mas",
+          "grammar": "« Me gustaría » = aș dori (condițional politicos). « Ampliar » = a prelungi. « Estancia » = ședere.",
+          "complements": [
+            "Două nopți: « Me gustaría quedarme dos noches más »",
+            "Disponibilitate: « ¿Tiene la habitación disponible? »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "title": "Transport",
+      "subtitle": "Taxi, autobuz, metrou…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Puteți să mă duceți la această adresă?",
+          "phonetic": "pue-de ye-bar-me a es-ta di-rec-cion",
+          "grammar": "« ¿Puede llevarme? » = puteți să mă duceți? « Llevar + me » = a duce + mă.",
+          "complements": [
+            "Arăt adresa: « Aquí está la dirección »",
+            "Aeroport: « Lléveme al aeropuerto »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Cât costă până în centru?",
+          "phonetic": "cuan-to cues-ta ir al cen-tro",
+          "grammar": "« ¿Cuánto cuesta ir a…? » = cât costă să mergi la? « Ir » = a merge (infinitiv).",
+          "complements": [
+            "Aeroport: « ¿Cuánto cuesta ir al aeropuerto? »",
+            "Bagaje incluse?: « ¿Está incluido el equipaje? »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Unde este cea mai apropiată stație de autobuz?",
+          "phonetic": "don-de es-ta la pa-ra-da de au-to-bus mas cer-ca-na",
+          "grammar": "« Parada » = stație/oprire. « Autobús » = autobuz (accent pe „u"). « Más cercana » = cea mai apropiată (feminin).",
+          "complements": [
+            "Metrou: « ¿Dónde está la estación de metro más cercana? »",
+            "Taxi: « ¿Dónde puedo coger un taxi? »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Unde pot cumpăra un bilet?",
+          "phonetic": "don-de pue-do com-prar un bi-ye-te",
+          "grammar": "« ¿Dónde puedo…? » = unde pot? « Billete » = bilet (transport).",
+          "complements": [
+            "Card de transport: « ¿Puedo comprar una tarjeta de transporte? »",
+            "Automat: « ¿Hay máquinas automáticas? »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Ce linie merge la aeroport?",
+          "phonetic": "ke li-ne-a ba al ae-ro-puer-to",
+          "grammar": "« ¿Qué línea? » = ce linie? « Va » = merge (verbul « ir », persoana a 3-a singular).",
+          "complements": [
+            "Direcție: « ¿Cuál es la dirección del aeropuerto? »",
+            "Schimb: « ¿Tengo que hacer transbordo? »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Se oprește acest tren la gara centrală?",
+          "phonetic": "es-te tren pa-ra en la es-ta-cion cen-tral",
+          "grammar": "« ¿Este tren para? » = se oprește acest tren? « Para » din « parar » — diferit de prepoziția « para ».",
+          "complements": [
+            "Stația următoare: « ¿Cuál es la próxima parada? »",
+            "Terminus: « ¿Cuál es el destino final? »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Opriți-vă aici, vă rog",
+          "phonetic": "pa-re a-ki por fa-bor",
+          "grammar": "« Pare » = opriți-vă (imperativ formal al verbului « parar »). « Aquí » = aici. Formulă clasică în taxi.",
+          "complements": [
+            "La colț: « Pare en la esquina »",
+            "Chiar în față: « Pare justo delante »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Există o stație de metrou aproape?",
+          "phonetic": "aj u-na es-ta-cion de me-tro cer-ca",
+          "grammar": "« ¿Hay…? » = există? « Cerca » = aproape. « Estación de metro » = stație de metrou.",
+          "complements": [
+            "Autobuz: « ¿Hay una parada de autobús cerca? »",
+            "Departe?: « ¿Está muy lejos? »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Aș dori să închiriez o mașină",
+          "phonetic": "me gus-ta-ria al-ki-lar un co-ce",
+          "grammar": "« Me gustaría » = aș dori (condițional politicos). « Alquilar » = a închiria. « Coche » = mașină (Spania).",
+          "complements": [
+            "Automată: « Quiero un coche automático »",
+            "GPS: « ¿Está incluido el GPS? »",
+            "Durată: « Lo necesito por tres días »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "La ce oră pleacă ultimul autobuz?",
+          "phonetic": "a ke o-ra sa-le el ul-ti-mo au-to-bus",
+          "grammar": "« ¿A qué hora sale? » = la ce oră pleacă? « Último » = ultimul. « Sale » din « salir » (a pleca/ieși).",
+          "complements": [
+            "Primul autobuz: « ¿A qué hora sale el primer autobús? »",
+            "Frecvență: « ¿Cada cuánto pasa el autobús? »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "title": "Restaurant & cafenea",
+      "subtitle": "Comandă, notă de plată…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "O masă pentru două persoane, vă rog",
+          "phonetic": "u-na me-sa pa-ra dos por fa-bor",
+          "grammar": "« Mesa » = masă. « Para dos » = pentru două. Frază directă și universală la restaurant.",
+          "complements": [
+            "Terasă: « ¿Tienen mesa en la terraza? »",
+            "Rezervare: « Tengo una reserva a nombre de… »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Puteți să-mi aduceți meniul?",
+          "phonetic": "me pue-de tra-er la car-ta por fa-bor",
+          "grammar": "« La carta » = meniul. Și « el menú ». « ¿Me puede traer? » = puteți să-mi aduceți?",
+          "complements": [
+            "Carta vinurilor: « ¿Me puede traer la carta de vinos? »",
+            "Meniu zilnic: « ¿Tienen menú del día? »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Ce îmi recomandați?",
+          "phonetic": "ke me re-co-mien-da",
+          "grammar": "« ¿Qué me recomienda? » = ce îmi recomandați? Formă formală. « Recomendar » = a recomanda.",
+          "complements": [
+            "Specialitatea casei: « ¿Cuál es la especialidad de la casa? »",
+            "Preparatul zilei: « ¿Cuál es el plato del día? »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Aș dori să comand asta",
+          "phonetic": "ki-sie-ra pe-dir es-to",
+          "grammar": "« Quisiera » = aș dori (imperfect conjunctiv folosit ca condițional, foarte politicos).",
+          "complements": [
+            "Arătând: « Quiero esto, por favor »",
+            "Fără: « Sin… por favor »",
+            "Bine făcut: « Bien hecho, por favor »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Sunt alergic la arahide",
+          "phonetic": "soj a-ler-ji-co a los ca-ca-ue-tes",
+          "grammar": "« Soy alérgico » cu « ser » = stare permanentă. « Cacahuetes » = arahide/alune.",
+          "complements": [
+            "Gluten: « Soy alérgico al gluten »",
+            "Lactoză: « Soy intolerante a la lactosa »",
+            "Nuci: « Soy alérgico a los frutos secos »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Puteți să ne aduceți apă, vă rog?",
+          "phonetic": "nos pue-de tra-er a-gua por fa-bor",
+          "grammar": "« Nos » = ne (pronume obiect indirect). « Agua » = apă (feminin, dar cu « el » la singular).",
+          "complements": [
+            "Plată sau carbogazoasă?: « ¿Agua con gas o sin gas? »",
+            "Plată: « Agua sin gas, por favor »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Este delicios",
+          "phonetic": "es-ta de-li-cio-so",
+          "grammar": "« Estar » pentru stare temporară. « Está delicioso » = este delicios acum. Din « delicia ».",
+          "complements": [
+            "Extraordinar: « Está buenísimo »",
+            "Excelent: « Es excelente »",
+            "Compliment: « Felicite al cocinero »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Nota de plată, vă rog",
+          "phonetic": "la cuen-ta por fa-bor",
+          "grammar": "« La cuenta » = nota de plată. Direct și universal. « Por favor » face solicitarea politicoasă.",
+          "complements": [
+            "Separat: « ¿Podemos pagar por separado? »",
+            "Bon fiscal: « ¿Me puede dar el ticket? »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Acceptați carduri de credit?",
+          "phonetic": "a-cep-tan tar-je-ta de cre-di-to",
+          "grammar": "« ¿Aceptan? » = acceptați? (plural formal). « Tarjeta » = card.",
+          "complements": [
+            "Contactless: « ¿Aceptan pagos sin contacto? »",
+            "Visa: « ¿Aceptan Visa? »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Bacșișul este inclus?",
+          "phonetic": "es-ta in-clui-da la pro-pi-na",
+          "grammar": "« Propina » = bacșiș (din latinescul « propina »). În Spania bacșișul se lasă de obicei în numerar.",
+          "complements": [
+            "Las bacșiș: « Le dejo algo de propina »",
+            "Serviciu: « ¿Está incluido el servicio? »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "title": "Orientare",
+      "subtitle": "Direcții, hartă…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Scuzați-mă, cum se ajunge în centru?",
+          "phonetic": "per-do-ne co-mo se ba al cen-tro",
+          "grammar": "« Perdone » = scuzați-mă (formal). « ¿Cómo se va? » = cum se merge? (« se » impersonal).",
+          "complements": [
+            "Loc precis: « ¿Cómo se va a la Plaza Mayor? »",
+            "Pe jos: « ¿Se puede ir andando? »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Este departe de aici?",
+          "phonetic": "es-ta le-jos de a-ki",
+          "grammar": "« Lejos » = departe. « De aquí » = de aici. « ¿Está lejos? » folosește « estar » pentru localizare.",
+          "complements": [
+            "Aproape: « ¿Está cerca? »",
+            "Distanță: « ¿A cuántos metros está? »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Puteți să mi-l indicați pe hartă?",
+          "phonetic": "me lo pue-de in-di-car en el ma-pa",
+          "grammar": "« ¿Me lo puede indicar? » = puteți să mi-l indicați? « Lo » = pronume neutru. « Mapa » = hartă.",
+          "complements": [
+            "Arătați: « ¿Puede señalarlo en el mapa? »",
+            "Telefon: « ¿Puede indicarme en mi teléfono? »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Întoarceți-vă la stânga la următorul colț",
+          "phonetic": "ji-re a la iz-quier-da en la proc-si-ma es-ki-na",
+          "grammar": "« Gire » = întoarceți-vă (imperativ formal al verbului « girar »). « Izquierda » = stânga. « Esquina » = colț.",
+          "complements": [
+            "La dreapta: « Gire a la derecha »",
+            "La semafor: « Gire en el semáforo »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Mergeți drept înainte",
+          "phonetic": "si-ga to-do rec-to",
+          "grammar": "« Siga » = mergeți/continuați (imperativ formal al verbului « seguir »). « Todo recto » = tot drept.",
+          "complements": [
+            "Până la semafor: « Siga recto hasta el semáforo »",
+            "Variantă: « Continúe recto »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Se poate merge pe jos?",
+          "phonetic": "se pue-de ir an-dan-do",
+          "grammar": "« ¿Se puede? » = se poate? (impersonal). « Ir andando » = a merge pe jos (gerunziu al verbului « andar »).",
+          "complements": [
+            "Cât durează: « ¿Cuánto se tarda a pie? »",
+            "Prea departe: « No, es demasiado lejos para ir andando »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Unde este cel mai apropiat punct de reper?",
+          "phonetic": "don-de es-ta el mo-nu-men-to mas cer-ca-no",
+          "grammar": "« El más cercano » = cel mai apropiat (superlativ relativ). « Monumento » = monument/punct de interes.",
+          "complements": [
+            "Muzeu: « ¿Dónde está el museo más cercano? »",
+            "Punct de referință: « ¿Hay algún punto de referencia? »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Cred că m-am rătăcit",
+          "phonetic": "cre-o ke me e per-di-do",
+          "grammar": "« Me he perdido » = m-am rătăcit (perfect compus). Verb reflexiv « perderse ». « Creo que » = cred că.",
+          "complements": [
+            "Cer ajutor: « ¿Puede ayudarme? »",
+            "Adresă: « Busco esta dirección »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Puteți să mă orientați?",
+          "phonetic": "me pue-de o-rien-tar",
+          "grammar": "« ¿Me puede orientar? » = puteți să mă orientați? « Orientar » = a orienta (același cuvânt ca în română).",
+          "complements": [
+            "Ajutor: « ¿Me puede ayudar? »",
+            "Direcție: « ¿En qué dirección debo ir? »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Cât durează pe jos?",
+          "phonetic": "cuan-to se tar-da a pie",
+          "grammar": "« ¿Cuánto se tarda? » = cât durează? (impersonal). « A pie » = pe jos.",
+          "complements": [
+            "Cu autobuzul: « ¿Cuánto se tarda en autobús? »",
+            "Cu taxiul: « ¿Cuánto tarda en taxi? »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "title": "Cumpărături",
+      "subtitle": "Preț, mărime, rambursare…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Cât costă asta?",
+          "phonetic": "cuan-to cues-ta es-to",
+          "grammar": "« ¿Cuánto cuesta esto? » = cât costă asta? « Esto » = asta (pronume demonstrativ neutru).",
+          "complements": [
+            "Plural: « ¿Cuánto cuestan estos? »",
+            "Arătând: « ¿Cuánto cuesta esto que tiene ahí? »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Aveți asta într-o mărime mai mare?",
+          "phonetic": "lo tie-ne en u-na ta-ya mas gran-de",
+          "grammar": "« ¿Lo tiene en…? » = aveți asta în? « Talla » = mărime (îmbrăcăminte). « Más grande » = mai mare.",
+          "complements": [
+            "Mai mică: « ¿Lo tiene en una talla más pequeña? »",
+            "Număr pantofi: « ¿Lo tiene en un número más grande? »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Pot să-l probez?",
+          "phonetic": "me lo pue-do pro-bar",
+          "grammar": "« ¿Me lo puedo probar? » = pot să-l probez? « Probar » = a proba/testa.",
+          "complements": [
+            "Pantofi: « ¿Puedo probarme estos zapatos? »",
+            "Variantă: « ¿Puedo probármelo? »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Unde este cabina de probă?",
+          "phonetic": "don-de es-ta el pro-ba-dor",
+          "grammar": "« El probador » = cabina de probă. Din « probar » (a proba). Singular chiar dacă sunt mai multe cabine.",
+          "complements": [
+            "Unde sunt: « ¿Por dónde están los probadores? »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Iau asta",
+          "phonetic": "me ye-bo es-to",
+          "grammar": "« Me llevo esto » = iau asta (literal „îmi duc asta cu mine"). Formulă naturală pentru finalizarea unei cumpărături.",
+          "complements": [
+            "Două: « Me llevo estos dos »",
+            "Decizie: « Voy a llevarme este »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Este prea scump",
+          "phonetic": "es de-ma-sia-do ca-ro",
+          "grammar": "« Demasiado » = prea (adverb). « Caro » = scump. « Es » cu « ser » ca proprietate intrinsecă.",
+          "complements": [
+            "Ieftin: « Es muy barato »",
+            "Reducere: « ¿Puede hacerme un descuento? »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Aveți ceva mai ieftin?",
+          "phonetic": "tie-ne al-go mas ba-ra-to",
+          "grammar": "« Algo más barato » = ceva mai ieftin. « Barato » = ieftin/la prețuri bune.",
+          "complements": [
+            "Oferte: « ¿Hay artículos en oferta? »",
+            "Alternativă: « ¿Tiene una versión más económica? »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Puteți să-mi dați o chitanță?",
+          "phonetic": "me pue-de dar un re-ci-bo por fa-bor",
+          "grammar": "« Recibo » = chitanță/bon (din « recibir », a primi). « ¿Me puede dar? » = puteți să-mi dați?",
+          "complements": [
+            "Bon fiscal: « ¿Me puede dar el ticket? »",
+            "Factură: « ¿Puede hacerme una factura? »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Aș dori să fiu rambursat",
+          "phonetic": "ki-sie-ra ke me de-bol-bie-ran el di-ne-ro",
+          "grammar": "« Quisiera que + conjunctiv » = aș dori ca. « Me devolvieran » = să-mi returneze (conjunctiv imperfect).",
+          "complements": [
+            "Schimb: « Prefiero cambiarlo »",
+            "Voucher: « ¿Puede darme un vale? »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Aveți asta în altă culoare?",
+          "phonetic": "lo tie-ne en o-tro co-lor",
+          "grammar": "« ¿Lo tiene en otro color? » = aveți asta în altă culoare? « Otro » = alt.",
+          "complements": [
+            "Culoare precisă: « ¿Lo tiene en azul/rojo/negro? »",
+            "Mărime și culoare: « ¿Lo tiene en otra talla y otro color? »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "title": "Sănătate & urgențe",
+      "subtitle": "Doctor, farmacie…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Am nevoie de un doctor",
+          "phonetic": "ne-ce-si-to un me-di-co",
+          "grammar": "« Necesito » = am nevoie de (verbul « necesitar »). « Médico » = doctor. Feminin: « médica ».",
+          "complements": [
+            "Urgent: « Necesito un médico urgente »",
+            "Specialist: « Necesito ver a un especialista »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Unde este cel mai apropiat spital?",
+          "phonetic": "don-de es-ta el os-pi-tal mas cer-ca-no",
+          "grammar": "« Hospital » = spital (din latinescul « hospitalis »). « El más cercano » = cel mai apropiat.",
+          "complements": [
+            "Urgențe: « ¿Dónde están las urgencias? »",
+            "Clinică: « ¿Hay una clínica cerca? »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Este o urgență",
+          "phonetic": "es u-na e-mer-jen-cia",
+          "grammar": "« Emergencia » = urgență (aceeași etimologie). « Es » cu « ser » pentru că este o definiție a situației.",
+          "complements": [
+            "Chemat: « Llame a una ambulancia »",
+            "Număr: « Llame al 112 »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Nu mă simt bine",
+          "phonetic": "no me en-cuen-tro bien",
+          "grammar": "« No me encuentro bien » = nu mă simt bine (reflexiv « encontrarse »). Mai idiomatin decât « me siento mal ».",
+          "complements": [
+            "Stomac: « Me duele el estómago »",
+            "Febră: « Tengo fiebre »",
+            "Amețeli: « Me siento mareado »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Sunt alergic la penicilină",
+          "phonetic": "soj a-ler-ji-co a la pe-ni-ci-li-na",
+          "grammar": "« Soy alérgico » cu « ser » = stare permanentă. « Penicilina » = penicilină (aceeași etimologie).",
+          "complements": [
+            "Aspirină: « Soy alérgico a la aspirina »",
+            "Latex: « Soy alérgico al látex »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Puteți chema o ambulanță, vă rog?",
+          "phonetic": "pue-de ya-mar a u-na am-bu-lan-cia por fa-bor",
+          "grammar": "« ¿Puede llamar? » = puteți chema? « Ambulancia » = ambulanță. În Spania 112 este numărul de urgență.",
+          "complements": [
+            "Poliție: « Llame a la policía »",
+            "Pompieri: « Llame a los bomberos »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Mi-am pierdut medicamentele",
+          "phonetic": "e per-di-do mi me-di-ca-cion",
+          "grammar": "« He perdido » = am pierdut (perfect compus). « Medicación » = medicamente/tratament.",
+          "complements": [
+            "Rețetă: « Necesito una receta »",
+            "Reînnoire: « ¿Pueden renovarme la medicación? »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Unde este cea mai apropiată farmacie?",
+          "phonetic": "don-de es-ta la far-ma-cia mas cer-ca-na",
+          "grammar": "« Farmacia » = farmacie (din grecescul « pharmakeia »). În Spania se recunoaște după crucea verde.",
+          "complements": [
+            "Farmacie de gardă: « ¿Hay una farmacia de guardia? »",
+            "Medicament: « ¿Tienen…? »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Mă doare capul",
+          "phonetic": "me due-le la ca-be-za",
+          "grammar": "« Me duele » = mă doare (construcție indirectă). « La cabeza » = capul.",
+          "complements": [
+            "Stomac: « Me duele el estómago »",
+            "Spate: « Me duele la espalda »",
+            "Gât: « Me duele la garganta »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Ajutați-mă, vă rog",
+          "phonetic": "a-yu-de-me por fa-bor",
+          "grammar": "« Ayúdeme » = ajutați-mă (imperativ formal al verbului « ayudar » + me). Accent pe « yú ».",
+          "complements": [
+            "Ajutor!: « ¡Socorro! »",
+            "Chemați pe cineva: « ¡Llamen a alguien! »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "title": "Interacțiuni sociale",
+      "subtitle": "Prezentări, prietenie…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Îmi pare bine să vă cunosc",
+          "phonetic": "mu-co gus-to",
+          "grammar": "« Mucho gusto » = îmi pare bine (literal „mare plăcere"). Formulă universală de prezentare.",
+          "complements": [
+            "Răspuns: « El gusto es mío »",
+            "Formal: « Encantado/a de conocerle »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Cum vă numiți?",
+          "phonetic": "co-mo se ya-ma us-ted",
+          "grammar": "« ¿Cómo se llama usted? » = cum vă numiți? Formal. « Llamarse » = a se numi (reflexiv).",
+          "complements": [
+            "Informal: « ¿Cómo te llamas? »",
+            "Prenume: « ¿Cuál es tu nombre? »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Mă numesc…",
+          "phonetic": "me ya-mo",
+          "grammar": "« Me llamo » = mă numesc (literal „mă chem"). Verb reflexiv « llamarse ».",
+          "complements": [
+            "Formal: « Mi nombre es… »",
+            "Nume complet: « Me llamo… y mi apellido es… »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "De unde sunteți?",
+          "phonetic": "de don-de es us-ted",
+          "grammar": "« ¿De dónde es usted? » = de unde sunteți? « Ser » pentru origine (stare permanentă). Informal: « ¿De dónde eres? »",
+          "complements": [
+            "Informal: « ¿De dónde eres? »",
+            "Oraș: « ¿De qué ciudad eres? »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Sunt din Franța",
+          "phonetic": "soj de fran-cia",
+          "grammar": "« Soy de Francia » = sunt din Franța. « Ser de + țară » = a fi din / a proveni din.",
+          "complements": [
+            "Oraș: « Soy de París »",
+            "Naționalitate: « Soy francés / francesa »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Cum vă simțiți?",
+          "phonetic": "co-mo es-ta us-ted",
+          "grammar": "« ¿Cómo está usted? » = cum vă simțiți? (formal). « Estar » pentru stări variabile (sănătate, dispoziție).",
+          "complements": [
+            "Informal: « ¿Cómo estás? »",
+            "Foarte informal: « ¿Qué tal? »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Bine, mulțumesc",
+          "phonetic": "bien gra-cias",
+          "grammar": "Răspuns politicos universal. « Bien » = bine. Se poate adăuga « ¿y usted? » pentru a întoarce întrebarea.",
+          "complements": [
+            "Foarte bine: « Muy bien, gracias »",
+            "Întorc întrebarea: « Bien, ¿y usted? »",
+            "Așa și așa: « Regular »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Pot face o fotografie cu dumneavoastră?",
+          "phonetic": "me pue-do a-cer u-na fo-to con us-ted",
+          "grammar": "« ¿Me puedo hacer una foto? » = pot face o fotografie? « Con usted » = cu dumneavoastră (formal).",
+          "complements": [
+            "Selfie: « ¿Podemos hacernos un selfie? »",
+            "Amândoi: « ¿Puede hacernos una foto? »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Să rămânem în contact",
+          "phonetic": "man-ten-ga-mo-nos en con-tac-to",
+          "grammar": "« Mantengámonos » = să rămânem (imperativ inclusiv al verbului « mantenerse »). Puțin formal dar frecvent.",
+          "complements": [
+            "Social media: « Sígueme en Instagram »",
+            "WhatsApp: « Te mando mi número de WhatsApp »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "O zi bună",
+          "phonetic": "ke ten-ga un buen di-a",
+          "grammar": "« Que tenga un buen día » = să aveți o zi bună (conjunctiv de urare). Formulă politicoasă de rămas bun.",
+          "complements": [
+            "Seară bună: « Que tenga una buena tarde »",
+            "Noapte bună: « Buenas noches »",
+            "Informal: « ¡Buen día! »"
+          ]
+        }
+      ]
+    }
+  ]
+}

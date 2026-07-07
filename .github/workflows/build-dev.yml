@@ -1,0 +1,53 @@
+name: Build Dev APK
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: src/frontend/.nvmrc
+          cache: npm
+          cache-dependency-path: src/frontend/package-lock.json
+
+      - name: Setup Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+
+      - name: Setup Gradle cache
+        uses: gradle/actions/setup-gradle@v3
+
+      - name: Install frontend dependencies
+        working-directory: src/frontend
+        run: npm ci
+
+      - name: Build Vite app (production assets, CDN = GitHub Pages)
+        working-directory: src/frontend
+        run: npm run build
+
+      - name: Capacitor sync
+        working-directory: src/frontend
+        run: npx cap sync android
+
+      - name: Build debug APK
+        working-directory: src/frontend/android
+        run: ./gradlew assembleDebug
+
+      - name: Upload APK artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: travelingo-debug-${{ github.sha }}
+          path: src/frontend/android/app/build/outputs/apk/debug/app-debug.apk
+          retention-days: 14

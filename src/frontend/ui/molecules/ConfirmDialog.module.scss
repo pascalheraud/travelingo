@@ -1,0 +1,22 @@
+$dialog-title-gap:   8px;
+$dialog-message-gap: 24px;
+$dialog-actions-gap: 12px;
+
+.title {
+  font-size:     $font-size-lg;
+  font-weight:   $font-weight-bold;
+  color:         $color-text-primary;
+  margin-bottom: $dialog-title-gap;
+}
+
+.message {
+  font-size:     $font-size-md;
+  color:         $color-text-secondary;
+  margin-bottom: $dialog-message-gap;
+}
+
+.actions {
+  display:         flex;
+  gap:             $dialog-actions-gap;
+  justify-content: flex-end;
+}

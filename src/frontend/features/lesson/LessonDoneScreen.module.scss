@@ -1,0 +1,35 @@
+$done-content-gap: 12px;
+$done-padding-y:    48px;
+$done-padding-x:    16px;
+
+.screen {
+  display:        flex;
+  flex-direction: column;
+  align-items:    center;
+  gap:            $done-content-gap;
+  padding:        $done-padding-y $done-padding-x;
+  text-align:     center;
+}
+
+.emoji { font-size: $font-size-2xl * 2; }
+
+.title {
+  font-size:   $font-size-xl;
+  font-weight: $font-weight-bold;
+  color:       $color-text-primary;
+}
+
+.description {
+  font-size: $font-size-md;
+  color:     $color-text-secondary;
+}
+
+.review {
+  background:      transparent;
+  border:          none;
+  padding:         0;
+  font-size:       $font-size-md;
+  color:           $color-text-secondary;
+  text-decoration: underline;
+  cursor:          pointer;
+}

@@ -1,0 +1,1096 @@
+{
+  "uuid": "es-v1-en",
+  "learningPackRef": "es-v1",
+  "targetLang": "es",
+  "sourceLang": "en",
+  "version": "v1",
+  "createdAt": "2026-06-30T00:00:00.000Z",
+  "lessons": [
+    {
+      "id": "l01",
+      "title": "Politeness & basics",
+      "subtitle": "Greetings, thank you…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Hello",
+          "phonetic": "oh-la",
+          "grammar": "Universal Spanish greeting, any time of day. From Latin « salve ».",
+          "complements": [
+            "Very informal: « ¡Ey! »",
+            "Good morning: « Buenos días »",
+            "Good afternoon: « Buenas tardes »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Thank you very much",
+          "phonetic": "moo-chas gra-thee-as",
+          "grammar": "« Muchas » = many/much (feminine plural). « Gracias » from Latin « gratia » (grace, favour).",
+          "complements": [
+            "Simple: « Gracias »",
+            "Very formal: « Se lo agradezco mucho »",
+            "Reply: « De nada »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Please",
+          "phonetic": "por fa-vor",
+          "grammar": "Literally 'for the favour'. Essential in Spanish, usually placed at the end of a request.",
+          "complements": [
+            "At the start: « Por favor, ¿puede ayudarme? »",
+            "Insisting politely: « Se lo pido por favor »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Excuse me",
+          "phonetic": "per-do-neh",
+          "grammar": "Formal form of « perdonar » (to forgive). Used to get someone's attention or apologise lightly.",
+          "complements": [
+            "Informal: « Perdona »",
+            "Strong apology: « Lo siento mucho »",
+            "To pass through: « Con permiso »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "I don't understand",
+          "phonetic": "no en-tyen-do",
+          "grammar": "« Entender » from Latin « intendere ». Simple negation with « no » before the verb.",
+          "complements": [
+            "Variant: « No comprendo »",
+            "Speak slower: « ¿Puede hablar más despacio? »",
+            "Write it down: « ¿Puede escribirlo? »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Goodbye",
+          "phonetic": "a-dyos",
+          "grammar": "Literally 'to God'. Same etymology as French 'adieu'. Standard farewell.",
+          "complements": [
+            "Informal: « ¡Hasta luego! »",
+            "See you soon: « ¡Hasta pronto! »",
+            "See you tomorrow: « ¡Hasta mañana! »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Good evening / Good night",
+          "phonetic": "bweh-nas no-ches",
+          "grammar": "In Spanish, « buenas noches » serves as both an evening greeting AND a goodnight farewell.",
+          "complements": [
+            "Morning: « Buenos días »",
+            "Afternoon: « Buenas tardes »",
+            "Casual short form: « Buenas »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Where is the bathroom?",
+          "phonetic": "don-deh es-ta el ban-yo",
+          "grammar": "« Baño » = bathroom/toilet. « ¿Dónde está? » = where is (singular). The ñ sounds like 'ny'.",
+          "complements": [
+            "Formal: « ¿Dónde están los servicios? »",
+            "In a restaurant: « ¿Los aseos, por favor? »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "How much does it cost?",
+          "phonetic": "kwahn-to kwes-ta",
+          "grammar": "« Cuánto » = how much. « Costar » = to cost. Irregular verb: cuesto, cuesta…",
+          "complements": [
+            "Plural: « ¿Cuánto cuestan? »",
+            "Negotiate: « ¿Me puede hacer un descuento? »",
+            "Too expensive: « Es muy caro »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Do you speak French?",
+          "phonetic": "ab-la fran-thes",
+          "grammar": "« Hablar » = to speak. Formal form (usted). The 'c' in « francés » sounds like 'th' in Castilian.",
+          "complements": [
+            "Informal: « ¿Hablas francés? »",
+            "English: « ¿Habla inglés? »",
+            "Reply: « Un poco / No muy bien »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "title": "Airport & flights",
+      "subtitle": "Check-in, gates…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Where is the check-in desk?",
+          "phonetic": "don-deh es-ta el mos-tra-dor deh fak-too-ra-thyon",
+          "grammar": "« Mostrador » = counter/desk. « Facturación » = check-in (baggage). The 'c' sounds like 'th' in Castilian.",
+          "complements": [
+            "Also common: « ¿Dónde está el check-in? »",
+            "Bags: « ¿Dónde facturo mi maleta? »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "I have one suitcase to check in",
+          "phonetic": "ten-go oo-na ma-leh-ta pa-ra fak-too-rar",
+          "grammar": "« Tengo » = I have. « Maleta » = suitcase. « Para + infinitive » expresses purpose.",
+          "complements": [
+            "Two bags: « Tengo dos maletas para facturar »",
+            "Hand luggage only: « Solo llevo equipaje de mano »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Where is gate number twelve?",
+          "phonetic": "don-deh es-ta la pwer-ta noo-meh-ro do-theh",
+          "grammar": "« Puerta » = gate/door. Numbers are spoken in full: doce = 12. The 'c' in « doce » sounds like 'th'.",
+          "complements": [
+            "Any gate: « ¿Dónde está la puerta número…? »",
+            "Terminal: « ¿En qué terminal está? »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Is this seat taken?",
+          "phonetic": "es-ta o-koo-pa-do es-teh a-syen-to",
+          "grammar": "« Estar + past participle » expresses a state. « Ocupado » from Latin « occupatus ».",
+          "complements": [
+            "Is it free?: « ¿Está libre este asiento? »",
+            "Aisle seat: « ¿Está ocupado el asiento del pasillo? »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Can I have a window seat?",
+          "phonetic": "pweh-do teh-ner oon a-syen-to deh ven-ta-nee-ya",
+          "grammar": "« ¿Puedo? » = can I? (irregular « poder »). « Ventanilla » = small window, the standard aviation term.",
+          "complements": [
+            "Aisle: « ¿Puedo tener un asiento de pasillo? »",
+            "Exit row: « ¿Puedo sentarme en la salida de emergencia? »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "My flight is delayed",
+          "phonetic": "mee vweh-lo es-ta reh-tra-sa-do",
+          "grammar": "« Mi vuelo » = my flight. « Retrasado » = delayed, past participle of « retrasar ».",
+          "complements": [
+            "Cancelled: « Mi vuelo está cancelado »",
+            "How long?: « ¿Cuánto retraso tiene el vuelo? »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "I have a connecting flight",
+          "phonetic": "ten-go oon vweh-lo deh ko-nek-thyon",
+          "grammar": "« Vuelo de conexión » = connecting flight. « Conexión » from Latin « connexio ».",
+          "complements": [
+            "Short connection: « Tengo solo 45 minutos de conexión »",
+            "Miss connection: « Voy a perder mi conexión »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Where is the baggage claim?",
+          "phonetic": "don-deh es-ta la reh-ko-hee-da deh eh-kee-pah-hes",
+          "grammar": "« Recogida » = collection/pickup. « Equipajes » = luggage (plural). The 'j' sounds like a hard 'h'.",
+          "complements": [
+            "Belt: « ¿En qué cinta están los equipajes? »",
+            "Lost bag: « Han perdido mi maleta »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "I have nothing to declare",
+          "phonetic": "no ten-go na-da keh dek-la-rar",
+          "grammar": "« Nada que + infinitive » = nothing to + infinitive. Very common structure in Spanish.",
+          "complements": [
+            "Something: « Tengo algo que declarar »",
+            "Personal use: « Todo está para uso personal »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Please show me your passport",
+          "phonetic": "mwes-treh-meh soo pa-sa-por-teh por fa-vor",
+          "grammar": "« Muéstreme » = show me (formal imperative of « mostrar » + me). Official polite command.",
+          "complements": [
+            "ID card: « Muéstreme su documento de identidad »",
+            "Polite variant: « ¿Puede mostrarme su pasaporte? »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "title": "Customs & immigration",
+      "subtitle": "Passports, border control…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "What is the purpose of your trip?",
+          "phonetic": "kwal es el mo-tee-vo deh soo vya-heh",
+          "grammar": "« Motivo » = purpose/reason (from Latin « motivus »). « Viaje » = trip, the 'j' sounds like a hard 'h'.",
+          "complements": [
+            "Tourism: « Es un viaje de turismo »",
+            "Business: « Viajo por negocios »",
+            "Family: « Vengo a visitar a mi familia »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "How long will you be staying?",
+          "phonetic": "kwahn-to tyem-po va a keh-dar-seh",
+          "grammar": "« Va a + infinitive » = going to (near future). « Quedarse » = to stay (reflexive verb).",
+          "complements": [
+            "One week: « Me quedo una semana »",
+            "Two weeks: « Voy a quedarme dos semanas »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Where is passport control?",
+          "phonetic": "don-deh es-ta el kon-trol deh pa-sa-por-tes",
+          "grammar": "« Control » = control/checkpoint. « Pasaportes » = passports (plural).",
+          "complements": [
+            "EU citizens: « ¿Dónde está el control para ciudadanos de la UE? »",
+            "Non-EU: « ¿Y para ciudadanos de fuera de la UE? »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "May I see your passport, please?",
+          "phonetic": "meh per-mee-teh ver soo pa-sa-por-teh por fa-vor",
+          "grammar": "« ¿Me permite? » = may I / do you allow me? Very polite structure.",
+          "complements": [
+            "Direct: « Su pasaporte, por favor »",
+            "ID: « ¿Me permite ver su DNI? »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Do you have anything to declare?",
+          "phonetic": "yeh-va al-go keh dek-la-rar",
+          "grammar": "« ¿Lleva? » = do you carry? (formal « usted »). « Algo » = something/anything.",
+          "complements": [
+            "Nothing: « No llevo nada que declarar »",
+            "Liquids: « ¿Puedo llevar líquidos? »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "I am carrying prescription medicine.",
+          "phonetic": "yeh-vo meh-dee-ka-men-tos kon reh-theh-ta",
+          "grammar": "« Llevo » = I am carrying/I have on me. « Receta » = prescription. The initial 'r' is rolled.",
+          "complements": [
+            "Show prescription: « Tengo la receta médica »",
+            "Insulin: « Llevo insulina, necesita refrigeración »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "I am here to visit family.",
+          "phonetic": "ven-go a vis-see-tar a mee fa-mee-lya",
+          "grammar": "« Vengo a + infinitive » = I am here to / I come to. « A mi familia »: double 'a' is typical in Spanish before people.",
+          "complements": [
+            "Friends: « Vengo a visitar a unos amigos »",
+            "Holiday: « Vengo de vacaciones »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Do you have a return or onward ticket?",
+          "phonetic": "tyeh-neh bee-yeh-teh deh vwel-ta o deh kon-tee-nwa-thyon",
+          "grammar": "« Billete de vuelta » = return ticket. « De continuación » = onward/connecting ticket.",
+          "complements": [
+            "Show it: « Sí, aquí está mi billete de vuelta »",
+            "One way: « Solo tengo billete de ida »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Are you carrying food, plants or animal products?",
+          "phonetic": "yeh-va a-lee-men-tos plan-tas o pro-dook-tos a-nee-ma-les",
+          "grammar": "« Llevar » = to carry/bring. « Alimentos » = food items. « Productos animales » = animal products.",
+          "complements": [
+            "No: « No llevo nada de eso »",
+            "Cheese: « Llevo queso, ¿está permitido? »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Where should I go for customs inspection?",
+          "phonetic": "don-deh deh-bo eer pa-ra la ins-pek-thyon deh a-dwa-nas",
+          "grammar": "« Debo + infinitive » = I must / I should. « Aduanas » = customs (from Latin « aduana »).",
+          "complements": [
+            "Red channel: « ¿Dónde está la línea roja? »",
+            "Green channel: « ¿Puedo pasar por la línea verde? »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "title": "Hotel & lodging",
+      "subtitle": "Reservation, room…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "I have a reservation under my name",
+          "phonetic": "ten-go oo-na reh-ser-va a mee nom-breh",
+          "grammar": "« Tengo una reserva » = I have a reservation. « A mi nombre » = under my name.",
+          "complements": [
+            "Spell it: « Mi nombre es… »",
+            "Booking number: « Aquí está mi número de reserva »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Do you have any rooms available?",
+          "phonetic": "tyeh-neh a-bee-ta-thyo-nes dis-po-nee-bles",
+          "grammar": "« Habitaciones » = rooms (hotel). « Disponibles » = available. Formal « usted » form.",
+          "complements": [
+            "Double room: « ¿Tiene una habitación doble? »",
+            "Tonight: « ¿Para esta noche? »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "What time is check-in?",
+          "phonetic": "a keh o-ra es el chek-in",
+          "grammar": "« ¿A qué hora? » = at what time? Spanish hotels use « check-in » as a common English loanword.",
+          "complements": [
+            "Check-out: « ¿A qué hora es el check-out? »",
+            "Early arrival: « Llego pronto, ¿puedo dejar las maletas? »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "What time is check-out?",
+          "phonetic": "a keh o-ra es el chek-owt",
+          "grammar": "« Check-out » is a common hotel anglicism. The native Spanish equivalent is « salida ».",
+          "complements": [
+            "Late check-out: « ¿Puedo hacer un late check-out? »",
+            "Store bags: « ¿Pueden guardar mis maletas hasta las 18h? »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Is breakfast included?",
+          "phonetic": "es-ta in-klwee-do el deh-sa-yoo-no",
+          "grammar": "« Estar incluido » = to be included (state). « Desayuno » = breakfast (from « des-ayuno », breaking the fast).",
+          "complements": [
+            "Buffet: « ¿El desayuno es buffet? »",
+            "Extra cost: « ¿Cuánto cuesta el desayuno? »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Could I have an extra towel, please?",
+          "phonetic": "meh pweh-deh tra-er oo-na to-a-ya eks-tra por fa-vor",
+          "grammar": "« ¿Me puede traer? » = could you bring me? Very polite indirect construction. « Toalla » = towel.",
+          "complements": [
+            "Pillow: « ¿Me puede traer una almohada extra? »",
+            "Blanket: « ¿Me puede traer una manta? »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "The Wi-Fi is not working",
+          "phonetic": "el wee-fee no foon-thyo-na",
+          "grammar": "« Wifi » is masculine in Spanish. « No funciona » = doesn't work. Very practical phrase.",
+          "complements": [
+            "Password: « ¿Cuál es la contraseña del wifi? »",
+            "Network name: « ¿Cuál es el nombre de la red wifi? »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Could you call me a taxi, please?",
+          "phonetic": "meh pweh-deh peh-deer oon tak-see por fa-vor",
+          "grammar": "« Pedir » = to request/order. « Me puede pedir un taxi » = can you order a taxi for me.",
+          "complements": [
+            "Ride-share: « ¿Puede llamar a un Uber? »",
+            "Airport: « Necesito un taxi al aeropuerto »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Is there a safe in the room?",
+          "phonetic": "eye ka-ha fwer-teh en la a-bee-ta-thyon",
+          "grammar": "« ¿Hay? » = is there? Very useful for asking about availability. « Caja fuerte » = safe (literally 'strong box').",
+          "complements": [
+            "Valuables: « Quiero guardar mis objetos de valor »",
+            "Code: « ¿Cómo se usa la caja fuerte? »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "I would like to extend my stay by one night",
+          "phonetic": "meh goos-ta-ree-a am-plya-r mee es-tan-thya oo-na no-cheh mas",
+          "grammar": "« Me gustaría » = I would like (conditional, polite). « Ampliar » = to extend. « Estancia » = stay.",
+          "complements": [
+            "Two more nights: « Me gustaría quedarme dos noches más »",
+            "Availability: « ¿Tiene la habitación disponible? »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "title": "Transport",
+      "subtitle": "Taxi, bus, metro…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Can you take me to this address?",
+          "phonetic": "pweh-deh yeh-var-meh a es-ta dee-rek-thyon",
+          "grammar": "« ¿Puede llevarme? » = can you take me? « Llevar + me » = take + me (object pronoun).",
+          "complements": [
+            "Show address: « Aquí está la dirección »",
+            "Airport: « Lléveme al aeropuerto »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "How much does it cost to get to the city centre?",
+          "phonetic": "kwahn-to kwes-ta eer al then-tro",
+          "grammar": "« ¿Cuánto cuesta ir a…? » = how much to go to? The infinitive « ir » = to go.",
+          "complements": [
+            "Airport: « ¿Cuánto cuesta ir al aeropuerto? »",
+            "Luggage charge: « ¿Está incluido el equipaje? »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Where is the nearest bus stop?",
+          "phonetic": "don-deh es-ta la pa-ra-da deh ow-to-boos mas ther-ka-na",
+          "grammar": "« Parada » = stop. « Autobús » = bus (stress on the 'u'). « Más cercana » = nearest (feminine).",
+          "complements": [
+            "Metro: « ¿Dónde está la estación de metro más cercana? »",
+            "Taxi rank: « ¿Dónde puedo coger un taxi? »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Where can I buy a ticket?",
+          "phonetic": "don-deh pweh-do kom-prar oon bee-yeh-teh",
+          "grammar": "« ¿Dónde puedo…? » = where can I? « Billete » = ticket (transport). Different from « ticket » (receipt).",
+          "complements": [
+            "Travel card: « ¿Puedo comprar una tarjeta de transporte? »",
+            "Machine: « ¿Hay máquinas automáticas? »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Which line goes to the airport?",
+          "phonetic": "keh lee-neh-a va al a-eh-ro-pwer-to",
+          "grammar": "« ¿Qué línea? » = which line? « Va » = goes (verb « ir », 3rd person singular present).",
+          "complements": [
+            "Direction: « ¿Cuál es la dirección del aeropuerto? »",
+            "Transfer: « ¿Tengo que hacer transbordo? »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Does this train stop at the central station?",
+          "phonetic": "es-teh tren pa-ra en la es-ta-thyon then-tral",
+          "grammar": "« ¿Este tren para? » = does this train stop? « Para » from « parar » — different from the preposition « para ».",
+          "complements": [
+            "Next stop: « ¿Cuál es la próxima parada? »",
+            "Final stop: « ¿Cuál es el destino final? »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Could you stop here, please?",
+          "phonetic": "pa-reh a-kee por fa-vor",
+          "grammar": "« Pare » = stop (formal imperative of « parar »). « Aquí » = here. Classic phrase in a taxi.",
+          "complements": [
+            "At the corner: « Pare en la esquina »",
+            "Just in front: « Pare justo delante »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Is there a metro station nearby?",
+          "phonetic": "eye oo-na es-ta-thyon deh meh-tro ther-ka",
+          "grammar": "« ¿Hay…? » = is there? « Cerca » = nearby/close. « Estación de metro » = metro station.",
+          "complements": [
+            "Bus stop: « ¿Hay una parada de autobús cerca? »",
+            "How far?: « ¿Está muy lejos? »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "I would like to rent a car",
+          "phonetic": "meh goos-ta-ree-a al-kee-lar oon ko-cheh",
+          "grammar": "« Me gustaría » = I would like (polite conditional). « Alquilar » = to rent. « Coche » = car (Spain).",
+          "complements": [
+            "Automatic: « Quiero un coche automático »",
+            "GPS: « ¿Está incluido el GPS? »",
+            "Duration: « Lo necesito por tres días »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "What time does the last bus leave?",
+          "phonetic": "a keh o-ra sa-leh el ool-tee-mo ow-to-boos",
+          "grammar": "« ¿A qué hora sale? » = at what time does it leave? « Último » = last. « Sale » from « salir » (to leave).",
+          "complements": [
+            "First bus: « ¿A qué hora sale el primer autobús? »",
+            "Frequency: « ¿Cada cuánto pasa el autobús? »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "title": "Restaurant & café",
+      "subtitle": "Ordering, bill…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "A table for two, please",
+          "phonetic": "oo-na meh-sa pa-ra dos por fa-vor",
+          "grammar": "« Mesa » = table. « Para dos » = for two. Direct and universal restaurant phrase.",
+          "complements": [
+            "Terrace: « ¿Tienen mesa en la terraza? »",
+            "Reservation: « Tengo una reserva a nombre de… »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Can I see the menu, please?",
+          "phonetic": "meh pweh-deh tra-er la kar-ta por fa-vor",
+          "grammar": "« La carta » = the menu. Also « el menú ». « ¿Me puede traer? » = can you bring me?",
+          "complements": [
+            "Wine list: « ¿Me puede traer la carta de vinos? »",
+            "Set menu: « ¿Tienen menú del día? »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "What do you recommend?",
+          "phonetic": "keh meh reh-ko-myen-da",
+          "grammar": "« ¿Qué me recomienda? » = what do you recommend? Formal. « Recomendar » = to recommend.",
+          "complements": [
+            "House special: « ¿Cuál es la especialidad de la casa? »",
+            "Today's special: « ¿Cuál es el plato del día? »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "I would like to order this",
+          "phonetic": "kee-syeh-ra peh-deer es-to",
+          "grammar": "« Quisiera » = I would like (imperfect subjunctive used as polite conditional). Very courteous.",
+          "complements": [
+            "Pointing: « Quiero esto, por favor »",
+            "Without: « Sin… por favor »",
+            "Well done: « Bien hecho, por favor »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "I am allergic to peanuts",
+          "phonetic": "soy a-ler-hee-ko a los ka-ka-weh-tes",
+          "grammar": "« Soy alérgico » with « ser » = permanent state. « Cacahuetes » = peanuts. The 'j' sounds like a hard 'h'.",
+          "complements": [
+            "Gluten: « Soy alérgico al gluten »",
+            "Lactose: « Soy intolerante a la lactosa »",
+            "Nuts: « Soy alérgico a los frutos secos »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Could we have some water, please?",
+          "phonetic": "nos pweh-deh tra-er a-gwa por fa-vor",
+          "grammar": "« Nos » = us (indirect object pronoun). « Agua » = water (feminine, but uses « el » in singular: « el agua »).",
+          "complements": [
+            "Sparkling or still?: « ¿Agua con gas o sin gas? »",
+            "Still: « Agua sin gas, por favor »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "This is delicious",
+          "phonetic": "es-ta deh-lee-thyo-so",
+          "grammar": "« Estar » for a temporary state. « Está delicioso » = this is delicious right now. « Delicioso » from « delicia ».",
+          "complements": [
+            "Fantastic: « Está buenísimo »",
+            "Excellent: « Es excelente »",
+            "Compliment: « Felicite al cocinero »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Can I have the bill, please?",
+          "phonetic": "la kwen-ta por fa-vor",
+          "grammar": "« La cuenta » = the bill. Direct and universal. Add « por favor » to be polite.",
+          "complements": [
+            "Split: « ¿Podemos pagar por separado? »",
+            "Receipt: « ¿Me puede dar el ticket? »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Do you accept credit cards?",
+          "phonetic": "a-thep-tan tar-heh-ta deh kreh-dee-to",
+          "grammar": "« ¿Aceptan? » = do you accept? (plural formal, « ustedes » implied). « Tarjeta » = card.",
+          "complements": [
+            "Contactless: « ¿Aceptan pagos sin contacto? »",
+            "Visa: « ¿Aceptan Visa? »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Is the tip included?",
+          "phonetic": "es-ta in-klwee-da la pro-pee-na",
+          "grammar": "« Propina » = tip/gratuity (from Latin « propina »). In Spain, tips are often left in cash.",
+          "complements": [
+            "Leave tip: « Le dejo algo de propina »",
+            "Service charge: « ¿Está incluido el servicio? »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "title": "Getting around",
+      "subtitle": "Directions, map…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Excuse me, how do I get to the city centre?",
+          "phonetic": "per-do-neh ko-mo seh va al then-tro",
+          "grammar": "« Perdone » = excuse me (formal). « ¿Cómo se va? » = how does one get? (impersonal « se »).",
+          "complements": [
+            "Specific place: « ¿Cómo se va a la Plaza Mayor? »",
+            "On foot: « ¿Se puede ir andando? »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Is it far from here?",
+          "phonetic": "es-ta leh-hos deh a-kee",
+          "grammar": "« Lejos » = far. « De aquí » = from here. « ¿Está lejos? » uses « estar » for location.",
+          "complements": [
+            "Near: « ¿Está cerca? »",
+            "Distance: « ¿A cuántos metros está? »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Can you show me on the map?",
+          "phonetic": "meh lo pweh-deh in-dee-kar en el ma-pa",
+          "grammar": "« ¿Me lo puede indicar? » = can you show/indicate it to me? « Lo » is a neutral pronoun. « Mapa » = map.",
+          "complements": [
+            "Point to: « ¿Puede señalarlo en el mapa? »",
+            "On phone: « ¿Puede indicarme en mi teléfono? »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Turn left at the next corner",
+          "phonetic": "hee-reh a la ith-kyer-da en la prok-see-ma es-kee-na",
+          "grammar": "« Gire » = turn (formal imperative of « girar »). « Izquierda » = left. « Esquina » = corner.",
+          "complements": [
+            "Right: « Gire a la derecha »",
+            "At the lights: « Gire en el semáforo »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Go straight ahead",
+          "phonetic": "see-ga to-do rek-to",
+          "grammar": "« Siga » = continue/go (formal imperative of « seguir »). « Todo recto » = straight ahead.",
+          "complements": [
+            "Until: « Siga recto hasta el semáforo »",
+            "Variant: « Continúe recto »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Is it within walking distance?",
+          "phonetic": "seh pweh-deh eer an-dan-do",
+          "grammar": "« ¿Se puede? » = is it possible? (impersonal). « Ir andando » = go on foot (gerund of « andar »).",
+          "complements": [
+            "How long: « ¿Cuánto se tarda a pie? »",
+            "Too far: « No, es demasiado lejos para ir andando »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Where is the nearest landmark?",
+          "phonetic": "don-deh es-ta el mo-noo-men-to mas ther-ka-no",
+          "grammar": "« El más cercano » = the nearest (relative superlative). « Monumento » = landmark/monument.",
+          "complements": [
+            "Museum: « ¿Dónde está el museo más cercano? »",
+            "Reference: « ¿Hay algún punto de referencia? »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "I think I'm lost",
+          "phonetic": "kreh-o keh meh eh per-dee-do",
+          "grammar": "« Me he perdido » = I have got lost (perfect tense). Reflexive verb « perderse ». « Creo que » = I think that.",
+          "complements": [
+            "Ask for help: « ¿Puede ayudarme? »",
+            "Address: « Busco esta dirección »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Could you point me in the right direction?",
+          "phonetic": "meh pweh-deh o-ryen-tar",
+          "grammar": "« ¿Me puede orientar? » = could you orientate me? « Orientar » = to point in the right direction.",
+          "complements": [
+            "Help: « ¿Me puede ayudar? »",
+            "Direction: « ¿En qué dirección debo ir? »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "How long does it take to walk there?",
+          "phonetic": "kwahn-to seh tar-da a pyeh",
+          "grammar": "« ¿Cuánto se tarda? » = how long does it take? (impersonal). « A pie » = on foot.",
+          "complements": [
+            "By bus: « ¿Cuánto se tarda en autobús? »",
+            "By taxi: « ¿Cuánto tarda en taxi? »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "title": "Shopping",
+      "subtitle": "Price, size, refund…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "How much does this cost?",
+          "phonetic": "kwahn-to kwes-ta es-to",
+          "grammar": "« ¿Cuánto cuesta esto? » = how much does this cost? « Esto » = this (neutral demonstrative pronoun).",
+          "complements": [
+            "Plural: « ¿Cuánto cuestan estos? »",
+            "Pointing: « ¿Cuánto cuesta esto que tiene ahí? »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Do you have this in a larger size?",
+          "phonetic": "lo tyeh-neh en oo-na ta-ya mas gran-deh",
+          "grammar": "« ¿Lo tiene en…? » = do you have this in? « Talla » = clothing size. « Más grande » = larger.",
+          "complements": [
+            "Smaller: « ¿Lo tiene en una talla más pequeña? »",
+            "Shoe size: « ¿Lo tiene en un número más grande? »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Can I try this on?",
+          "phonetic": "meh lo pweh-do pro-bar",
+          "grammar": "« ¿Me lo puedo probar? » = can I try this on? « Probar » = to try/test. « Me lo » = me it (double pronoun).",
+          "complements": [
+            "Shoes: « ¿Puedo probarme estos zapatos? »",
+            "Variant: « ¿Puedo probármelo? »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Where is the fitting room?",
+          "phonetic": "don-deh es-ta el pro-ba-dor",
+          "grammar": "« El probador » = the fitting room. From « probar » (to try). Singular even if there are multiple cubicles.",
+          "complements": [
+            "Way: « ¿Por dónde están los probadores? »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "I would like to buy this",
+          "phonetic": "meh yeh-vo es-to",
+          "grammar": "« Me llevo esto » = I'll take this (literally 'I'm taking this with me'). Natural closing phrase for a purchase.",
+          "complements": [
+            "Two: « Me llevo estos dos »",
+            "Decision: « Voy a llevarme este »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "This is too expensive",
+          "phonetic": "es deh-ma-sya-do ka-ro",
+          "grammar": "« Demasiado » = too (adverb). « Caro » = expensive. « Es » with « ser » as it's an intrinsic property.",
+          "complements": [
+            "Cheap: « Es muy barato »",
+            "Discount: « ¿Puede hacerme un descuento? »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Do you have anything cheaper?",
+          "phonetic": "tyeh-neh al-go mas ba-ra-to",
+          "grammar": "« Algo más barato » = something cheaper. « Barato » = cheap/inexpensive.",
+          "complements": [
+            "Sale: « ¿Hay artículos en oferta? »",
+            "Alternative: « ¿Tiene una versión más económica? »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Can I get a receipt, please?",
+          "phonetic": "meh pweh-deh dar oon reh-thee-bo por fa-vor",
+          "grammar": "« Recibo » = receipt (from « recibir », to receive). « ¿Me puede dar? » = can you give me?",
+          "complements": [
+            "Till receipt: « ¿Me puede dar el ticket? »",
+            "Invoice: « ¿Puede hacerme una factura? »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "I would like a refund",
+          "phonetic": "kee-syeh-ra keh meh deh-vol-vyeh-ran el dee-neh-ro",
+          "grammar": "« Quisiera que + subjunctive » = I would like that. « Me devolvieran » = that they return to me (imperfect subjunctive).",
+          "complements": [
+            "Exchange: « Prefiero cambiarlo »",
+            "Store credit: « ¿Puede darme un vale? »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Do you have this in another colour?",
+          "phonetic": "lo tyeh-neh en o-tro ko-lor",
+          "grammar": "« ¿Lo tiene en otro color? » = do you have it in another colour? « Otro » = another/other.",
+          "complements": [
+            "Specific colour: « ¿Lo tiene en azul/rojo/negro? »",
+            "Size and colour: « ¿Lo tiene en otra talla y otro color? »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "title": "Health & emergencies",
+      "subtitle": "Doctor, pharmacy…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "I need a doctor",
+          "phonetic": "neh-theh-see-to oon meh-dee-ko",
+          "grammar": "« Necesito » = I need (verb « necesitar »). « Médico » = doctor. Feminine: « médica ».",
+          "complements": [
+            "Urgently: « Necesito un médico urgente »",
+            "Specialist: « Necesito ver a un especialista »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Where is the nearest hospital?",
+          "phonetic": "don-deh es-ta el os-pee-tal mas ther-ka-no",
+          "grammar": "« Hospital » = hospital (from Latin « hospitalis »). « El más cercano » = the nearest.",
+          "complements": [
+            "Emergency room: « ¿Dónde están las urgencias? »",
+            "Clinic: « ¿Hay una clínica cerca? »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "It's an emergency",
+          "phonetic": "es oo-na eh-mer-hen-thya",
+          "grammar": "« Emergencia » = emergency. « Es » with « ser » because it's a definition of the situation.",
+          "complements": [
+            "Call: « Llame a una ambulancia »",
+            "Number: « Llame al 112 »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "I don't feel well",
+          "phonetic": "no meh en-kwen-tro byen",
+          "grammar": "« No me encuentro bien » = I don't feel well (reflexive « encontrarse »). More idiomatic than « me siento mal ».",
+          "complements": [
+            "Stomachache: « Me duele el estómago »",
+            "Fever: « Tengo fiebre »",
+            "Dizzy: « Me siento mareado »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "I am allergic to penicillin",
+          "phonetic": "soy a-ler-hee-ko a la peh-nee-thee-lee-na",
+          "grammar": "« Soy alérgico » with « ser » = permanent state. « Penicilina » = penicillin (same etymology).",
+          "complements": [
+            "Aspirin: « Soy alérgico a la aspirina »",
+            "Latex: « Soy alérgico al látex »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Could you call an ambulance, please?",
+          "phonetic": "pweh-deh ya-mar a oo-na am-boo-lan-thya por fa-vor",
+          "grammar": "« ¿Puede llamar? » = could you call? « Ambulancia » = ambulance. In Spain, 112 is the emergency number.",
+          "complements": [
+            "Police: « Llame a la policía »",
+            "Fire: « Llame a los bomberos »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "I have lost my medication",
+          "phonetic": "eh per-dee-do mee meh-dee-ka-thyon",
+          "grammar": "« He perdido » = I have lost (perfect tense). « Medicación » = medication/treatment.",
+          "complements": [
+            "Prescription: « Necesito una receta »",
+            "Renew: « ¿Pueden renovarme la medicación? »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Where is the nearest pharmacy?",
+          "phonetic": "don-deh es-ta la far-ma-thya mas ther-ka-na",
+          "grammar": "« Farmacia » = pharmacy (from Greek « pharmakeia »). In Spain, look for the green cross sign.",
+          "complements": [
+            "On-call pharmacy: « ¿Hay una farmacia de guardia? »",
+            "Medicine: « ¿Tienen…? »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "I have a headache",
+          "phonetic": "meh dweh-leh la ka-beh-tha",
+          "grammar": "« Me duele » = it hurts me / I have pain in (indirect construction). « La cabeza » = the head.",
+          "complements": [
+            "Stomach: « Me duele el estómago »",
+            "Back: « Me duele la espalda »",
+            "Throat: « Me duele la garganta »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Please help me",
+          "phonetic": "a-yoo-deh-meh por fa-vor",
+          "grammar": "« Ayúdeme » = help me (formal imperative of « ayudar » + me). Stressed on « yú ».",
+          "complements": [
+            "Help!: « ¡Socorro! »",
+            "Call someone: « ¡Llamen a alguien! »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "title": "Social interactions",
+      "subtitle": "Introductions, friendship…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Nice to meet you",
+          "phonetic": "moo-cho goos-to",
+          "grammar": "« Mucho gusto » = nice to meet you (literally 'much pleasure'). Universal polite greeting upon meeting.",
+          "complements": [
+            "Reply: « El gusto es mío »",
+            "Formal: « Encantado/a de conocerle »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "What is your name?",
+          "phonetic": "ko-mo seh ya-ma oos-ted",
+          "grammar": "« ¿Cómo se llama usted? » = what is your name? Formal. « Llamarse » = to be called (reflexive).",
+          "complements": [
+            "Informal: « ¿Cómo te llamas? »",
+            "First name: « ¿Cuál es tu nombre? »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "My name is…",
+          "phonetic": "meh ya-mo",
+          "grammar": "« Me llamo » = my name is (literally 'I call myself'). From « llamarse » (reflexive). Follow with your name.",
+          "complements": [
+            "Formal: « Mi nombre es… »",
+            "Full name: « Me llamo… y mi apellido es… »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Where are you from?",
+          "phonetic": "deh don-deh es oos-ted",
+          "grammar": "« ¿De dónde es usted? » = where are you from? « Ser » for origin (permanent). Informal: « ¿De dónde eres? »",
+          "complements": [
+            "Informal: « ¿De dónde eres? »",
+            "City: « ¿De qué ciudad eres? »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "I'm from France",
+          "phonetic": "soy deh fran-thya",
+          "grammar": "« Soy de Francia » = I am from France. « Ser de + country » = to be from / to originate from.",
+          "complements": [
+            "City: « Soy de París »",
+            "Nationality: « Soy francés / francesa »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "How are you?",
+          "phonetic": "ko-mo es-ta oos-ted",
+          "grammar": "« ¿Cómo está usted? » = how are you? (formal). « Estar » for changeable states (health, mood).",
+          "complements": [
+            "Informal: « ¿Cómo estás? »",
+            "Very informal: « ¿Qué tal? »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "I'm fine, thank you",
+          "phonetic": "byen gra-thyas",
+          "grammar": "Universal polite reply. « Bien » = fine/well. Add « ¿y usted? » to return the question.",
+          "complements": [
+            "Very well: « Muy bien, gracias »",
+            "Return question: « Bien, ¿y usted? »",
+            "So-so: « Regular »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Can I take a photo with you?",
+          "phonetic": "meh pweh-do a-ther oo-na fo-to kon oos-ted",
+          "grammar": "« ¿Me puedo hacer una foto? » = can I take a photo? « Con usted » = with you (formal).",
+          "complements": [
+            "Selfie: « ¿Podemos hacernos un selfie? »",
+            "Both of us: « ¿Puede hacernos una foto? »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Let's stay in touch",
+          "phonetic": "man-ten-ga-mo-nos en kon-tak-to",
+          "grammar": "« Mantengámonos » = let's keep (inclusive imperative of « mantenerse »). Slightly formal but common.",
+          "complements": [
+            "Social media: « Sígueme en Instagram »",
+            "WhatsApp: « Te mando mi número de WhatsApp »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Have a great day",
+          "phonetic": "keh ten-ga oon bwen dee-a",
+          "grammar": "« Que tenga un buen día » = may you have a good day (subjunctive of wish). Polite farewell.",
+          "complements": [
+            "Good evening: « Que tenga una buena tarde »",
+            "Good night: « Buenas noches »",
+            "Casual: « ¡Buen día! »"
+          ]
+        }
+      ]
+    }
+  ]
+}

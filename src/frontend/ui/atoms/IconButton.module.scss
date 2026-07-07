@@ -1,0 +1,27 @@
+$icon-btn-size-sm:      32px;
+$icon-btn-font-size-sm: 14px;
+$icon-btn-size-md:      40px;
+$icon-btn-font-size-md: 18px;
+$icon-btn-size-lg:      48px;
+$icon-btn-font-size-lg: 22px;
+$icon-btn-size-xl:      56px;
+$icon-btn-font-size-xl: 26px;
+
+.btn {
+  @include button-base;
+  border-radius: $radius-full;
+  flex-shrink:   0;
+  line-height:   1;
+
+  &:active { transform: scale(0.92); }
+
+  &.primary   { background: $color-primary; color: $color-text-on-dark; border: none; }
+  &.secondary { background: $color-surface; color: $color-primary; border: $border-secondary-btn; }
+  &.ghost     { background: rgba(255, 255, 255, 0.2); color: $color-text-on-dark; border: none; }
+  &.muted     { background: $color-bg; color: $color-text-muted; border: none; }
+
+  &.sm { width: $icon-btn-size-sm; height: $icon-btn-size-sm; font-size: $icon-btn-font-size-sm; }
+  &.md { width: $icon-btn-size-md; height: $icon-btn-size-md; font-size: $icon-btn-font-size-md; }
+  &.lg { width: $icon-btn-size-lg; height: $icon-btn-size-lg; font-size: $icon-btn-font-size-lg; }
+  &.xl { width: $icon-btn-size-xl; height: $icon-btn-size-xl; font-size: $icon-btn-font-size-xl; }
+}

@@ -1,0 +1,15 @@
+$divider-margin-y-sm: 8px;
+$divider-margin-y-md: 16px;
+$divider-margin-y-lg: 32px;
+
+.divider {
+  border:     none;
+  border-top: $border-divider;
+  margin:     $divider-margin-y-md 0;
+
+  &.dashed { border-top-style: dashed; }
+
+  &.sm  { margin: $divider-margin-y-sm 0; }
+  &.md  { margin: $divider-margin-y-md 0; }
+  &.lg  { margin: $divider-margin-y-lg 0; }
+}

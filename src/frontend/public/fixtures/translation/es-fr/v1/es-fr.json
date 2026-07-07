@@ -1,0 +1,1098 @@
+{
+  "uuid": "es-v1-fr",
+  "learningPackRef": "es-v1",
+  "targetLang": "es",
+  "sourceLang": "fr",
+  "version": "v1",
+  "createdAt": "2026-06-30T00:00:00.000Z",
+  "lessons": [
+    {
+      "id": "l01",
+      "title": "Politesse & bases",
+      "subtitle": "Salutations, merci…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Bonjour",
+          "phonetic": "o-la",
+          "grammar": "Salutation universelle espagnole, toute heure et tout contexte. Vient du latin « salve ».",
+          "complements": [
+            "Très informel : « ¡Ey! »",
+            "Matin formel : « Buenos días »",
+            "Soir : « Buenas tardes / noches »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Merci beaucoup",
+          "phonetic": "mou-tchas gra-ci-as",
+          "grammar": "« Muchas » = beaucoup (féminin pluriel). « Gracias » vient du latin « gratia » (grâce, faveur).",
+          "complements": [
+            "Simple : « Gracias »",
+            "Très formel : « Se lo agradezco mucho »",
+            "Réponse : « De nada »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "S'il vous plaît",
+          "phonetic": "por fa-vor",
+          "grammar": "Littéralement « pour la faveur ». Essentiel en espagnol, toujours en fin de demande.",
+          "complements": [
+            "En début : « Por favor, ¿me puede ayudar? »",
+            "Insistance : « Se lo pido por favor »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Excusez-moi",
+          "phonetic": "per-do-né",
+          "grammar": "Forme formelle de « perdonar » (pardonner). Pour attirer l'attention ou s'excuser légèrement.",
+          "complements": [
+            "Informel : « Perdona »",
+            "Forte excuse : « Lo siento mucho »",
+            "Pour passer : « Con permiso »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Je ne comprends pas",
+          "phonetic": "no én-tièn-do",
+          "grammar": "« Entender » vient du latin « intendere ». Négation simple avec « no » devant le verbe.",
+          "complements": [
+            "Variante : « No comprendo »",
+            "Demander lenteur : « ¿Puede hablar más despacio? »",
+            "Demander à l'écrit : « ¿Puede escribirlo? »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Au revoir",
+          "phonetic": "a-di-os",
+          "grammar": "Littéralement « à Dieu ». Même étymologie que le français « adieu ». Formule de départ.",
+          "complements": [
+            "Informel : « ¡Hasta luego! »",
+            "À bientôt : « ¡Hasta pronto! »",
+            "À demain : « ¡Hasta mañana! »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Bonsoir / Bonne nuit",
+          "phonetic": "bouènas no-tché-s",
+          "grammar": "En espagnol, « buenas noches » sert à la fois de salutation du soir ET de formule de bonne nuit.",
+          "complements": [
+            "Matin : « Buenos días »",
+            "Après-midi : « Buenas tardes »",
+            "« Buenas » seul = salutation rapide informelle"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Où sont les toilettes ?",
+          "phonetic": "don-dé es-ta él ba-gnio",
+          "grammar": "« Baño » = salle de bain en espagnol. « ¿Dónde está? » = où est (singulier).",
+          "complements": [
+            "Formel : « ¿Dónde están los servicios? »",
+            "Au restaurant : « ¿Los aseos, por favor? »",
+            "WC = « los lavabos »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Combien ça coûte ?",
+          "phonetic": "couanto couèsta",
+          "grammar": "« Cuánto » = combien. « Costar » = coûter. Verbe irrégulier : cuesto, cuesta, costamos…",
+          "complements": [
+            "Pluriel : « ¿Cuánto cuestan? »",
+            "Négocier : « ¿Me puede hacer un descuento? »",
+            "Cher : « Es muy caro »",
+            "Pas cher : « Es muy barato »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Parlez-vous français ?",
+          "phonetic": "a-bla fran-cès",
+          "grammar": "« Hablar » = parler. Forme formelle (usted). Informel : « ¿Hablas francés? ».",
+          "complements": [
+            "Informel : « ¿Hablas francés? »",
+            "Autre langue : « ¿Habla inglés? »",
+            "Réponse : « Un poco / No muy bien »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "title": "Aéroport & vols",
+      "subtitle": "Enregistrement, portes…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Où est le comptoir d'enregistrement ?",
+          "phonetic": "don-dé es-ta él mos-tra-dor dé fak-tou-ra-cion",
+          "grammar": "« Mostrador » = comptoir. « Facturación » = enregistrement (des bagages). Verbe sous-entendu.",
+          "complements": [
+            "Aussi : « ¿Dónde está el check-in? »",
+            "Pour les bagages : « ¿Dónde facturo mi maleta? »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "J'ai une valise à enregistrer",
+          "phonetic": "tén-go ou-na ma-lé-ta pa-ra fak-tou-rar",
+          "grammar": "« Tengo » = j'ai (verbe « tener »). « Maleta » = valise. « Para + infinitif » exprime le but.",
+          "complements": [
+            "Deux valises : « Tengo dos maletas para facturar »",
+            "Bagage à main : « Solo llevo equipaje de mano »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Où est la porte numéro douze ?",
+          "phonetic": "don-dé es-ta la pouèr-ta nou-mé-ro do-thé",
+          "grammar": "« Puerta » = porte/portière. En espagnol les chiffres sont en toutes lettres à l'oral : doce = 12.",
+          "complements": [
+            "Numéro variable : « ¿Dónde está la puerta número…? »",
+            "Terminal : « ¿En qué terminal está? »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Ce siège est-il occupé ?",
+          "phonetic": "es-ta o-kou-pa-do és-té a-sienn-to",
+          "grammar": "« Estar + participé » exprime un état. « Ocupado » vient du latin « occupatus ».",
+          "complements": [
+            "Libre : « ¿Está libre este asiento? »",
+            "Côté couloir : « ¿Está ocupado el asiento del pasillo? »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Puis-je avoir un siège côté fenêtre ?",
+          "phonetic": "pouèdo tén-ner oun a-sienn-to dé ven-ta-ni-ya",
+          "grammar": "« ¿Puedo? » = puis-je ? (verbe « poder » irrégulier). « Ventanilla » = petite fenêtre, terme technique en avion.",
+          "complements": [
+            "Côté couloir : « ¿Puedo tener un asiento de pasillo? »",
+            "Côté urgence : « ¿Puedo sentarme en la salida de emergencia? »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Mon vol est retardé",
+          "phonetic": "mi vouè-lo es-ta ré-tra-sa-do",
+          "grammar": "« Mi vuelo » = mon vol. « Retrasado » = en retard, participé passé de « retrasar ».",
+          "complements": [
+            "Annulé : « Mi vuelo está cancelado »",
+            "Durée : « ¿Cuánto retraso tiene el vuelo? »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "J'ai une correspondance",
+          "phonetic": "tén-go oun vouè-lo dé ko-nék-cion",
+          "grammar": "« Vuelo de conexión » = vol en correspondance. « Conexión » vient du latin « connexio ».",
+          "complements": [
+            "Délai court : « Tengo solo 45 minutos de conexión »",
+            "Perdre la correspondance : « Voy a perder mi conexión »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Où est la livraison des bagages ?",
+          "phonetic": "don-dé es-ta la ré-ko-xi-da dé é-ki-pa-xés",
+          "grammar": "« Recogida » = récupération, collecte. « Equipajes » = bagages (pluriel). Le « j » espagnol se prononce comme un « h » aspiré.",
+          "complements": [
+            "Carrousel : « ¿En qué cinta están los equipajes? »",
+            "Bagages perdus : « Han perdido mi maleta »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Je n'ai rien à déclarer",
+          "phonetic": "no tén-go na-da ké dék-la-rar",
+          "grammar": "« Nada que + infinitif » = rien à + infinitif. Structure très fréquente en espagnol.",
+          "complements": [
+            "Quelque chose : « Tengo algo que declarar »",
+            "À l'oral à la douane : « Todo está para uso personal »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Montrez-moi votre passeport, s'il vous plaît",
+          "phonetic": "mouèst-ré-mé sou pa-sa-por-té por fa-vor",
+          "grammar": "« Muéstreme » = montrez-moi (impératif formel de « mostrar » + pronom me). Ordre poli officiel.",
+          "complements": [
+            "Carte d'identité : « Muéstreme su documento de identidad »",
+            "Variante polie : « ¿Puede mostrarme su pasaporte? »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "title": "Douanes & immigration",
+      "subtitle": "Passeports, contrôle…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Quel est le motif de votre voyage ?",
+          "phonetic": "koual és él mo-ti-vo dé sou via-xé",
+          "grammar": "« Motivo » = motif (du latin « motivus »). « Viaje » = voyage, « j » se prononce comme un « h » aspiré.",
+          "complements": [
+            "Tourisme : « Es un viaje de turismo »",
+            "Affaires : « Viajo por negocios »",
+            "Famille : « Vengo a visitar a mi familia »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Combien de temps allez-vous rester ?",
+          "phonetic": "kouanto tiém-po va a ké-dar-sé",
+          "grammar": "« Va a + infinitif » = aller + infinitif (futur proche). « Quedarse » = rester (verbe pronominal).",
+          "complements": [
+            "Une semaine : « Me quedo una semana »",
+            "Durée : « Voy a quedarme dos semanas »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Où est le contrôle des passeports ?",
+          "phonetic": "don-dé és él kon-trol dé pa-sa-por-tés",
+          "grammar": "« Control » = contrôle (même étymologie). « Pasaportes » = passeports (pluriel).",
+          "complements": [
+            "UE : « ¿Dónde está el control para ciudadanos de la UE? »",
+            "Hors UE : « ¿Y para ciudadanos de fuera de la UE? »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Puis-je voir votre passeport, s'il vous plaît ?",
+          "phonetic": "mé pér-mi-té vér sou pa-sa-por-té por fa-vor",
+          "grammar": "« ¿Me permite? » = me permettez-vous ? Très poli, structure avec « permiso » sous-entendu.",
+          "complements": [
+            "Variante directe : « Su pasaporte, por favor »",
+            "Carte d'identité : « ¿Me permite ver su DNI? »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Avez-vous quelque chose à déclarer ?",
+          "phonetic": "yé-va al-go ké dék-la-rar",
+          "grammar": "« ¿Lleva? » = portez-vous ? (verbe « llevar », forme formelle). « Algo » = quelque chose.",
+          "complements": [
+            "Rien : « No llevo nada que declarar »",
+            "Liquides : « ¿Puedo llevar líquidos? »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "J'ai des médicaments sur ordonnance.",
+          "phonetic": "yé-vo mé-di-ka-mèn-tos kon rré-thé-ta",
+          "grammar": "« Llevo » = je porte/j'ai sur moi. « Receta » = ordonnance/recette. Le « r » initial se roule.",
+          "complements": [
+            "Ordonnance : « Tengo la receta médica »",
+            "Insuline : « Llevo insulina, necesita refrigeración »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Je viens rendre visite à ma famille.",
+          "phonetic": "vén-go a vis-si-tar a mi fa-mi-lia",
+          "grammar": "« Vengo a + infinitif » = je viens pour + infinitif. « A mi familia » : double préposition « a » typique en espagnol.",
+          "complements": [
+            "Amis : « Vengo a visitar a unos amigos »",
+            "Tourisme : « Vengo de vacaciones »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Avez-vous un billet de retour ou de continuation ?",
+          "phonetic": "tié-né bi-yé-té dé vouèl-ta o dé kon-ti-noua-cion",
+          "grammar": "« Billete de vuelta » = billet retour. « De continuación » = de continuation/transit.",
+          "complements": [
+            "Montrer : « Sí, aquí está mi billete de vuelta »",
+            "Aller simple : « Solo tengo billete de ida »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Transportez-vous des aliments, plantes ou produits animaux ?",
+          "phonetic": "yé-va a-li-mèn-tos plan-tas o pro-douk-tos a-ni-ma-lés",
+          "grammar": "« Llevar » = transporter/porter. « Alimentos » = aliments. « Productos animales » = produits d'origine animale.",
+          "complements": [
+            "Non : « No llevo nada de eso »",
+            "Fromage : « Llevo queso, ¿está permitido? »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Où dois-je aller pour l'inspection des douanes ?",
+          "phonetic": "don-dé dé-bo ir pa-ra la ins-pék-cion dé a-doua-nas",
+          "grammar": "« Debo + infinitif » = je dois + infinitif. « Aduanas » = douanes (du latin « aduana »).",
+          "complements": [
+            "File rouge : « ¿Dónde está la línea roja? »",
+            "File verte : « ¿Puedo pasar por la línea verde? »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "title": "Hôtel & hébergement",
+      "subtitle": "Réservation, chambre…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "J'ai une réservation à mon nom",
+          "phonetic": "tén-go ou-na rré-sér-va a mi nom-bré",
+          "grammar": "« Tengo una reserva » = j'ai une réservation. « A mi nombre » = à mon nom (préposition « a »).",
+          "complements": [
+            "Épeler : « Mi nombre es… »",
+            "Numéro de réservation : « Aquí está mi número de reserva »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Avez-vous des chambres disponibles ?",
+          "phonetic": "tié-né a-bi-ta-cio-nés dis-po-ni-blés",
+          "grammar": "« Habitaciones » = chambres (d'hôtel). « Disponibles » = disponibles. Forme formelle « usted ».",
+          "complements": [
+            "Chambre double : « ¿Tiene una habitación doble? »",
+            "Pour cette nuit : « ¿Para esta noche? »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "À quelle heure est le check-in ?",
+          "phonetic": "a ké o-ra és él chék-in",
+          "grammar": "« ¿A qué hora? » = à quelle heure ? L'espagnol utilise « check-in » comme anglicisme courant en hôtellerie.",
+          "complements": [
+            "Check-out : « ¿A qué hora es el check-out? »",
+            "Arrivée tôt : « Llego pronto, ¿puedo dejar las maletas? »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "À quelle heure est le check-out ?",
+          "phonetic": "a ké o-ra és él chék-aout",
+          "grammar": "« Check-out » est le même anglicisme. En espagnol natif on dirait « salida ».",
+          "complements": [
+            "Prolonger : « ¿Puedo hacer un late check-out? »",
+            "Garder bagages : « ¿Pueden guardar mis maletas hasta las 18h? »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Le petit-déjeuner est-il inclus ?",
+          "phonetic": "es-ta in-kloui-do él dé-sa-you-no",
+          "grammar": "« Estar incluido » = être inclus (état). « Desayuno » = petit-déjeuner (de « des-ayuno », rupture du jeûne).",
+          "complements": [
+            "Buffet : « ¿El desayuno es buffet? »",
+            "Supplément : « ¿Cuánto cuesta el desayuno? »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Pouvez-vous m'apporter une serviette supplémentaire ?",
+          "phonetic": "mé pouèdé trae-r ou-na toa-ya eks-tra por fa-vor",
+          "grammar": "« ¿Me puede traer? » = pouvez-vous m'apporter ? Construction indirecte très polie. « Toalla » = serviette de bain.",
+          "complements": [
+            "Oreiller : « ¿Me puede traer una almohada extra? »",
+            "Couverture : « ¿Me puede traer una manta? »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Le wifi ne fonctionne pas",
+          "phonetic": "él ouifi no foun-cio-na",
+          "grammar": "« Wifi » = wifi (masculin en espagnol). « No funciona » = ne fonctionne pas. Phrase très utile.",
+          "complements": [
+            "Mot de passe : « ¿Cuál es la contraseña del wifi? »",
+            "Réseau : « ¿Cuál es el nombre de la red wifi? »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Pouvez-vous m'appeler un taxi ?",
+          "phonetic": "mé pouèdé pé-dir oun tak-si por fa-vor",
+          "grammar": "« Pedir » = demander/commander. « Me puede pedir un taxi » = peut-on me commander un taxi.",
+          "complements": [
+            "VTC : « ¿Puede llamar a un Uber? »",
+            "Aéroport : « Necesito un taxi al aeropuerto »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Y a-t-il un coffre-fort dans la chambre ?",
+          "phonetic": "ai ka-xa fouèr-té én la a-bi-ta-cion",
+          "grammar": "« ¿Hay? » = y a-t-il ? Très utilisé pour demander l'existence de quelque chose. « Caja fuerte » = coffre-fort.",
+          "complements": [
+            "Objets de valeur : « Quiero guardar mis objetos de valor »",
+            "Code : « ¿Cómo se usa la caja fuerte? »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Je voudrais prolonger mon séjour d'une nuit",
+          "phonetic": "mé gous-ta-ria am-pli-ar mi és-tan-cia ou-na no-tché mas",
+          "grammar": "« Me gustaría » = je voudrais (conditionnel poli). « Ampliar » = prolonger. « Estancia » = séjour.",
+          "complements": [
+            "Deux nuits : « Me gustaría quedarme dos noches más »",
+            "Disponibilité : « ¿Tiene la habitación disponible? »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "title": "Transport",
+      "subtitle": "Taxi, bus, métro…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Pouvez-vous m'emmener à cette adresse ?",
+          "phonetic": "pouèdé yé-var-mé a és-ta di-rék-cion",
+          "grammar": "« ¿Puede llevarme? » = pouvez-vous m'emmener ? « Llevar + me » = mener + me (pronom objet).",
+          "complements": [
+            "Montrer l'adresse : « Aquí está la dirección »",
+            "Aéroport : « Lléveme al aeropuerto »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Combien coûte le trajet jusqu'au centre-ville ?",
+          "phonetic": "kouanto kouès-ta ir al thèn-tro",
+          "grammar": "« ¿Cuánto cuesta ir a…? » = combien coûte le trajet jusqu'à ? Infinitif « ir » = aller.",
+          "complements": [
+            "Aéroport : « ¿Cuánto cuesta ir al aeropuerto? »",
+            "Taxe : « ¿Está incluido el equipaje? »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Où est l'arrêt de bus le plus proche ?",
+          "phonetic": "don-dé és-ta la pa-ra-da dé aou-to-bous mas thèr-ka-na",
+          "grammar": "« Parada » = arrêt. « Autobús » = bus (avec accent sur le « u »). « Más cercana » = la plus proche (féminin).",
+          "complements": [
+            "Métro : « ¿Dónde está la estación de metro más cercana? »",
+            "Taxi : « ¿Dónde puedo coger un taxi? »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Où puis-je acheter un billet ?",
+          "phonetic": "don-dé pouè-do kom-prar oun bi-yé-té",
+          "grammar": "« ¿Dónde puedo…? » = où puis-je ? « Billete » = billet (de transport). Différent de « ticket » (reçu).",
+          "complements": [
+            "Carte : « ¿Puedo comprar una tarjeta de transporte? »",
+            "Machine : « ¿Hay máquinas automáticas? »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Quelle ligne va à l'aéroport ?",
+          "phonetic": "ké lí-né-a va al aé-ro-pouèr-to",
+          "grammar": "« ¿Qué línea? » = quelle ligne ? « Va » = va (verbe « ir » au présent, 3e personne).",
+          "complements": [
+            "Direction : « ¿Cuál es la dirección del aeropuerto? »",
+            "Correspondance : « ¿Tengo que hacer transbordo? »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Ce train s'arrête-t-il à la gare centrale ?",
+          "phonetic": "és-té trén pa-ra én la és-ta-cion thèn-tral",
+          "grammar": "« ¿Este tren para? » = ce train s'arrête-t-il ? « Para » de « parar » (s'arrêter), différent de la préposition « para ».",
+          "complements": [
+            "Prochain arrêt : « ¿Cuál es la próxima parada? »",
+            "Terminus : « ¿Cuál es el destino final? »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Arrêtez-vous ici, s'il vous plaît",
+          "phonetic": "pa-ré a-ki por fa-vor",
+          "grammar": "« Pare » = arrêtez (impératif formel de « parar »). « Aquí » = ici. Formule très utilisée en taxi.",
+          "complements": [
+            "Au coin : « Pare en la esquina »",
+            "Devant : « Pare justo delante »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Y a-t-il une station de métro près d'ici ?",
+          "phonetic": "ai ou-na és-ta-cion dé mé-tro thèr-ka",
+          "grammar": "« ¿Hay…? » = y a-t-il ? « Cerca » = près, proche. « Estación de metro » = station de métro.",
+          "complements": [
+            "Bus : « ¿Hay una parada de autobús cerca? »",
+            "Distance : « ¿Está muy lejos? »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Je voudrais louer une voiture",
+          "phonetic": "mé gous-ta-ría al-ki-lar oun ko-tché",
+          "grammar": "« Me gustaría » = je voudrais (conditionnel de politesse). « Alquilar » = louer. « Coche » = voiture (Espagne).",
+          "complements": [
+            "Automatique : « Quiero un coche automático »",
+            "GPS : « ¿Está incluido el GPS? »",
+            "Durée : « Lo necesito por tres días »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "À quelle heure part le dernier bus ?",
+          "phonetic": "a ké o-ra sa-lé él oúl-ti-mo aou-to-bous",
+          "grammar": "« ¿A qué hora sale? » = à quelle heure part ? « Último » = dernier. « Sale » de « salir » (partir/sortir).",
+          "complements": [
+            "Premier bus : « ¿A qué hora sale el primer autobús? »",
+            "Fréquence : « ¿Cada cuánto pasa el autobús? »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "title": "Restaurant & café",
+      "subtitle": "Commander, addition…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Une table pour deux, s'il vous plaît",
+          "phonetic": "ou-na mé-sa pa-ra dos por fa-vor",
+          "grammar": "« Mesa » = table. « Para dos » = pour deux. Structure directe et universelle au restaurant.",
+          "complements": [
+            "En terrasse : « ¿Tienen mesa en la terraza? »",
+            "Réservation : « Tengo una reserva a nombre de… »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Pouvez-vous m'apporter la carte ?",
+          "phonetic": "mé pouèdé traér la kar-ta por fa-vor",
+          "grammar": "« La carta » = la carte (du restaurant). Aussi « el menú ». « ¿Me puede traer? » = pouvez-vous m'apporter ?",
+          "complements": [
+            "Carte des vins : « ¿Me puede traer la carta de vinos? »",
+            "Menu du jour : « ¿Tienen menú del día? »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Que me recommandez-vous ?",
+          "phonetic": "ké mé rré-ko-miénn-da",
+          "grammar": "« ¿Qué me recomienda? » = que me recommandez-vous ? Forme formelle. « Recomendar » = recommander.",
+          "complements": [
+            "Spécialité : « ¿Cuál es la especialidad de la casa? »",
+            "Plat du jour : « ¿Cuál es el plato del día? »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Je voudrais commander ceci",
+          "phonetic": "ki-siéra pé-dir és-to",
+          "grammar": "« Quisiera » = je voudrais (imparfait du subjonctif à valeur de conditionnel, très poli). « Pedir » = commander/demander.",
+          "complements": [
+            "En montrant : « Quiero esto, por favor »",
+            "Sans : « Sin… por favor »",
+            "Bien cuit : « Bien hecho, por favor »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Je suis allergique aux arachides",
+          "phonetic": "soi a-lér-xi-ko a los ka-ka-ouè-tés",
+          "grammar": "« Soy alérgico » = je suis allergique (état permanent → « ser »). « Cacahuetes » = cacahuètes (arachides).",
+          "complements": [
+            "Gluten : « Soy alérgico al gluten »",
+            "Lactose : « Soy intolerante a la lactosa »",
+            "Noix : « Soy alérgico a los frutos secos »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Pouvez-vous nous apporter de l'eau ?",
+          "phonetic": "nos pouèdé traér a-goua por fa-vor",
+          "grammar": "« Nos » = nous (pronom objet indirect). « Agua » = eau (féminin mais précédé de « el » au singulier : « el agua »).",
+          "complements": [
+            "Gazeuse : « ¿Agua con gas o sin gas? »",
+            "Plate : « Agua sin gas, por favor »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "C'est délicieux",
+          "phonetic": "és-ta dé-li-ció-so",
+          "grammar": "« Estar » pour un état temporaire. « Está delicioso » = c'est délicieux (état). « Delicioso » de « delicia » (délice).",
+          "complements": [
+            "Très bon : « Está buenísimo »",
+            "Excellent : « Es excelente »",
+            "Compliment au chef : « Felicite al cocinero »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "L'addition, s'il vous plaît",
+          "phonetic": "la kouèn-ta por fa-vor",
+          "grammar": "« La cuenta » = l'addition/la note. Formule directe et universelle. « Por favor » rend la demande polie.",
+          "complements": [
+            "Payer séparément : « ¿Podemos pagar por separado? »",
+            "Ticket : « ¿Me puede dar el ticket? »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Acceptez-vous les cartes de crédit ?",
+          "phonetic": "a-thép-tan tar-xé-ta dé kré-di-to",
+          "grammar": "« ¿Aceptan? » = acceptez-vous ? (pluriel formel, sous-entendu « ustedes »). « Tarjeta » = carte (de paiement).",
+          "complements": [
+            "Sans contact : « ¿Aceptan pagos sin contacto? »",
+            "Visa/Mastercard : « ¿Aceptan Visa? »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Le pourboire est-il inclus ?",
+          "phonetic": "és-ta in-kloui-da la pro-pi-na",
+          "grammar": "« Propina » = pourboire (du latin « propina »). En Espagne, le pourboire est souvent laissé en espèces.",
+          "complements": [
+            "Laisser un pourboire : « Le dejo algo de propina »",
+            "Service : « ¿Está incluido el servicio? »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "title": "Se repérer",
+      "subtitle": "Directions, carte…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Excusez-moi, comment va-t-on au centre-ville ?",
+          "phonetic": "per-do-né ko-mo sé ba al thèn-tro",
+          "grammar": "« Perdone » = excusez-moi (formel). « ¿Cómo se va? » = comment y va-t-on ? (se impersonnel).",
+          "complements": [
+            "Lieu précis : « ¿Cómo se va a la Plaza Mayor? »",
+            "À pied : « ¿Se puede ir andando? »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "C'est loin d'ici ?",
+          "phonetic": "és-ta lé-xos dé a-ki",
+          "grammar": "« Lejos » = loin. « De aquí » = d'ici. « ¿Está lejos? » utilise « estar » pour une situation géographique.",
+          "complements": [
+            "Proche : « ¿Está cerca? »",
+            "Distance : « ¿A cuántos metros está? »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Pouvez-vous me l'indiquer sur la carte ?",
+          "phonetic": "mé lo pouèdé in-di-kar én él ma-pa",
+          "grammar": "« ¿Me lo puede indicar? » = pouvez-vous me l'indiquer ? « Lo » = le/cela (pronom objet neutre). « Mapa » = carte.",
+          "complements": [
+            "Montrer : « ¿Puede señalarlo en el mapa? »",
+            "Téléphone : « ¿Puede indicarme en mi teléfono? »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Tournez à gauche au prochain carrefour",
+          "phonetic": "xi-ré a la ith-kiéer-da én la prók-si-ma és-ki-na",
+          "grammar": "« Gire » = tournez (impératif formel de « girar »). « Izquierda » = gauche. « Esquina » = coin/carrefour.",
+          "complements": [
+            "À droite : « Gire a la derecha »",
+            "Au feu : « Gire en el semáforo »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Continuez tout droit",
+          "phonetic": "si-ga to-do rréc-to",
+          "grammar": "« Siga » = continuez (impératif formel de « seguir »). « Todo recto » = tout droit (littéralement « tout droit »).",
+          "complements": [
+            "Jusqu'à : « Siga recto hasta el semáforo »",
+            "Variante : « Continúe recto »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Peut-on y aller à pied ?",
+          "phonetic": "sé pouèdé ir an-dan-do",
+          "grammar": "« ¿Se puede? » = peut-on ? (se impersonnel). « Ir andando » = aller à pied (gérondif de « andar »).",
+          "complements": [
+            "Durée : « ¿Cuánto se tarda a pie? »",
+            "Trop loin : « No, es demasiado lejos para ir andando »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Où est le monument le plus proche ?",
+          "phonetic": "don-dé és-ta él mo-nou-mèn-to mas thèr-ka-no",
+          "grammar": "« El más cercano » = le plus proche (superlatif relatif). « Monumento » = monument.",
+          "complements": [
+            "Musée : « ¿Dónde está el museo más cercano? »",
+            "Point de repère : « ¿Hay algún punto de referencia? »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Je crois que je me suis perdu",
+          "phonetic": "kré-o ké mé é pèr-di-do",
+          "grammar": "« Me he perdido » = je me suis perdu (passé composé). Verbe pronominal « perderse ». « Creo que » = je crois que.",
+          "complements": [
+            "Demander aide : « ¿Puede ayudarme? »",
+            "Adresse : « Busco esta dirección »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Pouvez-vous m'orienter ?",
+          "phonetic": "mé pouèdé o-rién-tar",
+          "grammar": "« ¿Me puede orientar? » = pouvez-vous m'orienter ? « Orientar » = orienter (même racine que le français).",
+          "complements": [
+            "Aide : « ¿Me puede ayudar? »",
+            "Direction : « ¿En qué dirección debo ir? »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Combien de temps faut-il à pied ?",
+          "phonetic": "kouanto sé tar-da a pié",
+          "grammar": "« ¿Cuánto se tarda? » = combien de temps faut-il ? (se impersonnel). « A pie » = à pied.",
+          "complements": [
+            "En bus : « ¿Cuánto se tarda en autobús? »",
+            "En taxi : « ¿Cuánto tarda en taxi? »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "title": "Achats",
+      "subtitle": "Prix, taille, remboursement…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Combien coûte ceci ?",
+          "phonetic": "kouanto kouèsta és-to",
+          "grammar": "« ¿Cuánto cuesta esto? » = combien coûte ceci ? « Esto » = ceci (pronom démonstratif neutre).",
+          "complements": [
+            "Pluriel : « ¿Cuánto cuestan estos? »",
+            "Montrer : « ¿Cuánto cuesta esto que tiene ahí? »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Vous l'avez en taille plus grande ?",
+          "phonetic": "lo tié-né én ou-na ta-ya mas gran-dé",
+          "grammar": "« ¿Lo tiene en…? » = vous l'avez en ? « Talla » = taille (vêtement). « Más grande » = plus grand.",
+          "complements": [
+            "Plus petit : « ¿Lo tiene en una talla más pequeña? »",
+            "Pointure : « ¿Lo tiene en un número más grande? »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Puis-je l'essayer ?",
+          "phonetic": "mé lo pouè-do pro-bar",
+          "grammar": "« ¿Me lo puedo probar? » = puis-je l'essayer ? « Probar » = essayer/tester. « Me lo » = me le.",
+          "complements": [
+            "Chaussures : « ¿Puedo probarme estos zapatos? »",
+            "Variante : « ¿Puedo probármelo? »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Où sont les cabines d'essayage ?",
+          "phonetic": "don-dé és-ta él pro-ba-dor",
+          "grammar": "« El probador » = le cabine d'essayage. De « probar » (essayer). Singulier collectif, même pour plusieurs cabines.",
+          "complements": [
+            "Chemin : « ¿Por dónde están los probadores? »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Je prends celui-ci",
+          "phonetic": "mé yé-vo és-to",
+          "grammar": "« Me llevo esto » = je prends ceci (littéralement « je m'emporte ceci »). Formule naturelle pour conclure un achat.",
+          "complements": [
+            "Deux : « Me llevo estos dos »",
+            "Décision : « Voy a llevarme este »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "C'est trop cher",
+          "phonetic": "és dé-ma-sia-do ka-ro",
+          "grammar": "« Demasiado » = trop (adverbe). « Caro » = cher. « Es » avec « ser » car c'est une qualité intrinsèque du prix.",
+          "complements": [
+            "Pas cher : « Es muy barato »",
+            "Rabais : « ¿Puede hacerme un descuento? »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Avez-vous quelque chose de moins cher ?",
+          "phonetic": "tié-né al-go mas ba-ra-to",
+          "grammar": "« Algo más barato » = quelque chose de moins cher. « Barato » = bon marché, pas cher.",
+          "complements": [
+            "Soldes : « ¿Hay artículos en oferta? »",
+            "Alternative : « ¿Tiene una versión más económica? »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Pouvez-vous me donner un reçu ?",
+          "phonetic": "mé pouèdé dar oun rré-thi-bo por fa-vor",
+          "grammar": "« Recibo » = reçu (de « recibir », recevoir). « ¿Me puede dar? » = pouvez-vous me donner ?",
+          "complements": [
+            "Ticket de caisse : « ¿Me puede dar el ticket? »",
+            "Facture : « ¿Puede hacerme una factura? »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Je voudrais être remboursé",
+          "phonetic": "ki-siéra ké mé dé-vol-viéran él di-né-ro",
+          "grammar": "« Quisiera que + subjonctif » = je voudrais que. « Me devolvieran » = qu'ils me remboursent (subjonctif imparfait).",
+          "complements": [
+            "Échange : « Prefiero cambiarlo »",
+            "Avoir : « ¿Puede darme un vale? »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Vous l'avez dans une autre couleur ?",
+          "phonetic": "lo tié-né én o-tro ko-lor",
+          "grammar": "« ¿Lo tiene en otro color? » = vous l'avez dans une autre couleur ? « Otro » = autre.",
+          "complements": [
+            "Couleur précise : « ¿Lo tiene en azul/rojo/negro? »",
+            "Taille et couleur : « ¿Lo tiene en otra talla y otro color? »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "title": "Santé & urgences",
+      "subtitle": "Médecin, pharmacie…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "J'ai besoin d'un médecin",
+          "phonetic": "né-thé-si-to oun mé-di-ko",
+          "grammar": "« Necesito » = j'ai besoin de (verbe « necesitar »). « Médico » = médecin. Masculin, « médica » pour une femme.",
+          "complements": [
+            "Urgence : « Necesito un médico urgente »",
+            "Spécialiste : « Necesito ver a un especialista »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Où est l'hôpital le plus proche ?",
+          "phonetic": "don-dé és-ta él os-pi-tal mas thèr-ka-no",
+          "grammar": "« Hospital » = hôpital (du latin « hospitalis »). « El más cercano » = le plus proche.",
+          "complements": [
+            "Urgences : « ¿Dónde están las urgencias? »",
+            "Clinique : « ¿Hay una clínica cerca? »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "C'est une urgence",
+          "phonetic": "és ou-na é-mèr-xèn-thia",
+          "grammar": "« Emergencia » = urgence. « Es » avec « ser » car c'est une définition de la situation.",
+          "complements": [
+            "Appeler : « Llame a una ambulancia »",
+            "Numéro : « Llame al 112 »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Je ne me sens pas bien",
+          "phonetic": "no mé én-kouènn-tro bién",
+          "grammar": "« No me encuentro bien » = je ne me sens pas bien (se encuentro de « encontrarse »). Plus idiomatique que « me siento mal ».",
+          "complements": [
+            "Mal au ventre : « Me duele el estómago »",
+            "Fièvre : « Tengo fiebre »",
+            "Vertige : « Me siento mareado »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Je suis allergique à la pénicilline",
+          "phonetic": "soi a-lér-xi-ko a la pé-ni-thi-li-na",
+          "grammar": "« Soy alérgico » avec « ser » = état permanent. « Penicilina » = pénicilline (même étymologie).",
+          "complements": [
+            "Aspirine : « Soy alérgico a la aspirina »",
+            "Latex : « Soy alérgico al látex »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Pouvez-vous appeler une ambulance ?",
+          "phonetic": "pouèdé ya-mar a ou-na am-bou-lan-thia por fa-vor",
+          "grammar": "« ¿Puede llamar? » = pouvez-vous appeler ? « Ambulancia » = ambulance. En Espagne, le 112 est le numéro d'urgence.",
+          "complements": [
+            "Police : « Llame a la policía »",
+            "Pompiers : « Llame a los bomberos »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "J'ai perdu mes médicaments",
+          "phonetic": "é pèr-di-do mi mé-di-ka-cion",
+          "grammar": "« He perdido » = j'ai perdu (passé composé). « Medicación » = médicament(s)/traitement.",
+          "complements": [
+            "Ordonnance : « Necesito una receta »",
+            "Renouveler : « ¿Pueden renovarme la medicación? »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Où est la pharmacie la plus proche ?",
+          "phonetic": "don-dé és-ta la far-ma-thia mas thèr-ka-na",
+          "grammar": "« Farmacia » = pharmacie (du grec « pharmakeia »). En Espagne, reconnaissable à la croix verte.",
+          "complements": [
+            "Pharmacie de garde : « ¿Hay una farmacia de guardia? »",
+            "Médicament : « ¿Tienen…? »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "J'ai mal à la tête",
+          "phonetic": "mé douè-lé la ka-bé-tha",
+          "grammar": "« Me duele » = j'ai mal à (littéralement « ça me fait mal »). « La cabeza » = la tête. Structure indirecte caractéristique.",
+          "complements": [
+            "Ventre : « Me duele el estómago »",
+            "Dos : « Me duele la espalda »",
+            "Gorge : « Me duele la garganta »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Aidez-moi, s'il vous plaît",
+          "phonetic": "a-you-dé-mé por fa-vor",
+          "grammar": "« Ayúdeme » = aidez-moi (impératif formel de « ayudar » + me). Accent sur « yú » pour l'impératif.",
+          "complements": [
+            "À l'aide : « ¡Socorro! »",
+            "Appel : « ¡Llamen a alguien! »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "title": "Interactions sociales",
+      "subtitle": "Présentations, amitié…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Enchanté",
+          "phonetic": "mou-tcho gous-to",
+          "grammar": "« Mucho gusto » = enchanté (littéralement « grand plaisir »). Formule de politesse universelle à la présentation.",
+          "complements": [
+            "Réponse : « El gusto es mío »",
+            "Formel : « Encantado/a de conocerle »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Comment vous appelez-vous ?",
+          "phonetic": "ko-mo sé ya-ma ous-téd",
+          "grammar": "« ¿Cómo se llama usted? » = comment vous appelez-vous ? « Llamarse » = s'appeler (pronominal).",
+          "complements": [
+            "Informel : « ¿Cómo te llamas? »",
+            "Prénom : « ¿Cuál es tu nombre? »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Je m'appelle…",
+          "phonetic": "mé ya-mo",
+          "grammar": "« Me llamo » = je m'appelle (de « llamarse », se nommer). Suivi directement du prénom sans ponctuation.",
+          "complements": [
+            "Formel : « Mi nombre es… »",
+            "Prénom et nom : « Me llamo… y mi apellido es… »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "D'où êtes-vous ?",
+          "phonetic": "dé don-dé és ous-téd",
+          "grammar": "« ¿De dónde es usted? » = d'où êtes-vous ? « Ser » pour l'origine (état permanent). Informel : « ¿De dónde eres? »",
+          "complements": [
+            "Informel : « ¿De dónde eres? »",
+            "Ville : « ¿De qué ciudad eres? »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Je suis français(e)",
+          "phonetic": "soi dé fran-cia",
+          "grammar": "« Soy de Francia » = je suis de France. « Ser de + pays » = venir de / être originaire de.",
+          "complements": [
+            "Ville : « Soy de París »",
+            "Nationalité : « Soy francés / francesa »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Comment allez-vous ?",
+          "phonetic": "ko-mo és-ta ous-téd",
+          "grammar": "« ¿Cómo está usted? » = comment allez-vous ? (formel). « Estar » pour un état variable (santé, humeur).",
+          "complements": [
+            "Informel : « ¿Cómo estás? »",
+            "Très informel : « ¿Qué tal? »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Bien, merci",
+          "phonetic": "bién gra-thias",
+          "grammar": "Réponse universelle et polie. « Bien » = bien. On peut ajouter « ¿y usted? » pour renvoyer la question.",
+          "complements": [
+            "Très bien : « Muy bien, gracias »",
+            "Renvoyer : « Bien, ¿y usted? »",
+            "Comme ci comme ça : « Regular »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Puis-je prendre une photo avec vous ?",
+          "phonetic": "mé pouè-do a-thér ou-na fo-to kon ous-téd",
+          "grammar": "« ¿Me puedo hacer una foto? » = puis-je me prendre en photo ? « Con usted » = avec vous.",
+          "complements": [
+            "Selfie : « ¿Podemos hacernos un selfie? »",
+            "Les deux : « ¿Puede hacernos una foto? »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Restons en contact",
+          "phonetic": "man-tén-ga-mo-nos én kon-tak-to",
+          "grammar": "« Mantengámonos » = restons (impératif inclusif de « mantenerse »). Forme un peu soutenue mais courante.",
+          "complements": [
+            "Réseaux : « Sígueme en Instagram »",
+            "WhatsApp : « Te mando mi número de WhatsApp »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Bonne journée",
+          "phonetic": "ké tén-ga oun bouèn día",
+          "grammar": "« Que tenga un buen día » = que vous ayez une bonne journée (subjonctif de souhait). Formule de politesse à la séparation.",
+          "complements": [
+            "Bonne soirée : « Que tenga una buena tarde »",
+            "Bonne nuit : « Buenas noches »",
+            "Informel : « ¡Buen día! »"
+          ]
+        }
+      ]
+    }
+  ]
+}

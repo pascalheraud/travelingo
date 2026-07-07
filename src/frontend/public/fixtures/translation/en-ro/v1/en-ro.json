@@ -1,0 +1,1081 @@
+{
+  "uuid": "en-v1-ro",
+  "learningPackRef": "en-v1",
+  "targetLang": "en",
+  "sourceLang": "ro",
+  "version": "v1",
+  "createdAt": "2026-06-30T00:00:00.000Z",
+  "lessons": [
+    {
+      "id": "l01",
+      "title": "Politețe & baze",
+      "subtitle": "Salutări, mulțumesc…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Bună",
+          "phonetic": "hé-lo",
+          "grammar": "Cel mai universal cuvânt englezesc. Se poate folosi oricând.",
+          "complements": [
+            "Informal: « Hi! »",
+            "Foarte informal: « Hey! »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Mulțumesc mult",
+          "phonetic": "thènk-iu vèri maci",
+          "grammar": "Expresie completă și caldă. « Thank » vine din norreza veche.",
+          "complements": [
+            "Scurt: « Thanks! »",
+            "Informal: « Cheers! » (UK)"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Vă rog",
+          "phonetic": "pliiz",
+          "grammar": "Cuvânt magic în engleză. Se pune la sfârșitul propoziției pentru politețe.",
+          "complements": [
+            "La final: « A coffee, please »",
+            "La început: « Please help me »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Scuzați-mă",
+          "phonetic": "ex-kiuz mi",
+          "grammar": "Pentru a atrage atenția sau a trece. Diferit de « Sorry » (scuză/regret).",
+          "complements": [
+            "Pentru a trece: « Excuse me »",
+            "Pentru scuze sincere: « I'm sorry »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Nu înțeleg",
+          "phonetic": "ai dont ander-stend",
+          "grammar": "Frază esențială în călătorie. « Understand » vine din engleza veche.",
+          "complements": [
+            "Variantă: « I'm sorry, I don't understand »",
+            "Cerere: « Could you speak more slowly? »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "La revedere",
+          "phonetic": "gud-bai",
+          "grammar": "Contracție istorică din « God be with you ». Formula de rămas-bun universală.",
+          "complements": [
+            "Scurt: « Bye! »",
+            "Ne vedem: « See you later! »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Bună seara",
+          "phonetic": "gud i-ve-ning",
+          "grammar": "Salut folosit după ora 17-18. « Evening » vine din engleza veche « æfen ».",
+          "complements": [
+            "Dimineața: « Good morning »",
+            "Dupăamiaza: « Good afternoon »",
+            "Noaptea: « Good night »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Unde este toaleta?",
+          "phonetic": "wuèr iz dhe toi-let",
+          "grammar": "Întrebare practică universală. În UK « toilet », în SUA « restroom ».",
+          "complements": [
+            "SUA: « Where is the restroom? »",
+            "UK informal: « Where is the loo? »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Cât costă?",
+          "phonetic": "hau maci daz it cost",
+          "grammar": "Întrebare fundamentală a călătorului. « How much » pentru necuantificabile.",
+          "complements": [
+            "Scurt: « How much? »",
+            "Reducere: « Can you give me a discount? »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Vorbiți franceză?",
+          "phonetic": "du iu spiik frèntch",
+          "grammar": "Întrebare cheie pentru a găsi un vorbitor de franceză.",
+          "complements": [
+            "Altă limbă: « Do you speak Romanian? »",
+            "Răspuns: « A little / Not very well »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "title": "Aeroport și zboruri",
+      "subtitle": "Check-in, îmbarcare…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Unde este ghișeul de check-in?",
+          "phonetic": "uèr iz de tchek-in desk",
+          "grammar": "« Check-in desk » este ghișeul unde te înregistrezi înainte de zbor.",
+          "complements": [
+            "Check-in online: « online check-in »",
+            "Predare bagaje: « baggage drop »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Am o valiză de predat",
+          "phonetic": "ai hev uan sut-keis tu tchek in",
+          "grammar": "« Suitcase » = valiză. « Check in » folosit aici ca verb (a preda bagajul).",
+          "complements": [
+            "Bagaj de mână: « hand luggage »",
+            "Bagaj predat: « checked baggage »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Unde este poarta 12?",
+          "phonetic": "uèr iz gheit tu-elv",
+          "grammar": "« Gate » denotă poarta de îmbarcare din aeroport.",
+          "complements": [
+            "Îmbarcare: « boarding »",
+            "Numărul zborului: « flight number »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Este ocupat acest loc?",
+          "phonetic": "iz dhis sit teikn",
+          "grammar": "« Seat » = loc. « Taken » = ocupat, participiu al lui « take ».",
+          "complements": [
+            "Liber: « Is this seat free? »",
+            "A întreba: « Excuse me, is this seat taken? »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Pot avea un loc la fereastră?",
+          "phonetic": "ken ai hev e uin-dou sit",
+          "grammar": "« Window seat » este locul de la fereastră, opus lui « aisle seat » (pe culoar).",
+          "complements": [
+            "Pe culoar: « aisle seat »",
+            "A schimba: « Can I change my seat? »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Zborul meu este întârziat",
+          "phonetic": "mai flait iz di-leid",
+          "grammar": "« Delayed » = întârziat, participiu al lui « delay ».",
+          "complements": [
+            "Anulat: « My flight is cancelled »",
+            "La timp: « My flight is on time »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Am un zbor de legătură",
+          "phonetic": "ai hev e ke-nek-ting flait",
+          "grammar": "« Connecting flight » denotă un zbor de legătură, diferit de « direct flight ».",
+          "complements": [
+            "Zbor direct: « direct flight »",
+            "Legătură pierdută: « I missed my connection »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Unde este zona de recuperare a bagajelor?",
+          "phonetic": "uèr iz de bag-id kleim",
+          "grammar": "« Baggage claim » este locul unde se recuperează bagajul după zbor.",
+          "complements": [
+            "Bagaj pierdut: « My luggage is lost »",
+            "Cărucior: « Where can I find a luggage cart? »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Nu am nimic de declarat",
+          "phonetic": "ai hev no-thing tu di-kler",
+          "grammar": "« Nothing to declare » este formula standard la vamă.",
+          "complements": [
+            "Ceva de declarat: « I have something to declare »",
+            "Vamă: « customs »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Arătați-mi pașaportul, vă rog",
+          "phonetic": "pliiz cho mi yor pas-port",
+          "grammar": "Formulă folosită de agenții de vamă/imigrare; « show me » + obiect direct.",
+          "complements": [
+            "Card de îmbarcare: « boarding pass »",
+            "Viză: « Do you have a visa? »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "title": "Vamă și imigrare",
+      "subtitle": "Întrebări frecvente la frontieră",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Care este scopul călătoriei dumneavoastră?",
+          "phonetic": "uot iz dhe peur-pous ov yor trip",
+          "grammar": "Întrebare standard la controlul frontierei; « purpose » = scopul călătoriei.",
+          "complements": [
+            "Turism: « tourism »",
+            "Muncă: « work »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Cât timp veți rămâne?",
+          "phonetic": "hau long uil iu bi stei-ing",
+          "grammar": "Se întreabă durata șederii; « stay » = durata vizitei.",
+          "complements": [
+            "Durată scurtă: « a few days »",
+            "Ședere lungă: « several months »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Unde este controlul pașapoartelor?",
+          "phonetic": "uèr iz pas-port kon-troul",
+          "grammar": "« Passport control » = locul unde se verifică documentele de identitate.",
+          "complements": [
+            "Urmați semnele « Passport Control »",
+            "De obicei în zona « Arrivals »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Pot să vă văd pașaportul, vă rog?",
+          "phonetic": "mei ai sii yor pas-port pliiz",
+          "grammar": "Formulă politicoasă pentru a cere pașaportul; « May I » = permisiune politicoasă.",
+          "complements": [
+            "Răspuns: « Here you go »",
+            "Se verifică fotografia și semnătura"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Aveți ceva de declarat?",
+          "phonetic": "du iu hev èni-thing tu di-kler",
+          "grammar": "Întrebare standard la vamă; « to declare » = a declara bunuri supuse taxării.",
+          "complements": [
+            "Da: « I have something to declare »",
+            "Nu: « Nothing to declare »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Transport medicamente pe bază de rețetă.",
+          "phonetic": "ai em ke-ri-ing pres-krip-șen me-di-sin",
+          "grammar": "« Prescription medicine » = medicamente eliberate pe bază de rețetă.",
+          "complements": [
+            "Aveți rețeta la dumneavoastră",
+            "Arătați cutia dacă vi se cere"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Sunt aici pentru a-mi vizita familia.",
+          "phonetic": "ai em hir tu vi-zit fe-mi-li",
+          "grammar": "« To visit family » = motiv frecvent pentru vize de scurtă ședere.",
+          "complements": [
+            "Dați adresa și durata șederii",
+            "Arătați o invitație dacă o aveți"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Aveți un bilet de retur sau de continuare?",
+          "phonetic": "du iu hev e ri-teurn or uan-uord ti-ket",
+          "grammar": "Autoritățile cer adesea dovada plecării din țară; « return ticket ».",
+          "complements": [
+            "Bilet dus-întors: « return ticket »",
+            "Dovadă de zbor ulterior: « onward ticket »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Transportați alimente, plante sau produse de origine animală?",
+          "phonetic": "ar iu ke-ri-ing fud, plants or e-ni-mel pro-dakts",
+          "grammar": "Produsele alimentare și vegetale sunt frecvent controlate la vamă.",
+          "complements": [
+            "Declarați mâncarea: « food »",
+            "Plantele și semințele sunt adesea interzise"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Unde trebuie să merg pentru controlul vamal?",
+          "phonetic": "uèr șud ai gou for kas-toms in-spek-șen",
+          "grammar": "« Customs inspection » = locul de inspecție pentru bagaje și mărfuri.",
+          "complements": [
+            "Urmați semnele « Customs »",
+            "Pregătiți bagajele pentru inspecție"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "title": "Hotel & cazare",
+      "subtitle": "Sosire, cameră, servicii…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Am o rezervare pe numele meu",
+          "phonetic": "ai hev e re-zer-vei-șen an-der mai neim",
+          "grammar": "« Reservation » provine din latinescul « reservare ». « Under my name » = pe numele meu, formulă standard la recepție.",
+          "complements": [
+            "Fără rezervare: « I don't have a reservation »",
+            "Număr de confirmare: « Here is my confirmation number »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Aveți camere disponibile?",
+          "phonetic": "du iu hev e-ni rums e-vei-le-bl",
+          "grammar": "« Available » = disponibil. Întrebare standard pentru a obține o cameră fără rezervare prealabilă.",
+          "complements": [
+            "Precizați tipul: « a double room »",
+            "Pentru noaptea aceasta: « for tonight »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "La ce oră este check-in-ul?",
+          "phonetic": "uot taim is cek-in",
+          "grammar": "« Check-in » desemnează ora sosirii la hotel, diferită de « check-out ».",
+          "complements": [
+            "Sosire târzie: « late check-in »",
+            "Sosire devreme: « early check-in »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "La ce oră este check-out-ul?",
+          "phonetic": "uot taim is cek-aut",
+          "grammar": "« Check-out » = ora limită pentru eliberarea camerei.",
+          "complements": [
+            "Plecare târzie: « late check-out »",
+            "Depozitare bagaje: « luggage storage »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Micul dejun este inclus?",
+          "phonetic": "is brek-fast in-klu-did",
+          "grammar": "« Included » = inclus, participiul lui « include ».",
+          "complements": [
+            "Fără mic dejun: « room only »",
+            "Program: « What time is breakfast? »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Aș putea primi un prosop în plus, vă rog?",
+          "phonetic": "kud ai hev en eks-tra ta-uel pliz",
+          "grammar": "« Extra » = suplimentar. « Could I have… » formulă politicoasă de cerere.",
+          "complements": [
+            "Pernă: « an extra pillow »",
+            "Pătură: « an extra blanket »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Wi-Fi-ul nu funcționează",
+          "phonetic": "de uai-fai is not uor-king",
+          "grammar": "« Not working » = nu funcționează, formulă uzuală pentru a semnala o defecțiune.",
+          "complements": [
+            "Parolă: « What is the Wi-Fi password? »",
+            "Conexiune lentă: « The Wi-Fi is very slow »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Ați putea să-mi chemați un taxi, vă rog?",
+          "phonetic": "kud iu kol mi e tak-si pliz",
+          "grammar": "« Could you… » formulă politicoasă de cerere a unui serviciu.",
+          "complements": [
+            "Chiar acum: « right now »",
+            "La aeroport: « to the airport »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Există un seif în cameră?",
+          "phonetic": "is der e seif in de rum",
+          "grammar": "« Safe » = seif. Întrebare frecventă privind siguranța obiectelor de valoare.",
+          "complements": [
+            "Obiecte de valoare: « valuables »",
+            "La recepție: « Is there a safe at reception? »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Aș dori să-mi prelungesc șederea cu o noapte",
+          "phonetic": "ai uud laik tu eks-tend mai stei bai uan nait",
+          "grammar": "« Extend my stay » = a prelungi șederea. « By one night » = cu o noapte.",
+          "complements": [
+            "Încă o noapte: « one more night »",
+            "Disponibilitate: « Is the room available tomorrow too? »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "title": "Transport",
+      "subtitle": "Taxi, autobuz, tren, metrou…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Mă puteți duce la această adresă?",
+          "phonetic": "kän iu teik mi tu dis e-dräs",
+          "grammar": "« Can you take me to… » = formulă politicoasă pentru a cere o cursă cu taxiul.",
+          "complements": [
+            "La aeroport: « to the airport »",
+            "La hotelul meu: « to my hotel »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Cât costă să ajung în centrul orașului?",
+          "phonetic": "hau matci daz it kost tu ghet tu de si-ti sen-ter",
+          "grammar": "« How much does it cost… » = cât costă. « City center » = centrul orașului.",
+          "complements": [
+            "Pe aparatul de taxat: « on the meter »",
+            "Tarif fix: « a flat rate »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Unde este cea mai apropiată stație de autobuz?",
+          "phonetic": "uèr iz de nirest bas stop",
+          "grammar": "« Nearest » = cea mai apropiată, superlativul lui « near ».",
+          "complements": [
+            "Stație de tramvai: « tram stop »",
+            "Pe jos: « within walking distance »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "De unde pot cumpăra un bilet?",
+          "phonetic": "uèr kän ai bai e ti-ket",
+          "grammar": "« Ticket » = bilet. « Where can I… » formulă clasică pentru a localiza un serviciu.",
+          "complements": [
+            "De la automat: « at the machine »",
+            "Bilet simplu: « a one-way ticket »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Ce linie merge spre aeroport?",
+          "phonetic": "witci lain gous tu di er-port",
+          "grammar": "« Line » = linie (de metrou/autobuz). « Which… » introduce o alegere între mai multe opțiuni.",
+          "complements": [
+            "Linie directă: « a direct line »",
+            "Cu transfer: « with a transfer »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Acest tren oprește în gara centrală?",
+          "phonetic": "daz dis trein stop at de sen-tral stei-șen",
+          "grammar": "« Does this train stop at… » = structură interogativă standard cu « does ».",
+          "complements": [
+            "Oprirea următoare: « next stop »",
+            "Stația terminus: « last stop »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Ați putea opri aici, vă rog?",
+          "phonetic": "kud iu stop hir pliiz",
+          "grammar": "« Could you stop here » = formulă politicoasă pentru a cere șoferului o oprire precisă.",
+          "complements": [
+            "Puțin mai departe: « a bit further »",
+            "La colț: « at the corner »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Există o stație de metrou prin apropiere?",
+          "phonetic": "iz der e met-rou stei-șen nir-bai",
+          "grammar": "« Nearby » = prin apropiere. « Is there… » pentru a întreba dacă ceva există în vecinătate.",
+          "complements": [
+            "Ieșire din metrou: « subway exit »",
+            "Harta metroului: « metro map »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Aș dori să închiriez o mașină",
+          "phonetic": "ai uud laik tu rent e kar",
+          "grammar": "« Rent a car » = a închiria o mașină. « I would like to… » formulă politicoasă pentru a exprima o dorință.",
+          "complements": [
+            "Cu șofer: « with a driver »",
+            "Permis de conducere: « driving licence »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "La ce oră pleacă ultimul autobuz?",
+          "phonetic": "uot taim daz de last bas liiv",
+          "grammar": "« Last bus » = ultimul autobuz. « Leave » = a pleca.",
+          "complements": [
+            "Primul autobuz: « first bus »",
+            "Orar: « bus timetable »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "title": "Restaurant & cafenea",
+      "subtitle": "Comandă, plată, recomandări…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "O masă pentru două persoane, vă rog",
+          "phonetic": "e teibol for tu pliz",
+          "grammar": "« A table for two » = formulă standard pentru a rezerva o masă.",
+          "complements": [
+            "Pentru patru: « for four »",
+            "Lângă fereastră: « by the window »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Pot să văd meniul, vă rog?",
+          "phonetic": "can ai si de me-niu pliz",
+          "grammar": "« Can I see… » = formulă politicoasă pentru a cere ceva.",
+          "complements": [
+            "Lista de vinuri: « the wine list »",
+            "În engleză: « in English »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Ce îmi recomandați?",
+          "phonetic": "uot du iu re-co-mend",
+          "grammar": "« What do you recommend? » = întrebare clasică pentru a cere un sfat.",
+          "complements": [
+            "Specialitatea zilei: « today's special »",
+            "Desertul: « the dessert »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Aș dori să comand asta",
+          "phonetic": "ai wud laic tu order dis",
+          "grammar": "« I would like to order » = formulă politicoasă pentru a plasa o comandă.",
+          "complements": [
+            "Ca aperitiv: « to start »",
+            "Ca fel principal: « as a main course »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Sunt alergic la alune",
+          "phonetic": "ai am e-leur-djic tu pi-nats",
+          "grammar": "« I am allergic to… » = formulă esențială pentru a semnala o alergie.",
+          "complements": [
+            "La fructe de mare: « to shellfish »",
+            "La gluten: « to gluten »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Am putea avea niște apă, vă rog?",
+          "phonetic": "cud ui hav som uo-teur pliz",
+          "grammar": "« Could we have… » = formulă politicoasă pentru a cere ceva la plural.",
+          "complements": [
+            "Apă minerală: « sparkling water »",
+            "Pâine: « some bread »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Este delicios",
+          "phonetic": "dis iz de-li-cias",
+          "grammar": "« This is delicious » = formulă simplă pentru a complimenta un fel de mâncare.",
+          "complements": [
+            "Este prea picant: « it's too spicy »",
+            "Este perfect: « it's perfect »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Pot să primesc nota de plată, vă rog?",
+          "phonetic": "can ai hav de bil pliz",
+          "grammar": "« The bill » = nota de plată (engleză britanică; « check » în engleza americană).",
+          "complements": [
+            "Separat: « separately »",
+            "Totul împreună: « all together »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Acceptați carduri de credit?",
+          "phonetic": "du iu ac-sept cre-dit cards",
+          "grammar": "« Do you accept… » = structură interogativă standard cu « do ».",
+          "complements": [
+            "Cu numerar: « in cash »",
+            "Fără contact: « contactless »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Bacșișul este inclus?",
+          "phonetic": "iz de tip in-clu-did",
+          "grammar": "« Is the tip included? » = întrebare utilă deoarece obiceiurile diferă de la o țară la alta.",
+          "complements": [
+            "Serviciul inclus: « service included »",
+            "Cât să lași: « how much to leave »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "title": "Orientarea",
+      "subtitle": "Cum cer indicații, mă orientez…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Scuzați-mă, cum ajung în centrul orașului?",
+          "phonetic": "ex-kius mi hau du ai guet tu de siti senter",
+          "grammar": "« Excuse me » pentru a atrage atenția politicos. « How do I get to… » = formulă clasică pentru a cere indicații.",
+          "complements": [
+            "Mai scurt: « How do I get there? »",
+            "Pe jos: « on foot »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Este departe de aici?",
+          "phonetic": "iz it far from hir",
+          "grammar": "« Is it far from here? » = întrebare simplă despre distanță.",
+          "complements": [
+            "Foarte aproape: « very close »",
+            "La câteva minute: « a few minutes away »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Îmi puteți arăta pe hartă?",
+          "phonetic": "can iu chou mi on de map",
+          "grammar": "« Can you show me on the map? » = cerere politicoasă de ajutor vizual pentru orientare.",
+          "complements": [
+            "Pe telefonul meu: « on my phone »",
+            "Chiar aici: « right here »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Virați la stânga la următorul colț",
+          "phonetic": "tern left at de next korner",
+          "grammar": "« Turn left at… » = instrucțiune direcțională de bază.",
+          "complements": [
+            "La dreapta: « turn right »",
+            "La semafor: « at the traffic light »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Mergeți tot înainte",
+          "phonetic": "gou streit e-hed",
+          "grammar": "« Go straight ahead » = instrucțiune pentru a continua fără a vira.",
+          "complements": [
+            "Până la capăt: « until the end »",
+            "Ați ajuns: « you're there »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Se poate ajunge pe jos?",
+          "phonetic": "iz it widin uoking distens",
+          "grammar": "« Within walking distance » = expresie idiomatică pentru « accesibil pe jos ».",
+          "complements": [
+            "Cu mașina: « by car »",
+            "Cu bicicleta: « by bike »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Unde este cel mai apropiat reper turistic?",
+          "phonetic": "uer iz de nierest land-mark",
+          "grammar": "« Landmark » = monument sau reper. « Nearest » = cel mai apropiat.",
+          "complements": [
+            "Pe hartă: « on the map »",
+            "Cunoscut: « well-known »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Cred că m-am rătăcit",
+          "phonetic": "ai zink aim lost",
+          "grammar": "« I think I'm lost » = formulă esențială pentru a semnala că ai pierdut drumul.",
+          "complements": [
+            "Complet rătăcit: « totally lost »",
+            "Mă puteți ajuta?: « can you help me? »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Mi-ați putea indica direcția corectă?",
+          "phonetic": "cud iu point mi in de rait di-rec-shen",
+          "grammar": "« Point me in the right direction » = expresie idiomatică pentru a cere o orientare.",
+          "complements": [
+            "În ce direcție?: « which way? »",
+            "Tot înainte?: « straight ahead? »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Cât durează pe jos până acolo?",
+          "phonetic": "hau long daz it teic tu uoc der",
+          "grammar": "« How long does it take to… » = structură clasică pentru a întreba despre durată.",
+          "complements": [
+            "Cu autobuzul: « by bus »",
+            "Cu mașina: « by car »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "title": "Shopping",
+      "subtitle": "Cumpărături, probat haine, prețuri",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Cât costă asta?",
+          "phonetic": "hau maci daz dis cost",
+          "grammar": "« How much does this cost? » — « does » este auxiliarul la persoana a 3-a. Mai scurt: « How much is it? »",
+          "complements": [
+            "Scurt: « How much is this? »",
+            "Arătând: « How much for this one? »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Aveți asta la o mărime mai mare?",
+          "phonetic": "du iu hev dis in ə lar-djer saiz",
+          "grammar": "« Larger » este comparativul lui « large ». Se poate spune și « a size up ».",
+          "complements": [
+            "Mărime mai mică: « a smaller size »",
+            "Mărime specifică: « a size medium »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Pot să îl probez?",
+          "phonetic": "căn ai trai dis on",
+          "grammar": "« Try on » este un phrasal verb: a proba un articol de îmbrăcăminte.",
+          "complements": [
+            "Și: « Can I try it on? »",
+            "Pantofi: « Can I try these on? »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Unde este cabina de probă?",
+          "phonetic": "wer iz de fiting rum",
+          "grammar": "« Fitting room » (britanic) = cabină de probă. Și « changing room » (UK) sau « dressing room » (US).",
+          "complements": [
+            "Plural: « fitting rooms »",
+            "SUA: « Where's the dressing room? »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Aș dori să cumpăr asta",
+          "phonetic": "ai wud laik tu bai dis",
+          "grammar": "« I would like to buy this » — formă politicoasă. Prescurtare: « I'd like to buy this ».",
+          "complements": [
+            "Direct: « I'll take this »",
+            "Mai multe: « I'll take these »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "E prea scump",
+          "phonetic": "dis iz tu iks-pen-siv",
+          "grammar": "« Too » înaintea unui adjectiv exprimă excesul: « too expensive » = prea scump.",
+          "complements": [
+            "Variantă: « It's a bit pricey »",
+            "Foarte scump: « way too expensive »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Aveți ceva mai ieftin?",
+          "phonetic": "du iu hev eni-ting ci-per",
+          "grammar": "« Anything cheaper » — « cheaper » este comparativul lui « cheap » (ieftin).",
+          "complements": [
+            "Reduceri: « Is there a sale on? »",
+            "Accesibil: « something more affordable »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Pot primi un bon fiscal, vă rog?",
+          "phonetic": "căn ai guet ə ri-sit pliz",
+          "grammar": "« Receipt » — « p » este mut. « Can I get » este informal, dar foarte folosit.",
+          "complements": [
+            "Mai formal: « Could I have a receipt? »",
+            "Pentru retur: « I need a receipt »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Aș dori o rambursare",
+          "phonetic": "ai wud laik ə ri-faund",
+          "grammar": "« Refund » poate fi substantiv sau verb: « a refund » / « to refund ».",
+          "complements": [
+            "Schimb: « I'd like to exchange this »",
+            "Credit magazin: « Can I have store credit? »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Aveți asta în altă culoare?",
+          "phonetic": "du iu hev dis in ə-nă-der că-ler",
+          "grammar": "« Colour » (britanic) / « color » (american). « Another » precedă direct substantivul.",
+          "complements": [
+            "Culoare specifică: « in yellow? »",
+            "Mai multe: « in other colours? »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "title": "Sănătate și urgențe",
+      "subtitle": "Medic, farmacie, urgențe",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Am nevoie de un medic",
+          "phonetic": "ai nid eu doctor",
+          "grammar": "« I need a doctor » — structură simplă subiect + verb + complement, foarte utilă într-o urgență.",
+          "complements": [
+            "Mai direct: « I need help! »",
+            "Pentru o urgență vitală: « Call a doctor! »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Unde este cel mai apropiat spital?",
+          "phonetic": "uer iz de nirist hospital",
+          "grammar": "« nearest » este superlativul lui « near », „cel mai apropiat”.",
+          "complements": [
+            "Pentru o farmacie: « Where is the nearest pharmacy? »",
+            "Pentru o clinică: « Where is the nearest clinic? »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Este o urgență",
+          "phonetic": "its an emerdjensi",
+          "grammar": "« emergency » desemnează o situație de urgență; frază-cheie pentru a fi ajutat rapid.",
+          "complements": [
+            "Pentru a insista: « This is a real emergency! »",
+            "La telefon: « I'm calling about an emergency »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Nu mă simt bine",
+          "phonetic": "ai dont fil uel",
+          "grammar": "« feel well » = a se simți bine; negația « don't feel well » exprimă o stare generală de rău.",
+          "complements": [
+            "Mai puternic: « I feel really sick »",
+            "Pentru cap: « I feel dizzy »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Sunt alergic la penicilină",
+          "phonetic": "ai am alerdjik tu penisilin",
+          "grammar": "« allergic to » + numele alergenului; informație esențială pentru un medic.",
+          "complements": [
+            "Alergie alimentară: « I'm allergic to peanuts »",
+            "Formă scurtă: « I have a penicillin allergy »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Ați putea chema o ambulanță, vă rog?",
+          "phonetic": "cud iu col an ambiulans pliz",
+          "grammar": "« Could you... please? » este o formulă politicoasă pentru a cere ajutor urgent.",
+          "complements": [
+            "Mai direct: « Call an ambulance! »",
+            "Numărul de urgență: « What's the emergency number? »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Mi-am pierdut medicamentele",
+          "phonetic": "ai hav lost mai medikeișăns",
+          "grammar": "« I have lost » este present perfect, folosit pentru o pierdere recentă cu efect prezent.",
+          "complements": [
+            "Pentru o rețetă: « I have lost my prescription »",
+            "« lose » (a pierde) devine « lost » la trecut"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Unde este cea mai apropiată farmacie?",
+          "phonetic": "uer iz de nirist farmăsi",
+          "grammar": "Aceeași structură ca la spital, cu « pharmacy » în loc de « hospital ».",
+          "complements": [
+            "Pentru un medicament anume: « Do you have this medicine? »",
+            "« chemist's » este echivalentul britanic al lui « pharmacy »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Mă doare capul",
+          "phonetic": "ai hav e hedeik",
+          "grammar": "« I have a headache » — structura « I have a... » foarte folosită pentru a exprima o durere.",
+          "complements": [
+            "Durere de stomac: « I have a stomachache »",
+            "Durere în gât: « I have a sore throat »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Vă rog ajutați-mă",
+          "phonetic": "plis help mi",
+          "grammar": "« Please help me » — imperativ politicos cu « please » la început pentru a insista.",
+          "complements": [
+            "Mai scurt: « Help! »",
+            "Pentru a explica: « Please help me, I'm lost »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "title": "Interacțiuni sociale",
+      "subtitle": "Cunoaște oameni, păstrează legătura",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Îmi pare bine de cunoștință",
+          "phonetic": "nais tu mit iu",
+          "grammar": "« Nice to meet you » — formulă standard folosită la o primă întâlnire.",
+          "complements": [
+            "Mai informal: « Good to meet you »",
+            "Ca răspuns: « Nice to meet you too »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Cum te numești?",
+          "phonetic": "uots ior neim",
+          "grammar": "« What's your name? » — întrebare directă pentru a afla numele cuiva.",
+          "complements": [
+            "Formă politicoasă: « May I ask your name? »",
+            "Răspuns tipic: « My name is... »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Mă numesc...",
+          "phonetic": "mai neim is",
+          "grammar": "« My name is... » — structură simplă pentru a te prezenta.",
+          "complements": [
+            "Mai scurt: « I'm... »",
+            "Prezentare completă: « My name is John Smith »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "De unde ești?",
+          "phonetic": "uer ar iu from",
+          "grammar": "« Where are you from? » — întrebare clasică pentru a afla originea cuiva.",
+          "complements": [
+            "Mai precis: « Which city are you from? »",
+            "Răspuns tipic: « I'm from... »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Sunt din Franța",
+          "phonetic": "aim from frans",
+          "grammar": "« I'm from... » + țară/oraș, structură de bază pentru a indica originea.",
+          "complements": [
+            "Pentru un oraș: « I'm from Paris »",
+            "Variantă: « I come from France »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Ce mai faci?",
+          "phonetic": "hau ar iu",
+          "grammar": "« How are you? » — formulă de politețe foarte des întâlnită după o prezentare.",
+          "complements": [
+            "Informal: « How's it going? »",
+            "Foarte informal: « What's up? »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Sunt bine, mulțumesc",
+          "phonetic": "aim fain zenk iu",
+          "grammar": "« I'm fine, thank you » — răspuns standard la « How are you? ».",
+          "complements": [
+            "Mai entuziast: « I'm great, thanks! »",
+            "Pentru a întoarce întrebarea: « And you? »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Pot să fac o poză cu tine?",
+          "phonetic": "kan ai teik e foto wiz iu",
+          "grammar": "« Can I... ? » este o formulă politicoasă pentru a cere o permisiune.",
+          "complements": [
+            "Mai direct: « Can we take a photo together? »",
+            "Pentru a fotografia pe altcineva: « Can I take your photo? »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Să păstrăm legătura",
+          "phonetic": "lets stei in tac",
+          "grammar": "« Let's... » propune o acțiune comună; « stay in touch » înseamnă « a păstra legătura ».",
+          "complements": [
+            "Pentru a schimba datele de contact: « Can we exchange numbers? »",
+            "Pe rețele sociale: « Are you on Instagram? »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "O zi minunată",
+          "phonetic": "hav e greit dei",
+          "grammar": "« Have a great day » — formulă de politețe pentru a ura o zi bună la despărțire.",
+          "complements": [
+            "Seara: « Have a great evening »",
+            "Mai simplu: « Have a good day »"
+          ]
+        }
+      ]
+    }
+  ]
+}

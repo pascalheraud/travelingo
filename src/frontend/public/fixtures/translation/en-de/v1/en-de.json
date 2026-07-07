@@ -1,0 +1,243 @@
+{
+  "uuid": "en-v1-de",
+  "learningPackRef": "en-v1",
+  "targetLang": "en",
+  "sourceLang": "de",
+  "version": "v1",
+  "createdAt": "2026-06-28T17:32:02.000Z",
+  "lessons": [
+    {
+      "id": "l01",
+      "title": "Höflichkeit & Grundlagen",
+      "subtitle": "Begrüßung, Danke…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Hallo",
+          "phonetic": "hé-lo",
+          "grammar": "Das universellste englische Wort. Jederzeit und überall verwendbar.",
+          "complements": [
+            "Informell: « Hi! »",
+            "Sehr informell: « Hey! »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Vielen Dank",
+          "phonetic": "sänk-ju ve-ri mötsch",
+          "grammar": "Vollständiger und herzlicher Ausdruck. « Thank » kommt vom altnordischen « þakka ».",
+          "complements": [
+            "Kurz: « Thanks! »",
+            "Informell: « Cheers! » (UK)"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Bitte",
+          "phonetic": "pliis",
+          "grammar": "Zauberwort auf Englisch. Immer am Ende des Satzes für mehr Höflichkeit.",
+          "complements": [
+            "Am Ende: « A coffee, please »",
+            "Am Anfang: « Please help me »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Entschuldigung",
+          "phonetic": "ex-kjus mi",
+          "grammar": "Dient zum Anreden oder Durchkommen. Anders als « Sorry » (Entschuldigung/Bedauern).",
+          "complements": [
+            "Um durchzukommen: « Excuse me »",
+            "Für echte Entschuldigungen: « I'm sorry »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Ich verstehe nicht",
+          "phonetic": "ai dont anda-ständ",
+          "grammar": "Wesentlicher Reisesatz. « Understand » kommt vom altenglischen « understandan ».",
+          "complements": [
+            "Variante: « I'm sorry, I don't understand »",
+            "Bitten: « Could you speak more slowly? »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Auf Wiedersehen",
+          "phonetic": "gut-bai",
+          "grammar": "Historische Kontraktion von « God be with you ». Universelle Abschiedsformel.",
+          "complements": [
+            "Kurz: « Bye! »",
+            "Bis später: « See you later! »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Guten Abend",
+          "phonetic": "gut i-we-ning",
+          "grammar": "Gruß ab 17-18 Uhr. « Evening » kommt vom altenglischen « æfen ».",
+          "complements": [
+            "Morgen: « Good morning »",
+            "Nachmittag: « Good afternoon »",
+            "Nacht: « Good night »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Wo ist die Toilette?",
+          "phonetic": "wier is de toi-let",
+          "grammar": "Universell praktische Frage. In UK « toilet », in USA « restroom ».",
+          "complements": [
+            "USA: « Where is the restroom? »",
+            "UK informell: « Where is the loo? »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Wie viel kostet es?",
+          "phonetic": "hau mötsch das it kost",
+          "grammar": "Grundfrage des Reisenden. « How much » für Unzählbares, « How many » für Zählbares.",
+          "complements": [
+            "Kurz: « How much? »",
+            "Rabatt: « Can you give me a discount? »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Sprechen Sie Französisch?",
+          "phonetic": "du ju spiik frentsch",
+          "grammar": "Schlüsselfrage, um einen Französischsprecher zu finden.",
+          "complements": [
+            "Andere Sprache: « Do you speak German? »",
+            "Antwort: « A little / Not very well »"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "title": "Flughafen & Flüge",
+      "subtitle": "Check-in, Boarding…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Wo ist der Check-in-Schalter?",
+          "phonetic": "wier is de tchek-in desk",
+          "grammar": "« Check-in desk » ist der Schalter, an dem man vor dem Flug einchecken kann.",
+          "complements": [
+            "Online-Check-in: « online check-in »",
+            "Gepäckabgabe: « baggage drop »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Ich habe einen Koffer aufzugeben",
+          "phonetic": "ai häv uan sut-keis tu tchek in",
+          "grammar": "« Suitcase » = Koffer. « Check in » wird hier als Verb verwendet (Gepäck aufgeben).",
+          "complements": [
+            "Handgepäck: « hand luggage »",
+            "Aufgegebenes Gepäck: « checked baggage »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Wo ist Gate 12?",
+          "phonetic": "wier is gueit tu-elv",
+          "grammar": "« Gate » bezeichnet das Boarding-Gate am Flughafen.",
+          "complements": [
+            "Boarding: « boarding »",
+            "Flugnummer: « flight number »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Ist dieser Platz besetzt?",
+          "phonetic": "is dis sit teikn",
+          "grammar": "« Seat » = Sitzplatz. « Taken » = besetzt, Partizip von « take ».",
+          "complements": [
+            "Frei: « Is this seat free? »",
+            "Fragen: « Excuse me, is this seat taken? »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Kann ich einen Fensterplatz haben?",
+          "phonetic": "ken ai häv e win-dou sit",
+          "grammar": "« Window seat » ist der Fensterplatz, im Gegensatz zu « aisle seat » (Gangplatz).",
+          "complements": [
+            "Gangplatz: « aisle seat »",
+            "Wechseln: « Can I change my seat? »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Mein Flug hat Verspätung",
+          "phonetic": "mai flait is di-leid",
+          "grammar": "« Delayed » = verspätet, Partizip von « delay ».",
+          "complements": [
+            "Annulliert: « My flight is cancelled »",
+            "Pünktlich: « My flight is on time »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Ich habe einen Anschlussflug",
+          "phonetic": "ai häv e ke-nek-ting flait",
+          "grammar": "« Connecting flight » bezeichnet einen Anschlussflug, im Gegensatz zu « direct flight ».",
+          "complements": [
+            "Direktflug: « direct flight »",
+            "Verpasster Anschluss: « I missed my connection »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Wo ist die Gepäckausgabe?",
+          "phonetic": "wier is de bag-id cleim",
+          "grammar": "« Baggage claim » ist der Ort, an dem man sein Gepäck nach dem Flug abholt.",
+          "complements": [
+            "Verlorenes Gepäck: « My luggage is lost »",
+            "Gepäckwagen: « Where can I find a luggage cart? »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Ich habe nichts zu verzollen",
+          "phonetic": "ai häv no-thing tu di-kler",
+          "grammar": "« Nothing to declare » ist die Standardformel beim Zoll.",
+          "complements": [
+            "Etwas zu verzollen: « I have something to declare »",
+            "Zoll: « customs »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Zeigen Sie mir bitte Ihren Pass",
+          "phonetic": "plis cho mi yor pas-port",
+          "grammar": "Formel der Zoll-/Einwanderungsbeamten; « show me » + direktes Objekt.",
+          "complements": [
+            "Bordkarte: « boarding pass »",
+            "Visum: « Do you have a visa? »"
+          ]
+        }
+      ]
+    }
+    ,
+    {
+      "id": "l03",
+      "title": "Zoll & Einreise",
+      "subtitle": "Häufige Fragen bei der Grenzkontrolle",
+      "phrases": [
+        { "id": "p001", "source": "Was ist der Zweck Ihrer Reise?", "phonetic": "wat is se pör-pos of yor trip", "grammar": "Standardfrage bei der Einreise: 'purpose' = Reisezweck.", "complements": ["Tourismus: 'tourism'","Geschäftlich: 'business'"] },
+        { "id": "p002", "source": "Wie lange werden Sie bleiben?", "phonetic": "hau long uil ju bi steï-ing", "grammar": "Dauer des Aufenthalts erfragen; 'stay' = Aufenthaltsdauer.", "complements": ["Kurzaufenthalt: 'a few days'","Länger: 'several months'"] },
+        { "id": "p003", "source": "Wo ist die Passkontrolle?", "phonetic": "wer is pass-port kon-trol", "grammar": "'Passport control' = Bereich zur Überprüfung von Reisedokumenten.", "complements": ["Folgen Sie den Schildern 'Passport Control'","Bereich meist in 'Arrivals'"] },
+        { "id": "p004", "source": "Darf ich bitte Ihren Pass sehen?", "phonetic": "mei ai si yor pass-port pliis", "grammar": "Höfliche Bitte um Ausweis; 'May I' = höfliche Formel.", "complements": ["Antwort: 'Here you go'","Pass prüfen: Foto und Unterschrift"] },
+        { "id": "p005", "source": "Haben Sie etwas zu verzollen?", "phonetic": "du ju häv e-ni-sing tu di-klär", "grammar": "Zollfrage: 'to declare' = Waren melden, die zollpflichtig sind.", "complements": ["Ja: 'I have something to declare'","Nein: 'Nothing to declare'"] },
+        { "id": "p006", "source": "Ich habe verschreibungspflichtige Medikamente dabei.", "phonetic": "ai äm ke-ri-ing pre-skrip-schn me-di-sin", "grammar": "'Prescription medicine' = Medikamente, die ärztlich verschrieben sind.", "complements": ["Rezept mitführen","Medikamentenverpackung vorzeigen"] },
+        { "id": "p007", "source": "Ich bin hier, um meine Familie zu besuchen.", "phonetic": "ai äm hier tu wi-sit fä-mi-li", "grammar": "'To visit family' = häufiger Einreisegrund bei Touristen.", "complements": ["Adresse angeben","Einladung vorlegen, falls vorhanden"] },
+        { "id": "p008", "source": "Haben Sie ein Rück- oder Weiterflugticket?", "phonetic": "du ju häv e ri-törn or on-wörd ti-ket", "grammar": "Oft verlangt: Nachweis, dass man das Land wieder verlässt; 'return/onward ticket'.", "complements": ["Hin- und Rückflug: 'return ticket'","Weiterreise-Ticket: 'onward ticket'"] },
+        { "id": "p009", "source": "Führen Sie Lebensmittel, Pflanzen oder tierische Produkte mit?", "phonetic": "ar ju ke-ri-ing fuud plants or a-ni-mel pro-dakts", "grammar": "Lebensmittel und Pflanzen werden häufig kontrolliert und können verboten sein.", "complements": ["Nahrung deklarieren: 'food'","Pflanzen oft eingeschränkt"] },
+        { "id": "p010", "source": "Wohin soll ich zur Zollinspektion gehen?", "phonetic": "wer schud ai go for kas-tums in-spek-schn", "grammar": "'Customs inspection' = Bereich für Waren- und Gepäckkontrolle.", "complements": ["Schilder 'Customs' folgen","Gepäck bereithalten"] }
+      ]
+    }
+  ]
+}

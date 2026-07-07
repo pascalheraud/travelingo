@@ -1,0 +1,16 @@
+$card-title-gap:  12px;
+
+.card {
+  background:    $color-surface;
+  border:        $border-card;
+  border-radius: $radius-lg;
+  padding:       $card-inset-padding;
+  box-shadow:    $shadow-sm;
+}
+
+.title {
+  font-size:     $font-size-lg;
+  font-weight:   $font-weight-bold;
+  color:         $color-text-primary;
+  margin-bottom: $card-title-gap;
+}

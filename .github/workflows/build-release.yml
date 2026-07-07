@@ -1,0 +1,80 @@
+name: Build Release AAB
+
+on:
+  workflow_dispatch:
+    inputs:
+      version_name:
+        description: "Version name (e.g. 1.0.0)"
+        required: true
+      version_code:
+        description: "Version code (integer, incremented each release)"
+        required: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: src/frontend/.nvmrc
+          cache: npm
+          cache-dependency-path: src/frontend/package-lock.json
+
+      - name: Setup Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+
+      - name: Setup Gradle cache
+        uses: gradle/actions/setup-gradle@v3
+
+      - name: Install frontend dependencies
+        working-directory: src/frontend
+        run: npm ci
+
+      - name: Build Vite app (production assets, CDN = GitHub Pages)
+        working-directory: src/frontend
+        run: npm run build
+
+      - name: Capacitor sync
+        working-directory: src/frontend
+        run: npx cap sync android
+
+      - name: Decode keystore
+        run: echo "${{ secrets.KEYSTORE_BASE64 }}" | base64 -d > /tmp/release.keystore
+
+      - name: Build release AAB
+        working-directory: src/frontend/android
+        env:
+          VERSION_NAME: ${{ inputs.version_name }}
+          VERSION_CODE: ${{ inputs.version_code }}
+          KEYSTORE_PATH: /tmp/release.keystore
+          KEYSTORE_PASSWORD: ${{ secrets.KEYSTORE_PASSWORD }}
+          KEY_ALIAS: ${{ secrets.KEY_ALIAS }}
+          KEY_PASSWORD: ${{ secrets.KEY_PASSWORD }}
+        run: |
+          ./gradlew bundleRelease \
+            -PversionName=$VERSION_NAME \
+            -PversionCode=$VERSION_CODE \
+            -Pandroid.injected.signing.store.file=$KEYSTORE_PATH \
+            -Pandroid.injected.signing.store.password=$KEYSTORE_PASSWORD \
+            -Pandroid.injected.signing.key.alias=$KEY_ALIAS \
+            -Pandroid.injected.signing.key.password=$KEY_PASSWORD
+
+      - name: Verify AAB signature
+        run: |
+          AAB=src/frontend/android/app/build/outputs/bundle/release/app-release.aab
+          echo "AAB size: $(du -sh $AAB | cut -f1)"
+
+      - name: Upload AAB artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: travelingo-release-${{ inputs.version_name }}-${{ inputs.version_code }}
+          path: src/frontend/android/app/build/outputs/bundle/release/app-release.aab
+          retention-days: 90

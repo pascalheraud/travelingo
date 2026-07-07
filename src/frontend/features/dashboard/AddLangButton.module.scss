@@ -1,0 +1,21 @@
+$btn-icon-gap: 8px;
+
+.btn {
+  display:         flex;
+  align-items:     center;
+  justify-content: center;
+  gap:             $btn-icon-gap;
+  width:           100%;
+  padding:         $card-inset-padding;
+  background:      $color-surface;
+  border:          2px dashed $color-border-accent;
+  border-radius:   $radius-lg;
+  font-size:       $font-size-lg;
+  font-weight:     $font-weight-bold;
+  color:           $color-primary-hover;
+  transition:      border-color $transition-fast;
+
+  &:hover {
+    border-color: $color-primary;
+  }
+}

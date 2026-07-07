@@ -1,0 +1,16 @@
+$screen-padding-y: 16px;
+$section-gap:      16px;
+$list-gap:         12px;
+
+.screen {
+  padding:        $screen-padding-y $screen-padding-x;
+  display:        flex;
+  flex-direction: column;
+  gap:            $section-gap;
+}
+
+.list {
+  display:        flex;
+  flex-direction: column;
+  gap:            $list-gap;
+}

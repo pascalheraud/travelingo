@@ -1,0 +1,115 @@
+{
+  "uuid": "es-v1-de",
+  "learningPackRef": "es-v1",
+  "targetLang": "es",
+  "sourceLang": "de",
+  "version": "v1",
+  "createdAt": "2026-01-01T00:00:00.000Z",
+  "lessons": [
+    {
+      "id": "l01",
+      "title": "Höflichkeit & Grundlagen",
+      "subtitle": "Begrüßung, Danke…",
+      "phrases": [
+        {
+          "id": "p001",
+          "source": "Hallo",
+          "phonetic": "o-la",
+          "grammar": "Universeller spanischer Gruß, jederzeit und in jedem Kontext.",
+          "complements": [
+            "Sehr informell: « ¡Ey! »",
+            "Formeller Morgengruß: « Buenos días »"
+          ]
+        },
+        {
+          "id": "p002",
+          "source": "Vielen Dank",
+          "phonetic": "mu-tschas gra-thias",
+          "grammar": "« Muchas » = sehr viele (femininer Plural). « Gracias » vom Lateinischen « gratia ».",
+          "complements": [
+            "Einfach: « Gracias »",
+            "Antwort: « De nada »"
+          ]
+        },
+        {
+          "id": "p003",
+          "source": "Bitte",
+          "phonetic": "por fa-wor",
+          "grammar": "Wörtlich « für die Gunst ». Im Spanischen unverzichtbar, immer am Ende einer Bitte.",
+          "complements": [
+            "Am Anfang: « Por favor, ¿puede ayudarme? »"
+          ]
+        },
+        {
+          "id": "p004",
+          "source": "Entschuldigung",
+          "phonetic": "per-do-ne",
+          "grammar": "Formelle Form von « perdonar » (verzeihen). Um Aufmerksamkeit zu erregen.",
+          "complements": [
+            "Informell: « Perdona »",
+            "Starke Entschuldigung: « Lo siento mucho »"
+          ]
+        },
+        {
+          "id": "p005",
+          "source": "Ich verstehe nicht",
+          "phonetic": "no en-tjen-do",
+          "grammar": "« Entender » vom Lateinischen « intendere ». Einfache Verneinung mit « no ».",
+          "complements": [
+            "Variante: « No comprendo »",
+            "Bitten: « ¿Puede hablar más despacio? »"
+          ]
+        },
+        {
+          "id": "p006",
+          "source": "Auf Wiedersehen",
+          "phonetic": "a-djos",
+          "grammar": "Wörtlich « zu Gott ». Gleiche Etymologie wie französisch « adieu ».",
+          "complements": [
+            "Informell: « ¡Hasta luego! »",
+            "Bis bald: « ¡Hasta pronto! »"
+          ]
+        },
+        {
+          "id": "p007",
+          "source": "Guten Abend / Gute Nacht",
+          "phonetic": "bwenas no-tsches",
+          "grammar": "Auf Spanisch dient « buenas noches » sowohl als Abendgruß ALS AUCH als Gutenacht-Formel.",
+          "complements": [
+            "Morgen: « Buenos días »",
+            "Nachmittag: « Buenas tardes »"
+          ]
+        },
+        {
+          "id": "p008",
+          "source": "Wo ist das Badezimmer?",
+          "phonetic": "dón-de es-ta el ban-jo",
+          "grammar": "« Baño » = Badezimmer auf Spanisch. « ¿Dónde está? » = wo ist (Singular).",
+          "complements": [
+            "Formell: « ¿Dónde están los servicios? »"
+          ]
+        },
+        {
+          "id": "p009",
+          "source": "Wie viel kostet es?",
+          "phonetic": "kuanto kuesta",
+          "grammar": "« Cuánto » = wie viel. « Costar » = kosten. Unregelmäßiges Verb.",
+          "complements": [
+            "Plural: « ¿Cuánto cuestan? »",
+            "Rabatt: « ¿Me puede hacer un descuento? »"
+          ]
+        },
+        {
+          "id": "p010",
+          "source": "Sprechen Sie Französisch?",
+          "phonetic": "ab-la fran-thes",
+          "grammar": "« Hablar » = sprechen. Formelle Form (usted). Informell: « ¿Hablas francés? ».",
+          "complements": [
+            "Informell: « ¿Hablas francés? »",
+            "Andere Sprache: « ¿Habla inglés? »"
+          ]
+        }
+      ]
+    }
+  ]
+}

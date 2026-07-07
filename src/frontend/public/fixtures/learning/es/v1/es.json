@@ -1,0 +1,168 @@
+{
+  "uuid": "es-v1",
+  "targetLang": "es",
+  "version": "v1",
+  "createdAt": "2026-06-30T00:00:00.000Z",
+  "lessons": [
+    {
+      "id": "l01",
+      "emoji": "💬",
+      "phrases": [
+        { "id": "p001", "target": "Hola", "audio": "p01_001_v1.mp3" },
+        { "id": "p002", "target": "Muchas gracias", "audio": "p01_002_v1.mp3" },
+        { "id": "p003", "target": "Por favor", "audio": "p01_003_v1.mp3" },
+        { "id": "p004", "target": "Perdone", "audio": "p01_004_v1.mp3" },
+        { "id": "p005", "target": "No entiendo", "audio": "p01_005_v1.mp3" },
+        { "id": "p006", "target": "Adiós", "audio": "p01_006_v1.mp3" },
+        { "id": "p007", "target": "Buenas noches", "audio": "p01_007_v1.mp3" },
+        { "id": "p008", "target": "¿Dónde está el baño?", "audio": "p01_008_v1.mp3" },
+        { "id": "p009", "target": "¿Cuánto cuesta?", "audio": "p01_009_v1.mp3" },
+        { "id": "p010", "target": "¿Habla francés?", "audio": "p01_010_v1.mp3" }
+      ]
+    },
+    {
+      "id": "l02",
+      "emoji": "✈️",
+      "phrases": [
+        { "id": "p001", "target": "¿Dónde está el mostrador de facturación?", "audio": "p02_001_v1.mp3" },
+        { "id": "p002", "target": "Tengo una maleta para facturar", "audio": "p02_002_v1.mp3" },
+        { "id": "p003", "target": "¿Dónde está la puerta número doce?", "audio": "p02_003_v1.mp3" },
+        { "id": "p004", "target": "¿Está ocupado este asiento?", "audio": "p02_004_v1.mp3" },
+        { "id": "p005", "target": "¿Puedo tener un asiento de ventanilla?", "audio": "p02_005_v1.mp3" },
+        { "id": "p006", "target": "Mi vuelo está retrasado", "audio": "p02_006_v1.mp3" },
+        { "id": "p007", "target": "Tengo un vuelo de conexión", "audio": "p02_007_v1.mp3" },
+        { "id": "p008", "target": "¿Dónde está la recogida de equipajes?", "audio": "p02_008_v1.mp3" },
+        { "id": "p009", "target": "No tengo nada que declarar", "audio": "p02_009_v1.mp3" },
+        { "id": "p010", "target": "Muéstreme su pasaporte, por favor", "audio": "p02_010_v1.mp3" }
+      ]
+    },
+    {
+      "id": "l03",
+      "emoji": "🛂",
+      "phrases": [
+        { "id": "p001", "target": "¿Cuál es el motivo de su viaje?", "audio": "p03_001_v1.mp3" },
+        { "id": "p002", "target": "¿Cuánto tiempo va a quedarse?", "audio": "p03_002_v1.mp3" },
+        { "id": "p003", "target": "¿Dónde está el control de pasaportes?", "audio": "p03_003_v1.mp3" },
+        { "id": "p004", "target": "¿Me permite ver su pasaporte, por favor?", "audio": "p03_004_v1.mp3" },
+        { "id": "p005", "target": "¿Lleva algo que declarar?", "audio": "p03_005_v1.mp3" },
+        { "id": "p006", "target": "Llevo medicamentos con receta.", "audio": "p03_006_v1.mp3" },
+        { "id": "p007", "target": "Vengo a visitar a mi familia.", "audio": "p03_007_v1.mp3" },
+        { "id": "p008", "target": "¿Tiene billete de vuelta o de continuación?", "audio": "p03_008_v1.mp3" },
+        { "id": "p009", "target": "¿Lleva alimentos, plantas o productos animales?", "audio": "p03_009_v1.mp3" },
+        { "id": "p010", "target": "¿Dónde debo ir para la inspección de aduanas?", "audio": "p03_010_v1.mp3" }
+      ]
+    },
+    {
+      "id": "l04",
+      "emoji": "🏨",
+      "phrases": [
+        { "id": "p001", "target": "Tengo una reserva a mi nombre", "audio": "p04_001_v1.mp3" },
+        { "id": "p002", "target": "¿Tiene habitaciones disponibles?", "audio": "p04_002_v1.mp3" },
+        { "id": "p003", "target": "¿A qué hora es el check-in?", "audio": "p04_003_v1.mp3" },
+        { "id": "p004", "target": "¿A qué hora es el check-out?", "audio": "p04_004_v1.mp3" },
+        { "id": "p005", "target": "¿Está incluido el desayuno?", "audio": "p04_005_v1.mp3" },
+        { "id": "p006", "target": "¿Me puede traer una toalla extra, por favor?", "audio": "p04_006_v1.mp3" },
+        { "id": "p007", "target": "El wifi no funciona", "audio": "p04_007_v1.mp3" },
+        { "id": "p008", "target": "¿Me puede pedir un taxi, por favor?", "audio": "p04_008_v1.mp3" },
+        { "id": "p009", "target": "¿Hay caja fuerte en la habitación?", "audio": "p04_009_v1.mp3" },
+        { "id": "p010", "target": "Me gustaría ampliar mi estancia una noche más", "audio": "p04_010_v1.mp3" }
+      ]
+    },
+    {
+      "id": "l05",
+      "emoji": "🚕",
+      "phrases": [
+        { "id": "p001", "target": "¿Puede llevarme a esta dirección?", "audio": "p05_001_v1.mp3" },
+        { "id": "p002", "target": "¿Cuánto cuesta ir al centro?", "audio": "p05_002_v1.mp3" },
+        { "id": "p003", "target": "¿Dónde está la parada de autobús más cercana?", "audio": "p05_003_v1.mp3" },
+        { "id": "p004", "target": "¿Dónde puedo comprar un billete?", "audio": "p05_004_v1.mp3" },
+        { "id": "p005", "target": "¿Qué línea va al aeropuerto?", "audio": "p05_005_v1.mp3" },
+        { "id": "p006", "target": "¿Este tren para en la estación central?", "audio": "p05_006_v1.mp3" },
+        { "id": "p007", "target": "Pare aquí, por favor", "audio": "p05_007_v1.mp3" },
+        { "id": "p008", "target": "¿Hay una estación de metro cerca?", "audio": "p05_008_v1.mp3" },
+        { "id": "p009", "target": "Me gustaría alquilar un coche", "audio": "p05_009_v1.mp3" },
+        { "id": "p010", "target": "¿A qué hora sale el último autobús?", "audio": "p05_010_v1.mp3" }
+      ]
+    },
+    {
+      "id": "l06",
+      "emoji": "🍽️",
+      "phrases": [
+        { "id": "p001", "target": "Una mesa para dos, por favor", "audio": "p06_001_v1.mp3" },
+        { "id": "p002", "target": "¿Me puede traer la carta, por favor?", "audio": "p06_002_v1.mp3" },
+        { "id": "p003", "target": "¿Qué me recomienda?", "audio": "p06_003_v1.mp3" },
+        { "id": "p004", "target": "Quisiera pedir esto", "audio": "p06_004_v1.mp3" },
+        { "id": "p005", "target": "Soy alérgico a los cacahuetes", "audio": "p06_005_v1.mp3" },
+        { "id": "p006", "target": "¿Nos puede traer agua, por favor?", "audio": "p06_006_v1.mp3" },
+        { "id": "p007", "target": "Está delicioso", "audio": "p06_007_v1.mp3" },
+        { "id": "p008", "target": "La cuenta, por favor", "audio": "p06_008_v1.mp3" },
+        { "id": "p009", "target": "¿Aceptan tarjeta de crédito?", "audio": "p06_009_v1.mp3" },
+        { "id": "p010", "target": "¿Está incluida la propina?", "audio": "p06_010_v1.mp3" }
+      ]
+    },
+    {
+      "id": "l07",
+      "emoji": "🗺️",
+      "phrases": [
+        { "id": "p001", "target": "Perdone, ¿cómo se va al centro?", "audio": "p07_001_v1.mp3" },
+        { "id": "p002", "target": "¿Está lejos de aquí?", "audio": "p07_002_v1.mp3" },
+        { "id": "p003", "target": "¿Me lo puede indicar en el mapa?", "audio": "p07_003_v1.mp3" },
+        { "id": "p004", "target": "Gire a la izquierda en la próxima esquina", "audio": "p07_004_v1.mp3" },
+        { "id": "p005", "target": "Siga todo recto", "audio": "p07_005_v1.mp3" },
+        { "id": "p006", "target": "¿Se puede ir andando?", "audio": "p07_006_v1.mp3" },
+        { "id": "p007", "target": "¿Dónde está el monumento más cercano?", "audio": "p07_007_v1.mp3" },
+        { "id": "p008", "target": "Creo que me he perdido", "audio": "p07_008_v1.mp3" },
+        { "id": "p009", "target": "¿Me puede orientar?", "audio": "p07_009_v1.mp3" },
+        { "id": "p010", "target": "¿Cuánto se tarda a pie?", "audio": "p07_010_v1.mp3" }
+      ]
+    },
+    {
+      "id": "l08",
+      "emoji": "🛒",
+      "phrases": [
+        { "id": "p001", "target": "¿Cuánto cuesta esto?", "audio": "p08_001_v1.mp3" },
+        { "id": "p002", "target": "¿Lo tiene en una talla más grande?", "audio": "p08_002_v1.mp3" },
+        { "id": "p003", "target": "¿Me lo puedo probar?", "audio": "p08_003_v1.mp3" },
+        { "id": "p004", "target": "¿Dónde está el probador?", "audio": "p08_004_v1.mp3" },
+        { "id": "p005", "target": "Me llevo esto", "audio": "p08_005_v1.mp3" },
+        { "id": "p006", "target": "Es demasiado caro", "audio": "p08_006_v1.mp3" },
+        { "id": "p007", "target": "¿Tiene algo más barato?", "audio": "p08_007_v1.mp3" },
+        { "id": "p008", "target": "¿Me puede dar un recibo, por favor?", "audio": "p08_008_v1.mp3" },
+        { "id": "p009", "target": "Quisiera que me devolvieran el dinero", "audio": "p08_009_v1.mp3" },
+        { "id": "p010", "target": "¿Lo tiene en otro color?", "audio": "p08_010_v1.mp3" }
+      ]
+    },
+    {
+      "id": "l09",
+      "emoji": "🏥",
+      "phrases": [
+        { "id": "p001", "target": "Necesito un médico", "audio": "p09_001_v1.mp3" },
+        { "id": "p002", "target": "¿Dónde está el hospital más cercano?", "audio": "p09_002_v1.mp3" },
+        { "id": "p003", "target": "Es una emergencia", "audio": "p09_003_v1.mp3" },
+        { "id": "p004", "target": "No me encuentro bien", "audio": "p09_004_v1.mp3" },
+        { "id": "p005", "target": "Soy alérgico a la penicilina", "audio": "p09_005_v1.mp3" },
+        { "id": "p006", "target": "¿Puede llamar a una ambulancia, por favor?", "audio": "p09_006_v1.mp3" },
+        { "id": "p007", "target": "He perdido mi medicación", "audio": "p09_007_v1.mp3" },
+        { "id": "p008", "target": "¿Dónde está la farmacia más cercana?", "audio": "p09_008_v1.mp3" },
+        { "id": "p009", "target": "Me duele la cabeza", "audio": "p09_009_v1.mp3" },
+        { "id": "p010", "target": "Ayúdeme, por favor", "audio": "p09_010_v1.mp3" }
+      ]
+    },
+    {
+      "id": "l10",
+      "emoji": "🤝",
+      "phrases": [
+        { "id": "p001", "target": "Mucho gusto", "audio": "p10_001_v1.mp3" },
+        { "id": "p002", "target": "¿Cómo se llama usted?", "audio": "p10_002_v1.mp3" },
+        { "id": "p003", "target": "Me llamo...", "audio": "p10_003_v1.mp3" },
+        { "id": "p004", "target": "¿De dónde es usted?", "audio": "p10_004_v1.mp3" },
+        { "id": "p005", "target": "Soy de Francia", "audio": "p10_005_v1.mp3" },
+        { "id": "p006", "target": "¿Cómo está usted?", "audio": "p10_006_v1.mp3" },
+        { "id": "p007", "target": "Bien, gracias", "audio": "p10_007_v1.mp3" },
+        { "id": "p008", "target": "¿Me puedo hacer una foto con usted?", "audio": "p10_008_v1.mp3" },
+        { "id": "p009", "target": "Mantengámonos en contacto", "audio": "p10_009_v1.mp3" },
+        { "id": "p010", "target": "Que tenga un buen día", "audio": "p10_010_v1.mp3" }
+      ]
+    }
+  ]
+}

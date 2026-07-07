@@ -1,0 +1,28 @@
+$chip-icon-gap: 8px;
+$chip-padding:  12px;
+
+.chip {
+  display:         flex;
+  flex-direction:  column;
+  align-items:     center;
+  gap:             $chip-icon-gap;
+  padding:         $chip-padding;
+  border:          $border-card;
+  border-radius:   $radius-md;
+  cursor:          pointer;
+  transition:      border-color $transition-fast, background $transition-fast;
+
+  &:hover { background: $color-primary-light; }
+
+  &.selected {
+    border-color: $color-primary;
+    background:   $color-primary-light;
+  }
+}
+
+.label {
+  font-size:   $font-size-sm;
+  font-weight: $font-weight-medium;
+  color:       $color-text-primary;
+  text-align:  center;
+}
