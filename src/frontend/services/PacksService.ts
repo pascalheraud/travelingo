@@ -134,6 +134,7 @@ export class PacksService {
     );
 
     const learningRes = await fetch(`${CDN_BASE}/learning/${targetLang}/${learningVersion}/${targetLang}.json`);
+    if (!learningRes.ok) throw new Error(`Failed to fetch learning pack: ${learningRes.status}`);
     const learningPack: LearningPack = await learningRes.json();
     onProgress(40);
 

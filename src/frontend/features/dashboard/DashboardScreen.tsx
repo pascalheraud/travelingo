@@ -110,6 +110,10 @@ export function DashboardScreen({
     window.location.reload();
   }
 
+  function handleDevHideDevtools() {
+    document.body.setAttribute('data-hide-devtools', '');
+  }
+
   function LangCardEntry(code: TargetLangCode) {
     return (
       <DashboardLangCard
@@ -156,6 +160,7 @@ export function DashboardScreen({
       {import.meta.env.DEV && (
         <DevPanel>
           <DevPanelButton label="Reset all data" onClick={handleDevResetAll} />
+          <DevPanelButton label="Hide devtools" onClick={handleDevHideDevtools} />
         </DevPanel>
       )}
     </AppLayout>

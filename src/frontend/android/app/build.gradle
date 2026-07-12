@@ -1,10 +1,10 @@
 apply plugin: 'com.android.application'
 
 android {
-    namespace "com.travelingo.app"
+    namespace "ovh.heraud.travelingo"
     compileSdk rootProject.ext.compileSdkVersion
     defaultConfig {
-        applicationId "com.travelingo.app"
+        applicationId "ovh.heraud.travelingo"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

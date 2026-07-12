@@ -1,4 +1,4 @@
-package com.travelingo.app;
+package ovh.heraud.travelingo;
 
 import android.os.Bundle;
 import androidx.activity.EdgeToEdge;

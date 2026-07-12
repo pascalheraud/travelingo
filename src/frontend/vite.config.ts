@@ -12,7 +12,7 @@ export default defineConfig({
       configureServer(server) {
         const fixturesDir = path.resolve(__dirname, '../fixtures');
         server.middlewares.use('/fixtures', (req, res, next) => {
-          const filePath = path.join(fixturesDir, req.url ?? '');
+          const filePath = path.join(fixturesDir, (req.url ?? '').split('?')[0]);
           if (!filePath.startsWith(fixturesDir)) { next(); return; }
           if (!fs.existsSync(filePath) || fs.statSync(filePath).isDirectory()) { next(); return; }
           const ext = path.extname(filePath);

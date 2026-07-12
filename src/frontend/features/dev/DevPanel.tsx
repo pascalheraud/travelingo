@@ -10,12 +10,12 @@ export function DevPanel({ children }: DevPanelProps) {
 
   if (!open) {
     return (
-      <button className={styles.toggle} onClick={() => setOpen(true)}>🛠️</button>
+      <button data-devtools className={styles.toggle} onClick={() => setOpen(true)}>🛠️</button>
     );
   }
 
   return (
-    <div className={styles.panel}>
+    <div data-devtools className={styles.panel}>
       <span className={styles.label}>Dev tools</span>
       {children}
       <button className={styles.btn} onClick={() => setOpen(false)}>✕</button>

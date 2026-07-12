@@ -4,7 +4,7 @@ import type { CapacitorConfig } from '@capacitor/cli';
 import { SystemBarsStyle } from '@capacitor-community/safe-area';
 
 const config: CapacitorConfig = {
-  appId: 'com.travelingo.app',
+  appId: 'ovh.heraud.travelingo',
   appName: 'Travelingo',
   webDir: 'dist',
   plugins: {
