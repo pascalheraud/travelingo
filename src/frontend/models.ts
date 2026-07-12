@@ -14,10 +14,9 @@ export type SourceTranslations = Partial<Record<SourceLangCode, string>>;
 
 /** Language definition (source or target) */
 export interface Language {
-  code:      LangCode;
-  flag:      string;                          // flag emoji
-  names:     Record<SourceLangCode, string>;  // name translated per source language
-  available: boolean;
+  code:  LangCode;
+  flag:  string;                          // flag emoji
+  names: Record<SourceLangCode, string>;  // name translated per source language
 }
 
 // ── Packs ─────────────────────────────────────────────────────

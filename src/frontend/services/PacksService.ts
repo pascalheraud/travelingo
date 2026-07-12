@@ -91,26 +91,26 @@ export class PacksService {
   }
 
   /**
-   * Fetches the learning + translation pack pair from `public/fixtures` (a stand-in
-   * for a real CDN) and persists them to IndexedDB. Reports coarse progress since
-   * fetch doesn't expose byte-level progress for these small JSON payloads.
+   * Fetches the learning + translation pack pair from the CDN and persists them
+   * to IndexedDB. Reports coarse progress since fetch doesn't expose byte-level
+   * progress for these small JSON payloads.
    *
    * Pack JSON is archived per version folder, per `doc/initial-spec.md` §5.2/§5.3:
-   * `public/fixtures/learning/{targetLang}/v{N}/{targetLang}.json` and
-   * `public/fixtures/translation/{targetLang}-{sourceLang}/v{N}/{targetLang}-{sourceLang}.json`.
+   * `{CDN}/learning/{targetLang}/v{N}/{targetLang}.json` and
+   * `{CDN}/translation/{targetLang}-{sourceLang}/v{N}/{targetLang}-{sourceLang}.json`.
    * `learningVersion`/`translationVersion` select which archived version to fetch
    * (callers read these from the manifest's `LearningPackRef`).
    *
    * Audio is NOT versioned per pack folder — unlike the JSON, re-publishing a pack
    * version never duplicates unchanged MP3s. Recordings live in one flat,
-   * un-versioned folder per target language (`public/fixtures/learning/{targetLang}/audio/{lessonId}/`),
+   * un-versioned folder per target language (`{CDN}/learning/{targetLang}/audio/{lessonId}/`),
    * and each individual file's own version is encoded in its filename
    * (`{phrase.audio}`, e.g. `p01_003_v2.mp3`). The pack JSON's `phrases[].audio` field
    * always names the exact current file for that phrase — fixing one phrase's audio
    * adds a new `_v{N+1}.mp3` file and bumps the pack version, but every other
    * phrase's filename (and file) stays untouched.
    * Phrases without a recording yet (most languages/lessons so far) fall back to the
-   * shared placeholder file (`public${CDN_BASE}/audio/placeholder.mp3`).
+   * shared placeholder file (`{CDN}/audio/placeholder.mp3`).
    */
   /**
    * Downloads the learning pack JSON + all audio files (the heavy part of a pack install).

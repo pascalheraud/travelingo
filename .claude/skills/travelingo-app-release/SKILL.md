@@ -10,7 +10,7 @@ Inputs: current `appVersion` and `LEARNING_LANGUAGES`/`USER_LANGUAGES` in `src/f
 
 ## Steps
 
-1. **Verify the CDN archive wasn't mutated.** Per `doc/initial-spec.md` §5.3/§5.6, every already-published pack version folder and every already-published audio file are permanent and append-only — a release must never ship a change to something previously published. Check, for every existing `vN` folder under `src/frontend/public/fixtures/learning/*/v*/` and `src/frontend/public/fixtures/translation/*/v*/`:
+1. **Verify the CDN archive wasn't mutated.** Per `doc/initial-spec.md` §5.3/§5.6, every already-published pack version folder and every already-published audio file are permanent and append-only — a release must never ship a change to something previously published. Check, for every existing `vN` folder under `src/fixtures/learning/*/v*/` and `src/fixtures/translation/*/v*/`:
    - The JSON content of any version folder that was already part of a previous release is byte-for-byte unchanged (`git diff` against the last release commit/tag for those paths should be empty). If it isn't, stop and ask the user — this is exactly the mistake the versioning scheme exists to prevent (it means a pack was "fixed in place" instead of getting a new version folder, see [[travelingo-pack-generation]]).
    - No file under `learning/*/audio/**/*.mp3` was deleted or had its bytes changed. New `pLL_NNN_v{M+1}.mp3` files are fine (additive); a `pLL_NNN_v{M}.mp3` changing or disappearing is not.
    - Any new `v{N+1}` folder or new audio file is exactly what should differ — that's the actual content of this release, not a violation.
@@ -21,7 +21,7 @@ Inputs: current `appVersion` and `LEARNING_LANGUAGES`/`USER_LANGUAGES` in `src/f
 
 4. **Typecheck.** Run `npx tsc --noEmit` in `src/frontend` after any edit (never bare `tsc`, see [[travelingo]]).
 
-5. **CDN publication (GitHub Pages).** After the archive verification passes, publish the new/changed packs to the CDN via the GitHub Actions workflow **"Publish CDN (GitHub Pages)"** (`.github/workflows/publish-cdn.yml`) — trigger it manually from the Actions tab for each affected lang/lesson pair. The CDN base URL is `https://pascalheraud.github.io/travelingo/`, served from the `gh-pages` branch. The workflow syncs `src/frontend/public/fixtures/` (committed to `main`) to `gh-pages` — no secrets required, no audio generation. Do not manually push to `gh-pages`.
+5. **CDN publication (GitHub Pages).** After the archive verification passes, publish the new/changed packs to the CDN via the GitHub Actions workflow **"Publish CDN (GitHub Pages)"** (`.github/workflows/publish-cdn.yml`) — trigger it manually from the Actions tab for each affected lang/lesson pair. The CDN base URL is `https://pascalheraud.github.io/travelingo/`, served from the `gh-pages` branch. The workflow syncs `src/fixtures/` (committed to `main`) to `gh-pages` — no secrets required, no audio generation. Do not manually push to `gh-pages`.
 
 6. **App build.** Once the CDN is updated, trigger the appropriate GitHub Actions workflow:
    - **Debug APK** (QA / internal testing): **"Build Dev APK"** (`.github/workflows/build-dev.yml`) — also triggered automatically on every push to `main`.
@@ -29,7 +29,7 @@ Inputs: current `appVersion` and `LEARNING_LANGUAGES`/`USER_LANGUAGES` in `src/f
 
 ## CDN / env config
 
-- Dev: `VITE_CDN_BASE_URL=http://localhost:5173/fixtures` (`.env.development`) — assets served from `src/frontend/public/fixtures/` by Vite dev server.
+- Dev: `VITE_CDN_BASE_URL=http://localhost:5173/fixtures` (`.env.development`) — assets served from `src/fixtures/` by Vite dev server.
 - Prod: `VITE_CDN_BASE_URL=https://pascalheraud.github.io/travelingo` (`.env.production`) — injected at `npm run build`, consumed in `PacksService.ts`.
 - See `README-CDN.md` at repo root for the full CDN developer guide.
 
