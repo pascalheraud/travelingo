@@ -2,12 +2,13 @@ import { fireEvent, render, screen } from '@testing-library/react';
 import { DevPanel, DevPanelButton } from './DevPanel';
 
 describe('DevPanel', () => {
-  it('renders the dev tools label and its children', () => {
+  it('renders the dev tools label and its children when open', () => {
     render(
       <DevPanel>
         <span>Child content</span>
       </DevPanel>,
     );
+    fireEvent.click(screen.getByText('🛠️'));
     expect(screen.getByText('Dev tools')).toBeInTheDocument();
     expect(screen.getByText('Child content')).toBeInTheDocument();
   });

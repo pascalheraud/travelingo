@@ -104,10 +104,6 @@ export function DashboardScreen({
     navigate(ROUTES.packManager);
   }
 
-  function handleOpenAbout() {
-    navigate(ROUTES.about);
-  }
-
   async function handleDevResetAll() {
     await idbService.clearAll();
     localStorage.clear();
@@ -128,7 +124,7 @@ export function DashboardScreen({
   }
 
   return (
-    <AppLayout onLangClick={handleOpenPicker} onPackManagerClick={handleOpenPackManager} onAboutClick={handleOpenAbout}>
+    <AppLayout onLangClick={handleOpenPicker} onPackManagerClick={handleOpenPackManager}>
       <div className={styles.screen}>
         {activeLanguages.length > 0 && (
           <>

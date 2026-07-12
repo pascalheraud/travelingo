@@ -1,87 +1,86 @@
-# Travelingo — Phase Publication sur le store Android
+# Travelingo — Phase 2: Google Play Store Publication
 
-**Langue du code et de la documentation :** English (code and docs in English).
+## Context
 
-## Objectif
+Phase 1 is complete: the React/Vite/Capacitor 8 app runs on a real Android device, the debug APK build is automated via GitHub Actions (`build-dev.yml`), icons/splash screen are in place, and Android back button / safe area are handled. Phase 2 covers only what remains to publish on the Play Store.
 
-Préparer et valider la publication Google Play d'une application Android Capacitor 6 basée sur Travelingo. Cette phase couvre la production d'un AAB signé, la configuration des métadonnées Play Store et la mise en place d'un workflow de build/release sécurisé.
+## Already done (Phase 1)
 
-## Ce qui est attendu
+- React/Vite functional, Capacitor 8 synced, `android/` generated.
+- `capacitor.config.ts` correct (`appId: com.travelingo.app`, no `server.url`).
+- Icons and splash screen generated for all Android densities.
+- `AndroidManifest.xml` clean (Kotlin stdlib conflict resolved).
+- Debug APK tested on a real device (Sprint 10, round 1).
+- CI workflows: `build-dev.yml` (auto debug APK on push) and `build-release.yml` (signed AAB, manual trigger).
+- CDN workflow: `publish-cdn.yml` (GitHub Pages, manual trigger).
 
-- Build Android Capacitor 6 stable et testable.
-- AAB de production signé prêt pour le Play Store.
-- Fiche Play Store complète : description, captures écran, icônes, politique de confidentialité.
-- GitHub Actions de release avec gestion sécurisée du keystore.
-- Données produit conformes : analytics contrôlé, monitoring natif, politique de confidentialité accessible.
+## Remaining steps
 
-## Pré-requis
+### 1. Round 2 — real device testing
 
-- Application React/Vite fonctionnelle pour la cible Android.
-- Capacitor 6 installé et synchronisé avec le projet.
-- `android` platform déjà ajoutée.
-- Structure de navigation prête : support React Router et compatibilité avec le bouton Android Back.
-- Identifiants de version Android configurés : `versionCode`, `versionName`, `minSdkVersion`, `targetSdkVersion`.
+Validate the round 1 fixes (installed in session 10, awaiting user feedback) and handle round 2 feedback before releasing. Block the release if critical regressions are reported.
 
-## Étapes de préparation Android
+### 2. CDN archive integrity check
 
-1. Vérifier la configuration Capacitor
-   - `capacitor.config.ts` ou `capacitor.config.json` correct.
-   - `server.url` retiré en production.
-   - `appId`, `appName`, icônes et splash screen définis.
+Per `doc/initial-spec.md` §5.3/§5.6 — before any release build, verify that:
 
-2. Synchroniser le Web build vers Android
-   - `npm run build`
-   - `npx cap sync android`
+- No file under `src/fixtures/learning/*/v*/` or `src/fixtures/translation/*/v*/` already published has been modified (`git diff` against the first commit for those paths must be empty).
+- No existing `audio/**/*.mp3` file has been deleted or had its bytes changed.
+- New `v{N+1}/` folders or new `.mp3` files are the only allowed differences.
 
-3. Tester l'application en mode debug
-   - `npx cap open android`
-   - construire et installer un APK debug.
-   - vérifier l'affichage, le WebView, le back button et le stockage IndexedDB.
+If a mutation is found: revert it and create a new version folder instead of rewriting an existing one.
 
-4. Vérifier les assets Android
-   - icônes app valides pour toutes les densités.
-   - `AndroidManifest.xml` sans erreurs.
-   - ressources de splash screen et thème Android valides.
+### 3. CDN publication (GitHub Pages)
 
-5. Configurer la signature
-   - générer ou réutiliser un keystore sécurisé.
-   - stocker les secrets dans GitHub Actions : `KEYSTORE_BASE64`, `KEYSTORE_PASSWORD`, `KEY_ALIAS`, `KEY_PASSWORD`.
+Trigger **"Publish CDN (GitHub Pages)"** (`publish-cdn.yml`) manually from the Actions tab on `main`. Verify fixtures are accessible at `https://pascalheraud.github.io/travelingo/`.
 
-## Publication Play Store
+### 4. Keystore and GitHub secrets
 
-- Choisir AAB comme format de production.
-- Préparer une fiche produit claire et concise.
-- Ajouter captures écran et icônes correspondantes.
-- Ajouter la politique de confidentialité et la mention de l'analytics si utilisé.
-- Remplir la page Data Safety selon les dépendances et la collecte de données.
-- Générer des notes de version alignées sur le contenu et les fonctionnalités.
+Generate (or retrieve) the production keystore, then add the following to GitHub → Settings → Secrets → Actions:
 
-## Workflow GitHub Actions recommandé
+- `KEYSTORE_BASE64` — base64-encoded keystore
+- `KEYSTORE_PASSWORD`
+- `KEY_ALIAS`
+- `KEY_PASSWORD`
 
-- `build-dev.yml` : build debug APK pour tests rapides.
-- `build-release.yml` : build release AAB signé pour Play Store.
+### 5. Release AAB build
 
-Le workflow release doit :
+Trigger **"Build Release AAB"** (`build-release.yml`) manually with:
 
-- installer Node.js et dépendances,
-- compiler l'app Vite,
-- exécuter `npx cap sync android`,
-- construire l'AAB Android,
-- signer et vérifier l'AAB,
-- publier l'artefact sur une GitHub Release ou un stockage sécurisé.
+- `version_name`: `1.0.0`
+- `version_code`: `1`
 
-## Contrôles qualité spécifiques Android
+Download the signed AAB from the GitHub artifacts and verify it (`apksigner verify`).
 
-- Back button Android fonctionnel et non bloquant.
-- WebView Android charge l'app depuis `capacitor://localhost/`.
-- Test sur appareil réel ou émulateur mid-range.
-- Aucun élément fixe empêchant l'accès au clavier.
-- Sentry et analytics activés uniquement en production.
-- Politique de confidentialité accessible depuis l'app.
+### 6. Play Store listing
 
-## Ce qui reste Phase 2
+Required elements for submission:
 
-- Toute extension multilingue de contenu (packs cibles FR, ES, IT, DE, RO).
-- Tout nouveau flux métier ajouté après l'architecture de navigation.
-- Les écrans de test de placement et les éventuelles fonctionnalités vocales.
-- Les adaptions UI/UX spécifiques aux langues cibles supplémentaires.
+- **Short description** (80 chars) and **full description** (4,000 chars).
+- **Screenshots**: minimum 2 per form factor (phone, optionally tablet) — Dashboard, Quiz, LangHome screens at minimum.
+- **High-res icon**: 512×512 PNG (already in `assets-src/`).
+- **Privacy policy**: publicly accessible URL (must be hosted — current `href="#"` are placeholders).
+- **Data Safety**: declare data collected/shared per dependencies (Sentry if enabled, analytics if added).
+- **Release notes** (What's new) for version 1.0.0.
+
+### 7. Analytics and monitoring (optional before release)
+
+- Sentry and analytics must be enabled **in production only** (`import.meta.env.PROD`).
+- If not configured before the initial release, document their absence in the Data Safety form.
+
+## Pre-submission checklist
+
+- [ ] Round 2 device feedback validated (no blocking regressions).
+- [ ] CDN archive integrity verified (step 2).
+- [ ] CDN published and accessible (step 3).
+- [ ] Signed AAB produced and verified (step 5).
+- [ ] Privacy policy accessible at a public URL.
+- [ ] `npx tsc --noEmit` clean in `src/frontend`.
+- [ ] Full Vitest suite green (327 tests).
+
+## Out of scope for Phase 2
+
+- Multilingual content expansion (target packs FR, ES, IT, DE, RO) → next phase.
+- Placement test → Phase 4 (decided in Phase 1).
+- Voice features → later phase.
+- iOS / App Store publication → later phase.
